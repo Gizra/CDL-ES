@@ -42,4 +42,4 @@ node_modules
 app/data
 app/pages
 Gemfile.lock
-.idea/workspace.xml
+.idea
