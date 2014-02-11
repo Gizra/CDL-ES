@@ -420,23 +420,23 @@ module.exports = function (grunt) {
         overwrite: true,
         replacements: [{
           from: '<link rel="stylesheet" href="css/',
-          to: '<link rel="stylesheet" href="//gizra.github.io/ces/css/'
+          to: '<link rel="stylesheet" href="//gizra.github.io/CDL-ES/css/'
         },
         {
           from: '<script src="js/',
-          to: '<script src="//gizra.github.io/ces/js/'
+          to: '<script src="//gizra.github.io/CDL-ES/js/'
         },
         {
           from: '<script src="/js/',
-          to: '<script src="//gizra.github.io/ces/js/'
+          to: '<script src="//gizra.github.io/CDL-ES/js/'
         },
         {
           from: 'url(/fonts/',
-          to: 'url(http://gizra.github.io/ces/fonts/'
+          to: 'url(http://gizra.github.io/CDL-ES/fonts/'
         },
         {
           from: 'url(/images/',
-          to: 'url(http://gizra.github.io/ces/images/'
+          to: 'url(http://gizra.github.io/CDL-ES/images/'
         }]
       }
     },
