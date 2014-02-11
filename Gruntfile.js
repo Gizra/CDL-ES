@@ -1023,6 +1023,8 @@ module.exports = function (grunt) {
             item.name = item.name.replace(/.PNG|.JPG/, attachment.format);
             // Remove extension value from the name.
             item.name = item.name.replace(attachment.format, '');
+            // URL Encoding.
+            item.name = decodeURI(item.name);
             attachmentsParsed.images.push(item);
           }
           else if (attachment.format === '.mp3') {
