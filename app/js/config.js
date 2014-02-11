@@ -19,7 +19,7 @@
      */
     this.chart = {
       initial: {
-        x: function(width) { return -width * 0.03;},
+        x: function(width) { return -width * -0.03;},
         y: function(height) { return height * 0.35;},
         minZoom: 0.60,
         maxZoom: 5,
@@ -82,11 +82,11 @@
           r: 50
         },
         data: {
-          name: 'LA BIBLIOTECA NACIONAL DE ISRAEL: DEPÓSITO DE MEMORIA',
+          name: 'THE NATIONAL LIBRARY OF ISRAEL: A MEMORY DEPOSIT',
           x: 600,
           y: -150,
           styleNode: 'translation',
-          url: 'http://10.0.0.200:8000/#/es'
+          url: 'http://gizra.github.io/CDL'
         }
       }
     };
