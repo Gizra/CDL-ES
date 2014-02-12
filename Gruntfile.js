@@ -920,6 +920,9 @@ module.exports = function (grunt) {
       tree = nodesIndexed[firstNode];
       tree.children = [];
 
+      // Add "node.name" to escape HTML entities in YAML.
+      tree.name = he.decode(tree.name);
+
       tree.children = getChilds(tree);
 
       return tree;
