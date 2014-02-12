@@ -420,23 +420,23 @@ module.exports = function (grunt) {
         overwrite: true,
         replacements: [{
           from: '<link rel="stylesheet" href="css/',
-          to: '<link rel="stylesheet" href="//gizra.github.io/ces/css/'
+          to: '<link rel="stylesheet" href="//gizra.github.io/CDL-ES/css/'
         },
         {
           from: '<script src="js/',
-          to: '<script src="//gizra.github.io/ces/js/'
+          to: '<script src="//gizra.github.io/CDL-ES/js/'
         },
         {
           from: '<script src="/js/',
-          to: '<script src="//gizra.github.io/ces/js/'
+          to: '<script src="//gizra.github.io/CDL-ES/js/'
         },
         {
           from: 'url(/fonts/',
-          to: 'url(http://gizra.github.io/ces/fonts/'
+          to: 'url(http://gizra.github.io/CDL-ES/fonts/'
         },
         {
           from: 'url(/images/',
-          to: 'url(http://gizra.github.io/ces/images/'
+          to: 'url(http://gizra.github.io/CDL-ES/images/'
         }]
       }
     },
@@ -1024,8 +1024,9 @@ module.exports = function (grunt) {
             // Remove extension value from the name.
             item.name = item.name.replace(attachment.format, '');
             // URL Encoding.
-            item.name = he.unescape(item.name);
-            item.src = he.unescape(item.src);
+            item.name = he.decode(item.name);
+            item.src = he.decode(item.src, {isAttributeValue: true});
+
             attachmentsParsed.images.push(item);
           }
           else if (attachment.format === '.mp3') {
