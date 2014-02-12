@@ -310,7 +310,20 @@ module.exports = function (grunt) {
           dot: true,
           cwd: 'brain/files',
           src: '**/*.{jpg,JPG,png,PNG,gif,jpeg,webp,tiff,mp3,wav,avi,mp4}',
-          dest: '<%= yeoman.app %>/pages'
+          dest: '<%= yeoman.app %>/pages',
+          rename: function(dest, src) {
+            var attachments = grunt.config.get('CDL.attachments'),
+              newFilename;
+
+            newFilename = src;
+            if (typeof attachments[src] !== 'undefined') {
+              newFilename = attachments[src].guid + attachments[src].format;
+              grunt.log.writeln([newFilename, src.split('/')[1], dest + src.replace(src.split('/')[1], newFilename)]);
+            }
+
+
+            return dest + '/' + src.replace(src.split('/')[1], newFilename);
+          }
         }]
       }
     },
@@ -462,6 +475,7 @@ module.exports = function (grunt) {
       nodesLinks = [],
       nodesEntries = [],
       nodesAttachments = [],
+      nodesAttachmentsByFilename = [],
       firstNode,
       tree = {},
       brain;
@@ -563,7 +577,6 @@ module.exports = function (grunt) {
           return result;
         };
 
-
         return {
           /**
            * Return the guid of the root node.
@@ -649,10 +662,23 @@ module.exports = function (grunt) {
         entry.objectID = entry.EntryObjects.EntryObject.objectID;
       });
       nodesEntries = _.indexBy(nodesEntries, 'objectID');
+
+      nodesAttachmentsByFilename = nodesAttachments;
+      _.each(nodesAttachmentsByFilename, function(node) {
+        node.location = he.decode(node.location).replace(/\\/, '/');
+      });
+
       // Index attachments.
       nodesAttachments = _.groupBy(nodesAttachments, function(item) {
         return item.objectID;
       });
+
+      nodesAttachmentsByFilename = _.indexBy(nodesAttachmentsByFilename, 'location');
+
+      grunt.config.set('CDL.attachments', nodesAttachmentsByFilename);
+
+      grunt.log.writeln(JSON.stringify(nodesAttachmentsByFilename));
+
 
       // Prepare the root of the tree.
       nodes = _.without(nodes, nodesIndexed[firstNode]);
