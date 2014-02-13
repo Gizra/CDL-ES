@@ -15,7 +15,7 @@
      "objectID": "403D55C8-4B15-4985-CB9F-6A8D5646BE79",
      "name": "El Diario de Basch, p.4, BNI.jpg",
      "attachmentType": "1",
-     "location": "403D55C8-4B15-4985-CB9F-6A8D5646BE79\\El Diario de Basch, p.4, BNI.jpg",
+     "location": "403D55C8-4B15-4985-CB9F-6A8D5646BE79/ElDiariodeBaschp.4BNI.jpg",
      "dataLength": "246348",
      "format": ".jpg"
     },
@@ -27,7 +27,7 @@
      "objectID": "403D55C8-4B15-4985-CB9F-6A8D5646BE79",
      "name": "Una foto de la familia Basch, 1930s.jpg",
      "attachmentType": "1",
-     "location": "403D55C8-4B15-4985-CB9F-6A8D5646BE79\\Una foto de la familia Basch, 1930s.jpg",
+     "location": "403D55C8-4B15-4985-CB9F-6A8D5646BE79/UnafotodelafamiliaBasch1930s.jpg",
      "dataLength": "68672",
      "format": ".jpg"
     }
@@ -84,7 +84,7 @@
        "objectID": "016140EA-7FBC-4959-0C2E-4C0F883530AD",
        "name": "Libro de Rezos para D&#237;as Festivos de Worms (Mahzor Worms), 1272, Simhah ben Yehudah el Escriba.jpg",
        "attachmentType": "1",
-       "location": "016140EA-7FBC-4959-0C2E-4C0F883530AD\\Libro de Rezos para D&#237;as Festivos de Worms (Mahzor Worms), 1272, Simhah ben Yehudah el Escriba.jpg",
+       "location": "016140EA-7FBC-4959-0C2E-4C0F883530AD/LibrodeRezosparaDasFestivosdeWorms(MahzorWorms)1272SimhahbenYehudahelEscriba.jpg",
        "dataLength": "218632",
        "format": ".jpg"
       },
@@ -96,7 +96,7 @@
        "objectID": "016140EA-7FBC-4959-0C2E-4C0F883530AD",
        "name": "Libro de Rezos para D&#237;as Festivos de Worms (Mahzor Worms), 1272, Simhah ben Yehudah el Escriba, primera p&#225;gina.jpg",
        "attachmentType": "1",
-       "location": "016140EA-7FBC-4959-0C2E-4C0F883530AD\\Libro de Rezos para D&#237;as Festivos de Worms (Mahzor Worms), 1272, Simhah ben Yehudah el Escriba, primera p&#225;gina.jpg",
+       "location": "016140EA-7FBC-4959-0C2E-4C0F883530AD/LibrodeRezosparaDasFestivosdeWorms(MahzorWorms)1272SimhahbenYehudahelEscribaprimerapgina.jpg",
        "dataLength": "194784",
        "format": ".jpg"
       },
@@ -108,7 +108,7 @@
        "objectID": "016140EA-7FBC-4959-0C2E-4C0F883530AD",
        "name": "Libro de Rezos para D&#237;as Festivos de Worms (Mahzor Worms), 1272, Simhah ben Yehudah el Escriba, Festival de Purim.jpg",
        "attachmentType": "1",
-       "location": "016140EA-7FBC-4959-0C2E-4C0F883530AD\\Libro de Rezos para D&#237;as Festivos de Worms (Mahzor Worms), 1272, Simhah ben Yehudah el Escriba, Festival de Purim.jpg",
+       "location": "016140EA-7FBC-4959-0C2E-4C0F883530AD/LibrodeRezosparaDasFestivosdeWorms(MahzorWorms)1272SimhahbenYehudahelEscribaFestivaldePurim.jpg",
        "dataLength": "209211",
        "format": ".jpg"
       },
@@ -120,7 +120,7 @@
        "objectID": "016140EA-7FBC-4959-0C2E-4C0F883530AD",
        "name": "Libro de Rezos para D&#237;as Festivos de Worms (Mahzor Worms), 1272, Simhah ben Yehudah el Escriba, &apos;Va Yohav&apos;.jpg",
        "attachmentType": "1",
-       "location": "016140EA-7FBC-4959-0C2E-4C0F883530AD\\Libro de Rezos para D&#237;as Festivos de Worms (Mahzor Worms), 1272, Simhah ben Yehudah el Escriba, &apos;Va Yohav&apos;.jpg",
+       "location": "016140EA-7FBC-4959-0C2E-4C0F883530AD/LibrodeRezosparaDasFestivosdeWorms(MahzorWorms)1272SimhahbenYehudahelEscribaVaYohav.jpg",
        "dataLength": "184159",
        "format": ".jpg"
       }
@@ -158,7 +158,7 @@
          "objectID": "F8A8EC39-68D8-ECCF-6F51-12C17F60061D",
          "name": "Ha Tikva - El Himno Nacional Israel&#237;, un aut&#243;grafo de N.H. Imber.jpg",
          "attachmentType": "1",
-         "location": "F8A8EC39-68D8-ECCF-6F51-12C17F60061D\\Ha Tikva - El Himno Nacional Israel&#237;, un aut&#243;grafo de N.H. Imber.jpg",
+         "location": "F8A8EC39-68D8-ECCF-6F51-12C17F60061D/HaTikva-ElHimnoNacionalIsraelunautgrafodeN.H.Imber.jpg",
          "dataLength": "78126",
          "format": ".jpg"
         }
@@ -186,7 +186,7 @@
        "objectID": "CB8A2990-88AF-CFC3-80F0-4AAB42999E55",
        "name": "Today&apos;s Tiachiv.jpg",
        "attachmentType": "1",
-       "location": "CB8A2990-88AF-CFC3-80F0-4AAB42999E55\\Today&apos;s Tiachiv.jpg",
+       "location": "CB8A2990-88AF-CFC3-80F0-4AAB42999E55/TodaysTiachiv.jpg",
        "dataLength": "61618",
        "format": ".jpg"
       },
@@ -198,7 +198,7 @@
        "objectID": "CB8A2990-88AF-CFC3-80F0-4AAB42999E55",
        "name": "The Jewish cemetery in Tiachiv.jpg",
        "attachmentType": "1",
-       "location": "CB8A2990-88AF-CFC3-80F0-4AAB42999E55\\The Jewish cemetery in Tiachiv.jpg",
+       "location": "CB8A2990-88AF-CFC3-80F0-4AAB42999E55/TheJewishcemeteryinTiachiv.jpg",
        "dataLength": "110331",
        "format": ".jpg"
       },
@@ -222,7 +222,7 @@
        "objectID": "CB8A2990-88AF-CFC3-80F0-4AAB42999E55",
        "name": "Mapa de las comunidades Jud&#237;as antes del Holocausto en el territorio de la actual Ucrania.jpg",
        "attachmentType": "1",
-       "location": "CB8A2990-88AF-CFC3-80F0-4AAB42999E55\\Mapa de las comunidades Jud&#237;as antes del Holocausto en el territorio de la actual Ucrania.jpg",
+       "location": "CB8A2990-88AF-CFC3-80F0-4AAB42999E55/MapadelascomunidadesJudasantesdelHolocaustoenelterritoriodelaactualUcrania.jpg",
        "dataLength": "90342",
        "format": ".jpg"
       },
@@ -234,7 +234,7 @@
        "objectID": "CB8A2990-88AF-CFC3-80F0-4AAB42999E55",
        "name": "M&#250;sicos Jud&#237;os, &apos;Kleyzmerim&apos;.PNG",
        "attachmentType": "1",
-       "location": "CB8A2990-88AF-CFC3-80F0-4AAB42999E55\\M&#250;sicos Jud&#237;os, &apos;Kleyzmerim&apos;.PNG",
+       "location": "CB8A2990-88AF-CFC3-80F0-4AAB42999E55/MsicosJudosKleyzmerim.PNG",
        "dataLength": "172648",
        "format": ".png"
       }
@@ -261,7 +261,7 @@
          "objectID": "72F39E01-4AA4-B0F0-A73F-6A5A2A39C293",
          "name": "Deportaci&#243;n de Jud&#237;os, Hungr&#237;a, 1944.jpg",
          "attachmentType": "1",
-         "location": "72F39E01-4AA4-B0F0-A73F-6A5A2A39C293\\Deportaci&#243;n de Jud&#237;os, Hungr&#237;a, 1944.jpg",
+         "location": "72F39E01-4AA4-B0F0-A73F-6A5A2A39C293/DeportacindeJudosHungra1944.jpg",
          "dataLength": "67377",
          "format": ".jpg"
         },
@@ -273,7 +273,7 @@
          "objectID": "72F39E01-4AA4-B0F0-A73F-6A5A2A39C293",
          "name": "Construyendo los muros del Ghetto de Varsovia, Diciembre 1940.jpg",
          "attachmentType": "1",
-         "location": "72F39E01-4AA4-B0F0-A73F-6A5A2A39C293\\Construyendo los muros del Ghetto de Varsovia, Diciembre 1940.jpg",
+         "location": "72F39E01-4AA4-B0F0-A73F-6A5A2A39C293/ConstruyendolosmurosdelGhettodeVarsoviaDiciembre1940.jpg",
          "dataLength": "20361",
          "format": ".jpg"
         },
@@ -285,7 +285,7 @@
          "objectID": "72F39E01-4AA4-B0F0-A73F-6A5A2A39C293",
          "name": "Humillaci&#243;n - cortando barbas de Jud&#237;os de edad.jpg",
          "attachmentType": "1",
-         "location": "72F39E01-4AA4-B0F0-A73F-6A5A2A39C293\\Humillaci&#243;n - cortando barbas de Jud&#237;os de edad.jpg",
+         "location": "72F39E01-4AA4-B0F0-A73F-6A5A2A39C293/Humillacin-cortandobarbasdeJudosdeedad.jpg",
          "dataLength": "136401",
          "format": ".jpg"
         },
@@ -297,7 +297,7 @@
          "objectID": "72F39E01-4AA4-B0F0-A73F-6A5A2A39C293",
          "name": "Trabajo Forzado.jpg",
          "attachmentType": "1",
-         "location": "72F39E01-4AA4-B0F0-A73F-6A5A2A39C293\\Trabajo Forzado.jpg",
+         "location": "72F39E01-4AA4-B0F0-A73F-6A5A2A39C293/TrabajoForzado.jpg",
          "dataLength": "33007",
          "format": ".jpg"
         },
@@ -309,7 +309,7 @@
          "objectID": "72F39E01-4AA4-B0F0-A73F-6A5A2A39C293",
          "name": "Jud&#237;os ante un pared&#243;n, el Ghetto de Varsovia.jpg",
          "attachmentType": "1",
-         "location": "72F39E01-4AA4-B0F0-A73F-6A5A2A39C293\\Jud&#237;os ante un pared&#243;n, el Ghetto de Varsovia.jpg",
+         "location": "72F39E01-4AA4-B0F0-A73F-6A5A2A39C293/JudosanteunparednelGhettodeVarsovia.jpg",
          "dataLength": "55780",
          "format": ".jpg"
         },
@@ -321,7 +321,7 @@
          "objectID": "72F39E01-4AA4-B0F0-A73F-6A5A2A39C293",
          "name": "El Ghetto de Lodz.jpg",
          "attachmentType": "1",
-         "location": "72F39E01-4AA4-B0F0-A73F-6A5A2A39C293\\El Ghetto de Lodz.jpg",
+         "location": "72F39E01-4AA4-B0F0-A73F-6A5A2A39C293/ElGhettodeLodz.jpg",
          "dataLength": "52046",
          "format": ".jpg"
         }
@@ -372,7 +372,7 @@
            "objectID": "5F686845-0FE0-05B2-DA4E-F175EF995458",
            "name": "Un ni&#241;o se rinde a los Nazis, la revuelta en el Ghetto de Varsovia.jpg",
            "attachmentType": "1",
-           "location": "5F686845-0FE0-05B2-DA4E-F175EF995458\\Un ni&#241;o se rinde a los Nazis, la revuelta en el Ghetto de Varsovia.jpg",
+           "location": "5F686845-0FE0-05B2-DA4E-F175EF995458/UnnioserindealosNazislarevueltaenelGhettodeVarsovia.jpg",
            "dataLength": "62329",
            "format": ".jpg"
           },
@@ -384,7 +384,7 @@
            "objectID": "5F686845-0FE0-05B2-DA4E-F175EF995458",
            "name": "Un Jud&#237;o cavando su propia sepultura.jpg",
            "attachmentType": "1",
-           "location": "5F686845-0FE0-05B2-DA4E-F175EF995458\\Un Jud&#237;o cavando su propia sepultura.jpg",
+           "location": "5F686845-0FE0-05B2-DA4E-F175EF995458/UnJudocavandosupropiasepultura.jpg",
            "dataLength": "42453",
            "format": ".jpg"
           },
@@ -396,7 +396,7 @@
            "objectID": "5F686845-0FE0-05B2-DA4E-F175EF995458",
            "name": "Arbeit macht frei (El Trabajo Libera), el r&#243;tulo sobre la entrada a Auschwitz[1].jpg",
            "attachmentType": "1",
-           "location": "5F686845-0FE0-05B2-DA4E-F175EF995458\\Arbeit macht frei (El Trabajo Libera), el r&#243;tulo sobre la entrada a Auschwitz[1].jpg",
+           "location": "5F686845-0FE0-05B2-DA4E-F175EF995458/Arbeitmachtfrei(ElTrabajoLibera)elrtulosobrelaentradaaAuschwitz[1].jpg",
            "dataLength": "40616",
            "format": ".jpg"
           },
@@ -408,7 +408,7 @@
            "objectID": "5F686845-0FE0-05B2-DA4E-F175EF995458",
            "name": "Ni&#241;os en el campo de concentraci&#243;n vestidos del traje a rayas.jpg",
            "attachmentType": "1",
-           "location": "5F686845-0FE0-05B2-DA4E-F175EF995458\\Ni&#241;os en el campo de concentraci&#243;n vestidos del traje a rayas.jpg",
+           "location": "5F686845-0FE0-05B2-DA4E-F175EF995458/Niosenelcampodeconcentracinvestidosdeltrajearayas.jpg",
            "dataLength": "118977",
            "format": ".jpg"
           },
@@ -420,7 +420,7 @@
            "objectID": "5F686845-0FE0-05B2-DA4E-F175EF995458",
            "name": "Ni&#241;os en el campo de concentraci&#243;n.jpg",
            "attachmentType": "1",
-           "location": "5F686845-0FE0-05B2-DA4E-F175EF995458\\Ni&#241;os en el campo de concentraci&#243;n.jpg",
+           "location": "5F686845-0FE0-05B2-DA4E-F175EF995458/Niosenelcampodeconcentracin.jpg",
            "dataLength": "118977",
            "format": ".jpg"
           },
@@ -432,7 +432,7 @@
            "objectID": "5F686845-0FE0-05B2-DA4E-F175EF995458",
            "name": "Crematorio - quemando cad&#225;veres en los Campos de Muerte.jpg",
            "attachmentType": "1",
-           "location": "5F686845-0FE0-05B2-DA4E-F175EF995458\\Crematorio - quemando cad&#225;veres en los Campos de Muerte.jpg",
+           "location": "5F686845-0FE0-05B2-DA4E-F175EF995458/Crematorio-quemandocadveresenlosCamposdeMuerte.jpg",
            "dataLength": "99784",
            "format": ".jpg"
           },
@@ -444,7 +444,7 @@
            "objectID": "5F686845-0FE0-05B2-DA4E-F175EF995458",
            "name": "Un Nazi matando a una mujer y un ni&#241;o.jpg",
            "attachmentType": "1",
-           "location": "5F686845-0FE0-05B2-DA4E-F175EF995458\\Un Nazi matando a una mujer y un ni&#241;o.jpg",
+           "location": "5F686845-0FE0-05B2-DA4E-F175EF995458/UnNazimatandoaunamujeryunnio.jpg",
            "dataLength": "50378",
            "format": ".jpg"
           },
@@ -456,7 +456,7 @@
            "objectID": "5F686845-0FE0-05B2-DA4E-F175EF995458",
            "name": "Nazis orgullosos por haber matado Partisanos.jpg",
            "attachmentType": "1",
-           "location": "5F686845-0FE0-05B2-DA4E-F175EF995458\\Nazis orgullosos por haber matado Partisanos.jpg",
+           "location": "5F686845-0FE0-05B2-DA4E-F175EF995458/NazisorgullososporhabermatadoPartisanos.jpg",
            "dataLength": "71220",
            "format": ".jpg"
           },
@@ -468,7 +468,7 @@
            "objectID": "5F686845-0FE0-05B2-DA4E-F175EF995458",
            "name": "The Auschwitz Gate.jpg",
            "attachmentType": "1",
-           "location": "5F686845-0FE0-05B2-DA4E-F175EF995458\\The Auschwitz Gate.jpg",
+           "location": "5F686845-0FE0-05B2-DA4E-F175EF995458/TheAuschwitzGate.jpg",
            "dataLength": "47763",
            "format": ".jpg"
           },
@@ -480,7 +480,7 @@
            "objectID": "5F686845-0FE0-05B2-DA4E-F175EF995458",
            "name": "El n&#250;mero tatuado por los Nazis en la carne de los presos.jpg",
            "attachmentType": "1",
-           "location": "5F686845-0FE0-05B2-DA4E-F175EF995458\\El n&#250;mero tatuado por los Nazis en la carne de los presos.jpg",
+           "location": "5F686845-0FE0-05B2-DA4E-F175EF995458/ElnmerotatuadoporlosNazisenlacarnedelospresos.jpg",
            "dataLength": "10394",
            "format": ".jpg"
           },
@@ -492,7 +492,7 @@
            "objectID": "5F686845-0FE0-05B2-DA4E-F175EF995458",
            "name": "Buchenwald.jpg",
            "attachmentType": "1",
-           "location": "5F686845-0FE0-05B2-DA4E-F175EF995458\\Buchenwald.jpg",
+           "location": "5F686845-0FE0-05B2-DA4E-F175EF995458/Buchenwald.jpg",
            "dataLength": "39873",
            "format": ".jpg"
           }
@@ -519,7 +519,7 @@
            "objectID": "5FD1D8F4-0C48-FD76-BEE1-52359E3E38F6",
            "name": "El Diario de Basch, los &#250;ltimos d&#237;as, 18.4.44, p.11, BNI.jpg",
            "attachmentType": "1",
-           "location": "5FD1D8F4-0C48-FD76-BEE1-52359E3E38F6\\El Diario de Basch, los &#250;ltimos d&#237;as, 18.4.44, p.11, BNI.jpg",
+           "location": "5FD1D8F4-0C48-FD76-BEE1-52359E3E38F6/ElDiariodeBaschlosltimosdas18.4.44p.11BNI.jpg",
            "dataLength": "200140",
            "format": ".jpg"
           }
@@ -573,7 +573,7 @@
                "objectID": "72190B03-074A-B546-1F89-73EFBBE16E0D",
                "name": "Perhiya y su familia,  Israel.jpg",
                "attachmentType": "1",
-               "location": "72190B03-074A-B546-1F89-73EFBBE16E0D\\Perhiya y su familia,  Israel.jpg",
+               "location": "72190B03-074A-B546-1F89-73EFBBE16E0D/PerhiyaysufamiliaIsrael.jpg",
                "dataLength": "129534",
                "format": ".jpg"
               },
@@ -585,7 +585,7 @@
                "objectID": "72190B03-074A-B546-1F89-73EFBBE16E0D",
                "name": "Perhiya recibiendo el reconocimiento de gratitud de la ciudad de Lod.jpg",
                "attachmentType": "1",
-               "location": "72190B03-074A-B546-1F89-73EFBBE16E0D\\Perhiya recibiendo el reconocimiento de gratitud de la ciudad de Lod.jpg",
+               "location": "72190B03-074A-B546-1F89-73EFBBE16E0D/PerhiyarecibiendoelreconocimientodegratituddelaciudaddeLod.jpg",
                "dataLength": "31940",
                "format": ".jpg"
               },
@@ -597,7 +597,7 @@
                "objectID": "72190B03-074A-B546-1F89-73EFBBE16E0D",
                "name": "La P&#225;gina de Testimonio de Perhiya en el museo de Yad Vashem, 1956.jpg",
                "attachmentType": "1",
-               "location": "72190B03-074A-B546-1F89-73EFBBE16E0D\\La P&#225;gina de Testimonio de Perhiya en el museo de Yad Vashem, 1956.jpg",
+               "location": "72190B03-074A-B546-1F89-73EFBBE16E0D/LaPginadeTestimoniodePerhiyaenelmuseodeYadVashem1956.jpg",
                "dataLength": "98900",
                "format": ".jpg"
               }
@@ -624,7 +624,7 @@
                  "objectID": "4949F0C7-D64A-9EF5-5CCD-941E827509DB",
                  "name": "El Diario de Basch, p.1, BNI.jpg",
                  "attachmentType": "1",
-                 "location": "4949F0C7-D64A-9EF5-5CCD-941E827509DB\\El Diario de Basch, p.1, BNI.jpg",
+                 "location": "4949F0C7-D64A-9EF5-5CCD-941E827509DB/ElDiariodeBaschp.1BNI.jpg",
                  "dataLength": "96803",
                  "format": ".jpg"
                 },
@@ -636,7 +636,7 @@
                  "objectID": "4949F0C7-D64A-9EF5-5CCD-941E827509DB",
                  "name": "El Diario de Basch, p.2, BNI.jpg",
                  "attachmentType": "1",
-                 "location": "4949F0C7-D64A-9EF5-5CCD-941E827509DB\\El Diario de Basch, p.2, BNI.jpg",
+                 "location": "4949F0C7-D64A-9EF5-5CCD-941E827509DB/ElDiariodeBaschp.2BNI.jpg",
                  "dataLength": "172340",
                  "format": ".jpg"
                 },
@@ -648,7 +648,7 @@
                  "objectID": "4949F0C7-D64A-9EF5-5CCD-941E827509DB",
                  "name": "El Diario de Basch, p.5, BNI.jpg",
                  "attachmentType": "1",
-                 "location": "4949F0C7-D64A-9EF5-5CCD-941E827509DB\\El Diario de Basch, p.5, BNI.jpg",
+                 "location": "4949F0C7-D64A-9EF5-5CCD-941E827509DB/ElDiariodeBaschp.5BNI.jpg",
                  "dataLength": "233971",
                  "format": ".jpg"
                 },
@@ -660,7 +660,7 @@
                  "objectID": "4949F0C7-D64A-9EF5-5CCD-941E827509DB",
                  "name": "El Diario de Basch, p.6, BNI.jpg",
                  "attachmentType": "1",
-                 "location": "4949F0C7-D64A-9EF5-5CCD-941E827509DB\\El Diario de Basch, p.6, BNI.jpg",
+                 "location": "4949F0C7-D64A-9EF5-5CCD-941E827509DB/ElDiariodeBaschp.6BNI.jpg",
                  "dataLength": "220801",
                  "format": ".jpg"
                 }
@@ -712,7 +712,7 @@
      "objectID": "FB8F983C-DEC9-E871-658F-868ABD5B1FC3",
      "name": "El Rollo de la Tor&#225; de Espa&#241;a.jpg",
      "attachmentType": "1",
-     "location": "FB8F983C-DEC9-E871-658F-868ABD5B1FC3\\El Rollo de la Tor&#225; de Espa&#241;a.jpg",
+     "location": "FB8F983C-DEC9-E871-658F-868ABD5B1FC3/ElRollodelaTordeEspaa.jpg",
      "dataLength": "145775",
      "format": ".jpg"
     }
@@ -733,7 +733,7 @@
        "objectID": "7F13F425-9474-7539-509D-FEDE3A2F8619",
        "name": "La Corona de Damasco de Burgos,c.1260 - vista de cerca con anotaci&#243;n musical.jpg",
        "attachmentType": "1",
-       "location": "7F13F425-9474-7539-509D-FEDE3A2F8619\\La Corona de Damasco de Burgos,c.1260 - vista de cerca con anotaci&#243;n musical.jpg",
+       "location": "7F13F425-9474-7539-509D-FEDE3A2F8619/LaCoronadeDamascodeBurgosc.1260-vistadecercaconanotacinmusical.jpg",
        "dataLength": "80650",
        "format": ".jpg"
       }
@@ -758,7 +758,7 @@
          "objectID": "775884A8-6C8D-69C1-ACCF-F59C43B5EFF0",
          "name": "Un rollo de la Tor&#225;, Alemania, siglo XV, BNI.jpg",
          "attachmentType": "1",
-         "location": "775884A8-6C8D-69C1-ACCF-F59C43B5EFF0\\Un rollo de la Tor&#225;, Alemania, siglo XV, BNI.jpg",
+         "location": "775884A8-6C8D-69C1-ACCF-F59C43B5EFF0/UnrollodelaTorAlemaniasigloXVBNI.jpg",
          "dataLength": "217784",
          "format": ".jpg"
         },
@@ -770,7 +770,7 @@
          "objectID": "775884A8-6C8D-69C1-ACCF-F59C43B5EFF0",
          "name": "Un rollo de la Tor&#225; de Yemen,  siglos XI-XII, BNI.jpg",
          "attachmentType": "1",
-         "location": "775884A8-6C8D-69C1-ACCF-F59C43B5EFF0\\Un rollo de la Tor&#225; de Yemen,  siglos XI-XII, BNI.jpg",
+         "location": "775884A8-6C8D-69C1-ACCF-F59C43B5EFF0/UnrollodelaTordeYemensiglosXI-XIIBNI.jpg",
          "dataLength": "286137",
          "format": ".jpg"
         }
@@ -797,7 +797,7 @@
            "objectID": "277C7CA7-F6EA-FFD0-D111-E975E0D01409",
            "name": "La Corona de Damasco de Burgos, c.1260,  BNI, final de G&#233;nesis y principio de &#201;xodo,  BNI.jpg",
            "attachmentType": "1",
-           "location": "277C7CA7-F6EA-FFD0-D111-E975E0D01409\\La Corona de Damasco de Burgos, c.1260,  BNI, final de G&#233;nesis y principio de &#201;xodo,  BNI.jpg",
+           "location": "277C7CA7-F6EA-FFD0-D111-E975E0D01409/LaCoronadeDamascodeBurgosc.1260BNIfinaldeGnesisyprincipiodexodoBNI.jpg",
            "dataLength": "144381",
            "format": ".jpg"
           },
@@ -809,7 +809,7 @@
            "objectID": "277C7CA7-F6EA-FFD0-D111-E975E0D01409",
            "name": "La Corona de Damasco de Burgos, c.1260,  BNI.jpg",
            "attachmentType": "1",
-           "location": "277C7CA7-F6EA-FFD0-D111-E975E0D01409\\La Corona de Damasco de Burgos, c.1260,  BNI.jpg",
+           "location": "277C7CA7-F6EA-FFD0-D111-E975E0D01409/LaCoronadeDamascodeBurgosc.1260BNI.jpg",
            "dataLength": "152337",
            "format": ".jpg"
           }
@@ -861,7 +861,7 @@
              "objectID": "EB4FD149-5DEF-8C54-818E-9F93C286A13E",
              "name": "Benjamin Richler y la Tor&#225; de Edel.jpg",
              "attachmentType": "1",
-             "location": "EB4FD149-5DEF-8C54-818E-9F93C286A13E\\Benjamin Richler y la Tor&#225; de Edel.jpg",
+             "location": "EB4FD149-5DEF-8C54-818E-9F93C286A13E/BenjaminRichlerylaTordeEdel.jpg",
              "dataLength": "57181",
              "format": ".jpg"
             }
@@ -895,7 +895,7 @@
        "objectID": "83ED5D28-8062-92A0-A3EB-4C70BAB53875",
        "name": "Manta del Rollo de la Tor&#225; de Espa&#241;a, BNI.jpg",
        "attachmentType": "1",
-       "location": "83ED5D28-8062-92A0-A3EB-4C70BAB53875\\Manta del Rollo de la Tor&#225; de Espa&#241;a, BNI.jpg",
+       "location": "83ED5D28-8062-92A0-A3EB-4C70BAB53875/MantadelRollodelaTordeEspaaBNI.jpg",
        "dataLength": "104818",
        "format": ".jpg"
       },
@@ -907,7 +907,7 @@
        "objectID": "83ED5D28-8062-92A0-A3EB-4C70BAB53875",
        "name": "Rollo de la Tor&#225; de Espa&#241;a con manta, de cerca, BNI.jpg",
        "attachmentType": "1",
-       "location": "83ED5D28-8062-92A0-A3EB-4C70BAB53875\\Rollo de la Tor&#225; de Espa&#241;a con manta, de cerca, BNI.jpg",
+       "location": "83ED5D28-8062-92A0-A3EB-4C70BAB53875/RollodelaTordeEspaaconmantadecercaBNI.jpg",
        "dataLength": "111047",
        "format": ".jpg"
       },
@@ -919,7 +919,7 @@
        "objectID": "83ED5D28-8062-92A0-A3EB-4C70BAB53875",
        "name": "Rollo de la Tor&#225; de Espa&#241;a con manta, BNI.jpg.jpg",
        "attachmentType": "1",
-       "location": "83ED5D28-8062-92A0-A3EB-4C70BAB53875\\Rollo de la Tor&#225; de Espa&#241;a con manta, BNI.jpg.jpg",
+       "location": "83ED5D28-8062-92A0-A3EB-4C70BAB53875/RollodelaTordeEspaaconmantaBNI.jpg.jpg",
        "dataLength": "93884",
        "format": ".jpg"
       },
@@ -931,7 +931,7 @@
        "objectID": "83ED5D28-8062-92A0-A3EB-4C70BAB53875",
        "name": "Rollo de la Tor&#225; de Espa&#241;a con manta, el rodillo, BNI.jpg.jpg",
        "attachmentType": "1",
-       "location": "83ED5D28-8062-92A0-A3EB-4C70BAB53875\\Rollo de la Tor&#225; de Espa&#241;a con manta, el rodillo, BNI.jpg.jpg",
+       "location": "83ED5D28-8062-92A0-A3EB-4C70BAB53875/RollodelaTordeEspaaconmantaelrodilloBNI.jpg.jpg",
        "dataLength": "83463",
        "format": ".jpg"
       },
@@ -943,7 +943,7 @@
        "objectID": "83ED5D28-8062-92A0-A3EB-4C70BAB53875",
        "name": "Rollo de la Tor&#225; de Espa&#241;a con manta, una l&#225;mina extendida, BNI.jpg",
        "attachmentType": "1",
-       "location": "83ED5D28-8062-92A0-A3EB-4C70BAB53875\\Rollo de la Tor&#225; de Espa&#241;a con manta, una l&#225;mina extendida, BNI.jpg",
+       "location": "83ED5D28-8062-92A0-A3EB-4C70BAB53875/RollodelaTordeEspaaconmantaunalminaextendidaBNI.jpg",
        "dataLength": "61909",
        "format": ".jpg"
       }
@@ -992,7 +992,7 @@
          "objectID": "9DE4306F-1BA6-883F-87D0-E57A0AC68CD9",
          "name": "Mapa de la migraci&#243;n de los Jud&#237;os Espa&#241;oles.jpg",
          "attachmentType": "1",
-         "location": "9DE4306F-1BA6-883F-87D0-E57A0AC68CD9\\Mapa de la migraci&#243;n de los Jud&#237;os Espa&#241;oles.jpg",
+         "location": "9DE4306F-1BA6-883F-87D0-E57A0AC68CD9/MapadelamigracindelosJudosEspaoles.jpg",
          "dataLength": "134188",
          "format": ".jpg"
         }
@@ -1031,7 +1031,7 @@
            "objectID": "A4FB7080-C969-0ECA-6223-F8DFD4ACB047",
            "name": "La sinagoga de Kah&#225;l Shalom.jpg",
            "attachmentType": "1",
-           "location": "A4FB7080-C969-0ECA-6223-F8DFD4ACB047\\La sinagoga de Kah&#225;l Shalom.jpg",
+           "location": "A4FB7080-C969-0ECA-6223-F8DFD4ACB047/LasinagogadeKahlShalom.jpg",
            "dataLength": "10172",
            "format": ".jpg"
           },
@@ -1067,7 +1067,7 @@
            "objectID": "A4FB7080-C969-0ECA-6223-F8DFD4ACB047",
            "name": "La Sinagoga de Kah&#225;l Shalom, entrada.jpg",
            "attachmentType": "1",
-           "location": "A4FB7080-C969-0ECA-6223-F8DFD4ACB047\\La Sinagoga de Kah&#225;l Shalom, entrada.jpg",
+           "location": "A4FB7080-C969-0ECA-6223-F8DFD4ACB047/LaSinagogadeKahlShalomentrada.jpg",
            "dataLength": "56920",
            "format": ".jpg"
           },
@@ -1079,7 +1079,7 @@
            "objectID": "A4FB7080-C969-0ECA-6223-F8DFD4ACB047",
            "name": "La Sinagoga de Kah&#225;l Shalom, interior.jpg",
            "attachmentType": "1",
-           "location": "A4FB7080-C969-0ECA-6223-F8DFD4ACB047\\La Sinagoga de Kah&#225;l Shalom, interior.jpg",
+           "location": "A4FB7080-C969-0ECA-6223-F8DFD4ACB047/LaSinagogadeKahlShalominterior.jpg",
            "dataLength": "96373",
            "format": ".jpg"
           }
@@ -1106,7 +1106,7 @@
              "objectID": "DC714013-3F75-D6D6-147E-175C6A4DE4B7",
              "name": "La Sinagoga Kah&#225;l Shalom, lista de v&#237;ctimas de los Nazis.jpg",
              "attachmentType": "1",
-             "location": "DC714013-3F75-D6D6-147E-175C6A4DE4B7\\La Sinagoga Kah&#225;l Shalom, lista de v&#237;ctimas de los Nazis.jpg",
+             "location": "DC714013-3F75-D6D6-147E-175C6A4DE4B7/LaSinagogaKahlShalomlistadevctimasdelosNazis.jpg",
              "dataLength": "21110",
              "format": ".jpg"
             },
@@ -1118,7 +1118,7 @@
              "objectID": "DC714013-3F75-D6D6-147E-175C6A4DE4B7",
              "name": "Suleyman Kasiloglou, El Muft&#237; de Rodas.jpg",
              "attachmentType": "1",
-             "location": "DC714013-3F75-D6D6-147E-175C6A4DE4B7\\Suleyman Kasiloglou, El Muft&#237; de Rodas.jpg",
+             "location": "DC714013-3F75-D6D6-147E-175C6A4DE4B7/SuleymanKasiloglouElMuftdeRodas.jpg",
              "dataLength": "124644",
              "format": ".jpg"
             },
@@ -1130,7 +1130,7 @@
              "objectID": "DC714013-3F75-D6D6-147E-175C6A4DE4B7",
              "name": "El pupitre de la mezquita Morad Reis.jpg",
              "attachmentType": "1",
-             "location": "DC714013-3F75-D6D6-147E-175C6A4DE4B7\\El pupitre de la mezquita Morad Reis.jpg",
+             "location": "DC714013-3F75-D6D6-147E-175C6A4DE4B7/ElpupitredelamezquitaMoradReis.jpg",
              "dataLength": "229317",
              "format": ".jpg"
             }
@@ -1157,7 +1157,7 @@
                "objectID": "C686E53C-0F9C-5637-78E5-A508AE770632",
                "name": "Entrevista con las hermanas Benatar (en Franc&#233;s y Hebreo)",
                "attachmentType": "3",
-               "location": " http://youtu.be/jTa_mqCx54E",
+               "location": "http://youtu.be/jTa_mqCx54E",
                "dataLength": "0",
                "format": ""
               },
@@ -1169,7 +1169,7 @@
                "objectID": "C686E53C-0F9C-5637-78E5-A508AE770632",
                "name": "Donaci&#243;n del rollo de la Tor&#225; por la familia Benatar.jpg",
                "attachmentType": "1",
-               "location": "C686E53C-0F9C-5637-78E5-A508AE770632\\Donaci&#243;n del rollo de la Tor&#225; por la familia Benatar.jpg",
+               "location": "C686E53C-0F9C-5637-78E5-A508AE770632/DonacindelrollodelaTorporlafamiliaBenatar.jpg",
                "dataLength": "103560",
                "format": ".jpg"
               },
@@ -1181,7 +1181,7 @@
                "objectID": "C686E53C-0F9C-5637-78E5-A508AE770632",
                "name": "Donaci&#243;n del rollo de la Tor&#225; por la familia Benatar 2.jpg",
                "attachmentType": "1",
-               "location": "C686E53C-0F9C-5637-78E5-A508AE770632\\Donaci&#243;n del rollo de la Tor&#225; por la familia Benatar 2.jpg",
+               "location": "C686E53C-0F9C-5637-78E5-A508AE770632/DonacindelrollodelaTorporlafamiliaBenatar2.jpg",
                "dataLength": "109254",
                "format": ".jpg"
               }
@@ -1217,7 +1217,7 @@
        "objectID": "AC791DF6-12F4-259A-66B5-2CF6E747A6A1",
        "name": "Recibiendo la Tor&#225;, un libro de rezos, Norte de Italia, c.1450, BNI.jpg",
        "attachmentType": "1",
-       "location": "AC791DF6-12F4-259A-66B5-2CF6E747A6A1\\Recibiendo la Tor&#225;, un libro de rezos, Norte de Italia, c.1450, BNI.jpg",
+       "location": "AC791DF6-12F4-259A-66B5-2CF6E747A6A1/RecibiendolaTorunlibroderezosNortedeItaliac.1450BNI.jpg",
        "dataLength": "149048",
        "format": ".jpg"
       }
@@ -1254,7 +1254,7 @@
          "objectID": "BEEF4DB1-AC8B-667A-BAE5-E0FAF2C9F03C",
          "name": "Arca.jpg",
          "attachmentType": "1",
-         "location": "BEEF4DB1-AC8B-667A-BAE5-E0FAF2C9F03C\\Arca.jpg",
+         "location": "BEEF4DB1-AC8B-667A-BAE5-E0FAF2C9F03C/Arca.jpg",
          "dataLength": "91844",
          "format": ".jpg"
         },
@@ -1266,7 +1266,7 @@
          "objectID": "BEEF4DB1-AC8B-667A-BAE5-E0FAF2C9F03C",
          "name": "Par&#243;jet.jpg",
          "attachmentType": "1",
-         "location": "BEEF4DB1-AC8B-667A-BAE5-E0FAF2C9F03C\\Par&#243;jet.jpg",
+         "location": "BEEF4DB1-AC8B-667A-BAE5-E0FAF2C9F03C/Parjet.jpg",
          "dataLength": "90332",
          "format": ".jpg"
         }
@@ -1293,7 +1293,7 @@
            "objectID": "4693F853-82C7-E7DA-A02F-5F91D4E39AA1",
            "name": "Escribiendo la Tor&#225;.jpg",
            "attachmentType": "1",
-           "location": "4693F853-82C7-E7DA-A02F-5F91D4E39AA1\\Escribiendo la Tor&#225;.jpg",
+           "location": "4693F853-82C7-E7DA-A02F-5F91D4E39AA1/EscribiendolaTor.jpg",
            "dataLength": "77910",
            "format": ".jpg"
           },
@@ -1305,7 +1305,7 @@
            "objectID": "4693F853-82C7-E7DA-A02F-5F91D4E39AA1",
            "name": "Un Rollo de la Tor&#225;.jpg",
            "attachmentType": "1",
-           "location": "4693F853-82C7-E7DA-A02F-5F91D4E39AA1\\Un Rollo de la Tor&#225;.jpg",
+           "location": "4693F853-82C7-E7DA-A02F-5F91D4E39AA1/UnRollodelaTor.jpg",
            "dataLength": "46810",
            "format": ".jpg"
           }
@@ -1346,7 +1346,7 @@
                "objectID": "21AAC80C-2A17-ADE5-7F1E-AC4FEC3475EE",
                "name": "Caja de Tor&#225;.jpg",
                "attachmentType": "1",
-               "location": "21AAC80C-2A17-ADE5-7F1E-AC4FEC3475EE\\Caja de Tor&#225;.jpg",
+               "location": "21AAC80C-2A17-ADE5-7F1E-AC4FEC3475EE/CajadeTor.jpg",
                "dataLength": "17030",
                "format": ".jpg"
               },
@@ -1358,7 +1358,7 @@
                "objectID": "21AAC80C-2A17-ADE5-7F1E-AC4FEC3475EE",
                "name": "Manta.png",
                "attachmentType": "1",
-               "location": "21AAC80C-2A17-ADE5-7F1E-AC4FEC3475EE\\Manta.png",
+               "location": "21AAC80C-2A17-ADE5-7F1E-AC4FEC3475EE/Manta.png",
                "dataLength": "101198",
                "format": ".png"
               }
@@ -1385,7 +1385,7 @@
                  "objectID": "D7DD61A0-2E58-85AB-0653-C98D58FC2ABD",
                  "name": "Pectoral de la Tor&#225;.jpg",
                  "attachmentType": "1",
-                 "location": "D7DD61A0-2E58-85AB-0653-C98D58FC2ABD\\Pectoral de la Tor&#225;.jpg",
+                 "location": "D7DD61A0-2E58-85AB-0653-C98D58FC2ABD/PectoraldelaTor.jpg",
                  "dataLength": "19206",
                  "format": ".jpg"
                 }
@@ -1412,7 +1412,7 @@
                    "objectID": "EB0BE33B-5FF2-8FDB-5D5E-730404D3DFB6",
                    "name": "Yad LaTorah - un puntero de lectura.jpg",
                    "attachmentType": "1",
-                   "location": "EB0BE33B-5FF2-8FDB-5D5E-730404D3DFB6\\Yad LaTorah - un puntero de lectura.jpg",
+                   "location": "EB0BE33B-5FF2-8FDB-5D5E-730404D3DFB6/YadLaTorah-unpunterodelectura.jpg",
                    "dataLength": "4240",
                    "format": ".jpg"
                   }
@@ -1439,7 +1439,7 @@
                      "objectID": "BF366466-33A0-0CF9-2CE5-6C69BAFCF1AE",
                      "name": "Pin&#225;culos.png",
                      "attachmentType": "1",
-                     "location": "BF366466-33A0-0CF9-2CE5-6C69BAFCF1AE\\Pin&#225;culos.png",
+                     "location": "BF366466-33A0-0CF9-2CE5-6C69BAFCF1AE/Pinculos.png",
                      "dataLength": "165220",
                      "format": ".png"
                     }
@@ -1519,7 +1519,7 @@
      "objectID": "D4C41630-D4E6-107B-C285-E728DB90E00B",
      "name": "Bertelli, mapa de Jerusal&#233;n, Vencia, siglo XVI [156- ], BNI.jpg",
      "attachmentType": "1",
-     "location": "D4C41630-D4E6-107B-C285-E728DB90E00B\\Bertelli, mapa de Jerusal&#233;n, Vencia, siglo XVI [156- ], BNI.jpg",
+     "location": "D4C41630-D4E6-107B-C285-E728DB90E00B/BertellimapadeJerusalnVenciasigloXVI[156-]BNI.jpg",
      "dataLength": "276018",
      "format": ".jpg"
     },
@@ -1531,7 +1531,7 @@
      "objectID": "D4C41630-D4E6-107B-C285-E728DB90E00B",
      "name": "Du Perac, mapa de Jerusal&#233;n, Roma, c.1570, BNI.jpg",
      "attachmentType": "1",
-     "location": "D4C41630-D4E6-107B-C285-E728DB90E00B\\Du Perac, mapa de Jerusal&#233;n, Roma, c.1570, BNI.jpg",
+     "location": "D4C41630-D4E6-107B-C285-E728DB90E00B/DuPeracmapadeJerusalnRomac.1570BNI.jpg",
      "dataLength": "213832",
      "format": ".jpg"
     }
@@ -1552,7 +1552,7 @@
        "objectID": "03BA7521-8885-B14D-345A-0440CB69EB04",
        "name": "Abraham ben Jacob, la Tierra de Israel, con las andanzas de los Israelitas, Amsterdam, siglo XVII,  BNI.jpg",
        "attachmentType": "1",
-       "location": "03BA7521-8885-B14D-345A-0440CB69EB04\\Abraham ben Jacob, la Tierra de Israel, con las andanzas de los Israelitas, Amsterdam, siglo XVII,  BNI.jpg",
+       "location": "03BA7521-8885-B14D-345A-0440CB69EB04/AbrahambenJacoblaTierradeIsraelconlasandanzasdelosIsraelitasAmsterdamsigloXVIIBNI.jpg",
        "dataLength": "201329",
        "format": ".jpg"
       }
@@ -1589,7 +1589,7 @@
            "objectID": "A0BA2E88-8A0E-0850-260F-C927F5D43233",
            "name": "Shlomo de Helm, Mapa de la Tierra de Israel, Polonia, siglo XVIII, 1, BNI.jpg",
            "attachmentType": "1",
-           "location": "A0BA2E88-8A0E-0850-260F-C927F5D43233\\Shlomo de Helm, Mapa de la Tierra de Israel, Polonia, siglo XVIII, 1, BNI.jpg",
+           "location": "A0BA2E88-8A0E-0850-260F-C927F5D43233/ShlomodeHelmMapadelaTierradeIsraelPoloniasigloXVIII1BNI.jpg",
            "dataLength": "142776",
            "format": ".jpg"
           },
@@ -1601,7 +1601,7 @@
            "objectID": "A0BA2E88-8A0E-0850-260F-C927F5D43233",
            "name": "Shlomo de Helm, Mapa de la Tierra de Israel, Polonia, siglo XVIII, 2, BNI.jpg",
            "attachmentType": "1",
-           "location": "A0BA2E88-8A0E-0850-260F-C927F5D43233\\Shlomo de Helm, Mapa de la Tierra de Israel, Polonia, siglo XVIII, 2, BNI.jpg",
+           "location": "A0BA2E88-8A0E-0850-260F-C927F5D43233/ShlomodeHelmMapadelaTierradeIsraelPoloniasigloXVIII2BNI.jpg",
            "dataLength": "164916",
            "format": ".jpg"
           }
@@ -1628,7 +1628,7 @@
              "objectID": "29A593B8-3FE8-D682-F394-B2EEC29B7D99",
              "name": "Schottlaender, &apos;Panorama des heiligen Landes&apos;, Breslau, circa 1900,  BNI.jpg",
              "attachmentType": "1",
-             "location": "29A593B8-3FE8-D682-F394-B2EEC29B7D99\\Schottlaender, &apos;Panorama des heiligen Landes&apos;, Breslau, circa 1900,  BNI.jpg",
+             "location": "29A593B8-3FE8-D682-F394-B2EEC29B7D99/SchottlaenderPanoramadesheiligenLandesBreslaucirca1900BNI.jpg",
              "dataLength": "256200",
              "format": ".jpg"
             }
@@ -1660,7 +1660,7 @@
          "objectID": "6D3C4593-7543-E128-8DAC-F2605F00061D",
          "name": "An&#243;nimo, Fronteras y alocaciones b&#237;blicas delas tribus de Israel, siglo XIX.jpg",
          "attachmentType": "1",
-         "location": "6D3C4593-7543-E128-8DAC-F2605F00061D\\An&#243;nimo, Fronteras y alocaciones b&#237;blicas delas tribus de Israel, siglo XIX.jpg",
+         "location": "6D3C4593-7543-E128-8DAC-F2605F00061D/AnnimoFronterasyalocacionesbblicasdelastribusdeIsraelsigloXIX.jpg",
          "dataLength": "244138",
          "format": ".jpg"
         }
@@ -1688,7 +1688,7 @@
        "objectID": "AE0BA84A-88FB-0EC6-25D5-BDD81F99F748",
        "name": "Ortelius, Stella and van Diest, &apos;Palestinae sive totius Terrae Promissionis&apos;, Anveres, 1575,  BNI.jpg",
        "attachmentType": "1",
-       "location": "AE0BA84A-88FB-0EC6-25D5-BDD81F99F748\\Ortelius, Stella and van Diest, &apos;Palestinae sive totius Terrae Promissionis&apos;, Anveres, 1575,  BNI.jpg",
+       "location": "AE0BA84A-88FB-0EC6-25D5-BDD81F99F748/OrteliusStellaandvanDiestPalestinaesivetotiusTerraePromissionisAnveres1575BNI.jpg",
        "dataLength": "294069",
        "format": ".jpg"
       }
@@ -1725,7 +1725,7 @@
            "objectID": "F513BEB2-1736-0874-4F04-5DA0EE9C5BF3",
            "name": "Ortelius, Abrahami Patriarchae peregrinatio et vita Abrahamo, Anveres, c.1590, BNI.jpg",
            "attachmentType": "1",
-           "location": "F513BEB2-1736-0874-4F04-5DA0EE9C5BF3\\Ortelius, Abrahami Patriarchae peregrinatio et vita Abrahamo, Anveres, c.1590, BNI.jpg",
+           "location": "F513BEB2-1736-0874-4F04-5DA0EE9C5BF3/OrteliusAbrahamiPatriarchaeperegrinatioetvitaAbrahamoAnveresc.1590BNI.jpg",
            "dataLength": "312206",
            "format": ".jpg"
           },
@@ -1737,7 +1737,7 @@
            "objectID": "F513BEB2-1736-0874-4F04-5DA0EE9C5BF3",
            "name": "Ortelius, abajo, cita b&#237;blica.jpg",
            "attachmentType": "1",
-           "location": "F513BEB2-1736-0874-4F04-5DA0EE9C5BF3\\Ortelius, abajo, cita b&#237;blica.jpg",
+           "location": "F513BEB2-1736-0874-4F04-5DA0EE9C5BF3/Orteliusabajocitabblica.jpg",
            "dataLength": "190758",
            "format": ".jpg"
           },
@@ -1749,7 +1749,7 @@
            "objectID": "F513BEB2-1736-0874-4F04-5DA0EE9C5BF3",
            "name": "Ortelius, Cartucho y cita b&#237;blica en la parte superior.jpg",
            "attachmentType": "1",
-           "location": "F513BEB2-1736-0874-4F04-5DA0EE9C5BF3\\Ortelius, Cartucho y cita b&#237;blica en la parte superior.jpg",
+           "location": "F513BEB2-1736-0874-4F04-5DA0EE9C5BF3/OrteliusCartuchoycitabblicaenlapartesuperior.jpg",
            "dataLength": "208103",
            "format": ".jpg"
           }
@@ -1774,7 +1774,7 @@
              "objectID": "AE425D1A-E082-CD9A-27EE-740250DFB6A6",
              "name": "Ortelius Abraham saliendo de Haran.jpg",
              "attachmentType": "1",
-             "location": "AE425D1A-E082-CD9A-27EE-740250DFB6A6\\Ortelius Abraham saliendo de Haran.jpg",
+             "location": "AE425D1A-E082-CD9A-27EE-740250DFB6A6/OrteliusAbrahamsaliendodeHaran.jpg",
              "dataLength": "54134",
              "format": ".jpg"
             }
@@ -1799,7 +1799,7 @@
                "objectID": "5697F6FE-53A8-50E8-C9E3-7AFCAD231611",
                "name": "Ortelius, el Altar en Beth El.jpg",
                "attachmentType": "1",
-               "location": "5697F6FE-53A8-50E8-C9E3-7AFCAD231611\\Ortelius, el Altar en Beth El.jpg",
+               "location": "5697F6FE-53A8-50E8-C9E3-7AFCAD231611/OrteliuselAltarenBethEl.jpg",
                "dataLength": "57062",
                "format": ".jpg"
               }
@@ -1826,7 +1826,7 @@
                  "objectID": "D3158852-0071-7096-970B-B5F2359C7A86",
                  "name": "Ortelius, Abraham y Melquisedek.jpg",
                  "attachmentType": "1",
-                 "location": "D3158852-0071-7096-970B-B5F2359C7A86\\Ortelius, Abraham y Melquisedek.jpg",
+                 "location": "D3158852-0071-7096-970B-B5F2359C7A86/OrteliusAbrahamyMelquisedek.jpg",
                  "dataLength": "51091",
                  "format": ".jpg"
                 }
@@ -1853,7 +1853,7 @@
                    "objectID": "4EF3CC70-DB9E-94F9-F02C-E59FA90A2BC5",
                    "name": "Ortelius, La Alianza de las Partes.jpg",
                    "attachmentType": "1",
-                   "location": "4EF3CC70-DB9E-94F9-F02C-E59FA90A2BC5\\Ortelius, La Alianza de las Partes.jpg",
+                   "location": "4EF3CC70-DB9E-94F9-F02C-E59FA90A2BC5/OrteliusLaAlianzadelasPartes.jpg",
                    "dataLength": "99944",
                    "format": ".jpg"
                   }
@@ -1880,7 +1880,7 @@
                      "objectID": "D5BB007B-4816-6078-11E5-64D3907C4FBD",
                      "name": "Ortelius, Sara le da a Abrah&#225;m su sierva.jpg",
                      "attachmentType": "1",
-                     "location": "D5BB007B-4816-6078-11E5-64D3907C4FBD\\Ortelius, Sara le da a Abrah&#225;m su sierva.jpg",
+                     "location": "D5BB007B-4816-6078-11E5-64D3907C4FBD/OrteliusSaraledaaAbrahmsusierva.jpg",
                      "dataLength": "52382",
                      "format": ".jpg"
                     }
@@ -1907,7 +1907,7 @@
                        "objectID": "F68B9544-1951-7466-013A-2F8434C61F80",
                        "name": "Ortelius, Los Tres &#193;ngeles.jpg",
                        "attachmentType": "1",
-                       "location": "F68B9544-1951-7466-013A-2F8434C61F80\\Ortelius, Los Tres &#193;ngeles.jpg",
+                       "location": "F68B9544-1951-7466-013A-2F8434C61F80/OrteliusLosTresngeles.jpg",
                        "dataLength": "52904",
                        "format": ".jpg"
                       }
@@ -1934,7 +1934,7 @@
                          "objectID": "312E3892-880F-FB21-F063-E92AA4C91E5F",
                          "name": "Ortelius, El Nacimiento de Isaac.jpg",
                          "attachmentType": "1",
-                         "location": "312E3892-880F-FB21-F063-E92AA4C91E5F\\Ortelius, El Nacimiento de Isaac.jpg",
+                         "location": "312E3892-880F-FB21-F063-E92AA4C91E5F/OrteliusElNacimientodeIsaac.jpg",
                          "dataLength": "54503",
                          "format": ".jpg"
                         }
@@ -1961,7 +1961,7 @@
                            "objectID": "F366C647-3357-CCE2-2D7B-3B0D2EBFEC07",
                            "name": "Ortelius, Abraham echa a Hagar y a Ishmael.jpg",
                            "attachmentType": "1",
-                           "location": "F366C647-3357-CCE2-2D7B-3B0D2EBFEC07\\Ortelius, Abraham echa a Hagar y a Ishmael.jpg",
+                           "location": "F366C647-3357-CCE2-2D7B-3B0D2EBFEC07/OrteliusAbrahamechaaHagaryaIshmael.jpg",
                            "dataLength": "55245",
                            "format": ".jpg"
                           }
@@ -1988,7 +1988,7 @@
                              "objectID": "56593CFE-D613-37C1-5991-38D79A66E195",
                              "name": "Ortelius, El Sacrificio de Isaac.jpg",
                              "attachmentType": "1",
-                             "location": "56593CFE-D613-37C1-5991-38D79A66E195\\Ortelius, El Sacrificio de Isaac.jpg",
+                             "location": "56593CFE-D613-37C1-5991-38D79A66E195/OrteliusElSacrificiodeIsaac.jpg",
                              "dataLength": "55553",
                              "format": ".jpg"
                             }
@@ -2015,7 +2015,7 @@
                                "objectID": "2B7E3C49-61E3-7609-A9E5-64EE7B72A80C",
                                "name": "Ortelius, La Muerte de Abraham.jpg",
                                "attachmentType": "1",
-                               "location": "2B7E3C49-61E3-7609-A9E5-64EE7B72A80C\\Ortelius, La Muerte de Abraham.jpg",
+                               "location": "2B7E3C49-61E3-7609-A9E5-64EE7B72A80C/OrteliusLaMuertedeAbraham.jpg",
                                "dataLength": "54286",
                                "format": ".jpg"
                               }
@@ -2063,7 +2063,7 @@
            "objectID": "7A22DA9A-DE90-ABED-F4F5-300AD3B57259",
            "name": "Blaeu, mapa de Tierra Santa, Amsterdam, 1629,  BNI, Cartucho - Mois&#233;s y Ar&#243;n.jpg",
            "attachmentType": "1",
-           "location": "7A22DA9A-DE90-ABED-F4F5-300AD3B57259\\Blaeu, mapa de Tierra Santa, Amsterdam, 1629,  BNI, Cartucho - Mois&#233;s y Ar&#243;n.jpg",
+           "location": "7A22DA9A-DE90-ABED-F4F5-300AD3B57259/BlaeumapadeTierraSantaAmsterdam1629BNICartucho-MoissyArn.jpg",
            "dataLength": "163951",
            "format": ".jpg"
           },
@@ -2075,7 +2075,7 @@
            "objectID": "7A22DA9A-DE90-ABED-F4F5-300AD3B57259",
            "name": "Blaeu, mapa de Tierra Santa, Amsterdam, 1629,  BNI, Sinai.jpg",
            "attachmentType": "1",
-           "location": "7A22DA9A-DE90-ABED-F4F5-300AD3B57259\\Blaeu, mapa de Tierra Santa, Amsterdam, 1629,  BNI, Sinai.jpg",
+           "location": "7A22DA9A-DE90-ABED-F4F5-300AD3B57259/BlaeumapadeTierraSantaAmsterdam1629BNISinai.jpg",
            "dataLength": "98779",
            "format": ".jpg"
           },
@@ -2087,7 +2087,7 @@
            "objectID": "7A22DA9A-DE90-ABED-F4F5-300AD3B57259",
            "name": "Blaeu, mapa de Tierra Santa, Amsterdam, 1629,  BNI.jpg",
            "attachmentType": "1",
-           "location": "7A22DA9A-DE90-ABED-F4F5-300AD3B57259\\Blaeu, mapa de Tierra Santa, Amsterdam, 1629,  BNI.jpg",
+           "location": "7A22DA9A-DE90-ABED-F4F5-300AD3B57259/BlaeumapadeTierraSantaAmsterdam1629BNI.jpg",
            "dataLength": "281881",
            "format": ".jpg"
           }
@@ -2114,7 +2114,7 @@
              "objectID": "59F52661-704F-4019-E3DC-0E8699299647",
              "name": "Seutter, mapa de Tierra Santa, Augsburg, 1725, BNI.jpg",
              "attachmentType": "1",
-             "location": "59F52661-704F-4019-E3DC-0E8699299647\\Seutter, mapa de Tierra Santa, Augsburg, 1725, BNI.jpg",
+             "location": "59F52661-704F-4019-E3DC-0E8699299647/SeuttermapadeTierraSantaAugsburg1725BNI.jpg",
              "dataLength": "246418",
              "format": ".jpg"
             }
@@ -2141,7 +2141,7 @@
                "objectID": "0711F4D9-F275-9116-0C43-AE1B48ADAD97",
                "name": "An&#243;nimo, mapa de Tierra Santa, los Pa&#237;ses Bajos, principios del siglo XVII, BNI.jpg",
                "attachmentType": "1",
-               "location": "0711F4D9-F275-9116-0C43-AE1B48ADAD97\\An&#243;nimo, mapa de Tierra Santa, los Pa&#237;ses Bajos, principios del siglo XVII, BNI.jpg",
+               "location": "0711F4D9-F275-9116-0C43-AE1B48ADAD97/AnnimomapadeTierraSantalosPasesBajosprincipiosdelsigloXVIIBNI.jpg",
                "dataLength": "279519",
                "format": ".jpg"
               }
@@ -2175,7 +2175,7 @@
          "objectID": "EA722CB1-C926-E708-A0CF-FD4515FA7174",
          "name": "de Hooghe, mapa de Jerusal&#233;n, Amsterdam, [167-], BNI.jpg",
          "attachmentType": "1",
-         "location": "EA722CB1-C926-E708-A0CF-FD4515FA7174\\de Hooghe, mapa de Jerusal&#233;n, Amsterdam, [167-], BNI.jpg",
+         "location": "EA722CB1-C926-E708-A0CF-FD4515FA7174/deHooghemapadeJerusalnAmsterdam[167-]BNI.jpg",
          "dataLength": "315287",
          "format": ".jpg"
         }
@@ -2200,7 +2200,7 @@
            "objectID": "34D4BBF6-4BD4-7A1C-03CD-AB701C9D6ADF",
            "name": "Adrichem, mapa de Jerusal&#233;n, Colonia, 1584,  BNI.jpg",
            "attachmentType": "1",
-           "location": "34D4BBF6-4BD4-7A1C-03CD-AB701C9D6ADF\\Adrichem, mapa de Jerusal&#233;n, Colonia, 1584,  BNI.jpg",
+           "location": "34D4BBF6-4BD4-7A1C-03CD-AB701C9D6ADF/AdrichemmapadeJerusalnColonia1584BNI.jpg",
            "dataLength": "303458",
            "format": ".jpg"
           }
@@ -2237,7 +2237,7 @@
                "objectID": "0FFC77F0-B99E-2476-09CE-A0D9E29B572E",
                "name": "Adrichom - Antonia.jpg",
                "attachmentType": "1",
-               "location": "0FFC77F0-B99E-2476-09CE-A0D9E29B572E\\Adrichom - Antonia.jpg",
+               "location": "0FFC77F0-B99E-2476-09CE-A0D9E29B572E/Adrichom-Antonia.jpg",
                "dataLength": "102339",
                "format": ".jpg"
               }
@@ -2264,7 +2264,7 @@
                  "objectID": "6A395F06-ED22-D3F6-5818-7B3FCD5EC89C",
                  "name": "Adrichom - Via Dolorosa.jpg",
                  "attachmentType": "1",
-                 "location": "6A395F06-ED22-D3F6-5818-7B3FCD5EC89C\\Adrichom - Via Dolorosa.jpg",
+                 "location": "6A395F06-ED22-D3F6-5818-7B3FCD5EC89C/Adrichom-ViaDolorosa.jpg",
                  "dataLength": "248135",
                  "format": ".jpg"
                 }
@@ -2291,7 +2291,7 @@
                    "objectID": "651C9398-6DE3-E88D-ED58-67B2B2FB3CDC",
                    "name": "Adrichom - Calvario.jpg",
                    "attachmentType": "1",
-                   "location": "651C9398-6DE3-E88D-ED58-67B2B2FB3CDC\\Adrichom - Calvario.jpg",
+                   "location": "651C9398-6DE3-E88D-ED58-67B2B2FB3CDC/Adrichom-Calvario.jpg",
                    "dataLength": "54326",
                    "format": ".jpg"
                   }
@@ -2337,7 +2337,7 @@
                "objectID": "3DAB21FF-966D-245B-FA4B-254A19B99BA3",
                "name": "Adrichem - Batsheva.jpg",
                "attachmentType": "1",
-               "location": "3DAB21FF-966D-245B-FA4B-254A19B99BA3\\Adrichem - Batsheva.jpg",
+               "location": "3DAB21FF-966D-245B-FA4B-254A19B99BA3/Adrichem-Batsheva.jpg",
                "dataLength": "70206",
                "format": ".jpg"
               }
@@ -2364,7 +2364,7 @@
                  "objectID": "0D0001E2-9AB0-C8D7-D1E8-4F264F3492E3",
                  "name": "Adrichem - el Templo de Solom&#243;n.jpg",
                  "attachmentType": "1",
-                 "location": "0D0001E2-9AB0-C8D7-D1E8-4F264F3492E3\\Adrichem - el Templo de Solom&#243;n.jpg",
+                 "location": "0D0001E2-9AB0-C8D7-D1E8-4F264F3492E3/Adrichem-elTemplodeSolomn.jpg",
                  "dataLength": "214398",
                  "format": ".jpg"
                 }
@@ -2391,7 +2391,7 @@
                    "objectID": "778E7CCF-121C-43EB-D90B-506DE94895AE",
                    "name": "Adrichem - Moloch.jpg",
                    "attachmentType": "1",
-                   "location": "778E7CCF-121C-43EB-D90B-506DE94895AE\\Adrichem - Moloch.jpg",
+                   "location": "778E7CCF-121C-43EB-D90B-506DE94895AE/Adrichem-Moloch.jpg",
                    "dataLength": "79018",
                    "format": ".jpg"
                   }
@@ -2418,7 +2418,7 @@
                      "objectID": "0DB382F6-510F-5087-AC47-B73DFE1D73E8",
                      "name": "Adrichem - campamento de los Babilonios.jpg",
                      "attachmentType": "1",
-                     "location": "0DB382F6-510F-5087-AC47-B73DFE1D73E8\\Adrichem - campamento de los Babilonios.jpg",
+                     "location": "0DB382F6-510F-5087-AC47-B73DFE1D73E8/Adrichem-campamentodelosBabilonios.jpg",
                      "dataLength": "85777",
                      "format": ".jpg"
                     }
@@ -2456,7 +2456,7 @@
            "objectID": "D6539996-DFC9-BC58-BAE5-0CF5F3DC07E3",
            "name": "Daumont, mapa de Jerusal&#233;n, Par&#237;s, 1780, BNI.jpg",
            "attachmentType": "1",
-           "location": "D6539996-DFC9-BC58-BAE5-0CF5F3DC07E3\\Daumont, mapa de Jerusal&#233;n, Par&#237;s, 1780, BNI.jpg",
+           "location": "D6539996-DFC9-BC58-BAE5-0CF5F3DC07E3/DaumontmapadeJerusalnPars1780BNI.jpg",
            "dataLength": "264158",
            "format": ".jpg"
           }
@@ -2483,7 +2483,7 @@
              "objectID": "9EFBCA9C-E69A-0CE6-3F14-63FF4B04AEED",
              "name": "Hogenberg, Braun y Jansson, mapa de Jerusal&#233;n, Amsterdam, 1657, BNI.jpg",
              "attachmentType": "1",
-             "location": "9EFBCA9C-E69A-0CE6-3F14-63FF4B04AEED\\Hogenberg, Braun y Jansson, mapa de Jerusal&#233;n, Amsterdam, 1657, BNI.jpg",
+             "location": "9EFBCA9C-E69A-0CE6-3F14-63FF4B04AEED/HogenbergBraunyJanssonmapadeJerusalnAmsterdam1657BNI.jpg",
              "dataLength": "301369",
              "format": ".jpg"
             }
@@ -2510,7 +2510,7 @@
                "objectID": "62CF2583-19FF-9B73-7ED2-2E3C833E1F7F",
                "name": "Antonino de Angelis, mapa de Jerusal&#233;n, Roma, 1578, BNI.jpg",
                "attachmentType": "1",
-               "location": "62CF2583-19FF-9B73-7ED2-2E3C833E1F7F\\Antonino de Angelis, mapa de Jerusal&#233;n, Roma, 1578, BNI.jpg",
+               "location": "62CF2583-19FF-9B73-7ED2-2E3C833E1F7F/AntoninodeAngelismapadeJerusalnRoma1578BNI.jpg",
                "dataLength": "286501",
                "format": ".jpg"
               },
@@ -2522,7 +2522,7 @@
                "objectID": "62CF2583-19FF-9B73-7ED2-2E3C833E1F7F",
                "name": "Dapper, mapa de Jerusal&#233;n, &apos;De Stadt Ierusalem zoot Hedendaeghs Bevonden wordt&apos; Amsterdam, 1677, BNI .jpg",
                "attachmentType": "1",
-               "location": "62CF2583-19FF-9B73-7ED2-2E3C833E1F7F\\Dapper, mapa de Jerusal&#233;n, &apos;De Stadt Ierusalem zoot Hedendaeghs Bevonden wordt&apos; Amsterdam, 1677, BNI .jpg",
+               "location": "62CF2583-19FF-9B73-7ED2-2E3C833E1F7F/DappermapadeJerusalnDeStadtIerusalemzootHedendaeghsBevondenwordtAmsterdam1677BNI.jpg",
                "dataLength": "333177",
                "format": ".jpg"
               }
@@ -2549,7 +2549,7 @@
                  "objectID": "F1A2E200-3903-B57D-F9ED-561C9A606EB0",
                  "name": "Mondhare, Jerusal&#233;n, Par&#237;s 1770, &apos;Jerusalem Ville Capitale de la Palestine sous David et Salomon&apos;, BNI.jpg",
                  "attachmentType": "1",
-                 "location": "F1A2E200-3903-B57D-F9ED-561C9A606EB0\\Mondhare, Jerusal&#233;n, Par&#237;s 1770, &apos;Jerusalem Ville Capitale de la Palestine sous David et Salomon&apos;, BNI.jpg",
+                 "location": "F1A2E200-3903-B57D-F9ED-561C9A606EB0/MondhareJerusalnPars1770JerusalemVilleCapitaledelaPalestinesousDavidetSalomonBNI.jpg",
                  "dataLength": "121390",
                  "format": ".jpg"
                 }
@@ -2589,7 +2589,7 @@
      "objectID": "0A4643E2-FE0F-B2CE-3595-29CCBCE54838",
      "name": "Nizami, The Book of Alexander, manuscript - 17th century, India, NLI, detail.jpg",
      "attachmentType": "1",
-     "location": "0A4643E2-FE0F-B2CE-3595-29CCBCE54838\\Nizami, The Book of Alexander, manuscript - 17th century, India, NLI, detail.jpg",
+     "location": "0A4643E2-FE0F-B2CE-3595-29CCBCE54838/NizamiTheBookofAlexandermanuscript-17thcenturyIndiaNLIdetail.jpg",
      "dataLength": "114658",
      "format": ".jpg"
     }
@@ -2622,7 +2622,7 @@
          "objectID": "8B891ABA-038A-3184-4EEC-81EA424AF31D",
          "name": "Jami, Regalo al Noble, Persia, siglo XV,  BNI.jpg",
          "attachmentType": "1",
-         "location": "8B891ABA-038A-3184-4EEC-81EA424AF31D\\Jami, Regalo al Noble, Persia, siglo XV,  BNI.jpg",
+         "location": "8B891ABA-038A-3184-4EEC-81EA424AF31D/JamiRegaloalNoblePersiasigloXVBNI.jpg",
          "dataLength": "193418",
          "format": ".jpg"
         }
@@ -2649,7 +2649,7 @@
            "objectID": "3641CD08-1736-2005-B2F1-07DF95FEEBDC",
            "name": "Jami, Regalo al Noble, escena en un jard&#237;n persa, BNI.jpg",
            "attachmentType": "1",
-           "location": "3641CD08-1736-2005-B2F1-07DF95FEEBDC\\Jami, Regalo al Noble, escena en un jard&#237;n persa, BNI.jpg",
+           "location": "3641CD08-1736-2005-B2F1-07DF95FEEBDC/JamiRegaloalNobleescenaenunjardnpersaBNI.jpg",
            "dataLength": "256144",
            "format": ".jpg"
           }
@@ -2681,7 +2681,7 @@
        "objectID": "5D28A0C8-3777-05BD-F7B8-93F0360B0BC6",
        "name": "Nizami, El Libro de Alejandro, manuscrito - India, siglo XVII, BNI.jpg",
        "attachmentType": "1",
-       "location": "5D28A0C8-3777-05BD-F7B8-93F0360B0BC6\\Nizami, El Libro de Alejandro, manuscrito - India, siglo XVII, BNI.jpg",
+       "location": "5D28A0C8-3777-05BD-F7B8-93F0360B0BC6/NizamiElLibrodeAlejandromanuscrito-IndiasigloXVIIBNI.jpg",
        "dataLength": "186506",
        "format": ".jpg"
       }
@@ -2707,7 +2707,7 @@
        "objectID": "A644331A-76D0-F19B-F559-BCF92E098237",
        "name": "Al-Busiri, al-Burdah, manuscrito - Jerusal&#233;n, siglo XIV, BNI.jpg",
        "attachmentType": "1",
-       "location": "A644331A-76D0-F19B-F559-BCF92E098237\\Al-Busiri, al-Burdah, manuscrito - Jerusal&#233;n, siglo XIV, BNI.jpg",
+       "location": "A644331A-76D0-F19B-F559-BCF92E098237/Al-Busirial-Burdahmanuscrito-JerusalnsigloXIVBNI.jpg",
        "dataLength": "170656",
        "format": ".jpg"
       }
@@ -2745,7 +2745,7 @@
          "objectID": "D2A4CE8A-71E4-A342-78BF-9ABCCF2A3C76",
          "name": "Cor&#225;n, Qayrawan, siglo IX, BNI.jpg",
          "attachmentType": "1",
-         "location": "D2A4CE8A-71E4-A342-78BF-9ABCCF2A3C76\\Cor&#225;n, Qayrawan, siglo IX, BNI.jpg",
+         "location": "D2A4CE8A-71E4-A342-78BF-9ABCCF2A3C76/CornQayrawansigloIXBNI.jpg",
          "dataLength": "81165",
          "format": ".jpg"
         }
@@ -2772,7 +2772,7 @@
            "objectID": "EA34CD61-734A-6B9A-B216-CF6B5F2F3542",
            "name": "Un Cor&#225;n Andal&#250;si, siglo XII, BNI.jpg",
            "attachmentType": "1",
-           "location": "EA34CD61-734A-6B9A-B216-CF6B5F2F3542\\Un Cor&#225;n Andal&#250;si, siglo XII, BNI.jpg",
+           "location": "EA34CD61-734A-6B9A-B216-CF6B5F2F3542/UnCornAndalsisigloXIIBNI.jpg",
            "dataLength": "133625",
            "format": ".jpg"
           }
@@ -2804,7 +2804,7 @@
        "objectID": "E9D2870A-9528-B9CE-9EE5-E667565D0126",
        "name": "Abraham Shalom Yahuda (1877-1951), BNI.png",
        "attachmentType": "1",
-       "location": "E9D2870A-9528-B9CE-9EE5-E667565D0126\\Abraham Shalom Yahuda (1877-1951), BNI.png",
+       "location": "E9D2870A-9528-B9CE-9EE5-E667565D0126/AbrahamShalomYahuda(1877-1951)BNI.png",
        "dataLength": "421814",
        "format": ".png"
       }
@@ -2829,7 +2829,7 @@
          "objectID": "79B40A33-627E-2A53-5707-5A3C129A9EE6",
          "name": "Maim&#243;nides, Mishn&#233; Tor&#225;, 1300-1350, BNI.jpg",
          "attachmentType": "1",
-         "location": "79B40A33-627E-2A53-5707-5A3C129A9EE6\\Maim&#243;nides, Mishn&#233; Tor&#225;, 1300-1350, BNI.jpg",
+         "location": "79B40A33-627E-2A53-5707-5A3C129A9EE6/MaimnidesMishnTor1300-1350BNI.jpg",
          "dataLength": "93660",
          "format": ".jpg"
         },
@@ -2841,7 +2841,7 @@
          "objectID": "79B40A33-627E-2A53-5707-5A3C129A9EE6",
          "name": "Maim&#243;nides, Mishn&#233; Tor&#225;, 1300-1350, &apos;Mad&#225;&apos; (Ciencia), BNI.jpg",
          "attachmentType": "1",
-         "location": "79B40A33-627E-2A53-5707-5A3C129A9EE6\\Maim&#243;nides, Mishn&#233; Tor&#225;, 1300-1350, &apos;Mad&#225;&apos; (Ciencia), BNI.jpg",
+         "location": "79B40A33-627E-2A53-5707-5A3C129A9EE6/MaimnidesMishnTor1300-1350Mad(Ciencia)BNI.jpg",
          "dataLength": "259437",
          "format": ".jpg"
         },
@@ -2853,7 +2853,7 @@
          "objectID": "79B40A33-627E-2A53-5707-5A3C129A9EE6",
          "name": "Cor&#225;n, siglo IX, Qayrawan.jpg",
          "attachmentType": "1",
-         "location": "79B40A33-627E-2A53-5707-5A3C129A9EE6\\Cor&#225;n, siglo IX, Qayrawan.jpg",
+         "location": "79B40A33-627E-2A53-5707-5A3C129A9EE6/CornsigloIXQayrawan.jpg",
          "dataLength": "82432",
          "format": ".jpg"
         },
@@ -2865,7 +2865,7 @@
          "objectID": "79B40A33-627E-2A53-5707-5A3C129A9EE6",
          "name": "Libro de Horas, siglo XV, Brujas, BNI .jpg",
          "attachmentType": "1",
-         "location": "79B40A33-627E-2A53-5707-5A3C129A9EE6\\Libro de Horas, siglo XV, Brujas, BNI .jpg",
+         "location": "79B40A33-627E-2A53-5707-5A3C129A9EE6/LibrodeHorassigloXVBrujasBNI.jpg",
          "dataLength": "262694",
          "format": ".jpg"
         },
@@ -2877,7 +2877,7 @@
          "objectID": "79B40A33-627E-2A53-5707-5A3C129A9EE6",
          "name": "Muhammad al-Busiri, Al-Burdah (poema del Manto), mediados del siglo XIV, BNI.jpg",
          "attachmentType": "1",
-         "location": "79B40A33-627E-2A53-5707-5A3C129A9EE6\\Muhammad al-Busiri, Al-Burdah (poema del Manto), mediados del siglo XIV, BNI.jpg",
+         "location": "79B40A33-627E-2A53-5707-5A3C129A9EE6/Muhammadal-BusiriAl-Burdah(poemadelManto)mediadosdelsigloXIVBNI.jpg",
          "dataLength": "170656",
          "format": ".jpg"
         },
@@ -2889,7 +2889,7 @@
          "objectID": "79B40A33-627E-2A53-5707-5A3C129A9EE6",
          "name": "La carta de Napole&#243;n al General Destaing durante la campa&#241;a en Egipto, 9.7.1799 .jpg",
          "attachmentType": "1",
-         "location": "79B40A33-627E-2A53-5707-5A3C129A9EE6\\La carta de Napole&#243;n al General Destaing durante la campa&#241;a en Egipto, 9.7.1799 .jpg",
+         "location": "79B40A33-627E-2A53-5707-5A3C129A9EE6/LacartadeNapolenalGeneralDestaingdurantelacampaaenEgipto9.7.1799.jpg",
          "dataLength": "137508",
          "format": ".jpg"
         },
@@ -2901,7 +2901,7 @@
          "objectID": "79B40A33-627E-2A53-5707-5A3C129A9EE6",
          "name": "Privilegio otorgado a los Jud&#237;os por el Rey Alfonso V de Arag&#243;n, Zaragoza 1429, BNI.jpg",
          "attachmentType": "1",
-         "location": "79B40A33-627E-2A53-5707-5A3C129A9EE6\\Privilegio otorgado a los Jud&#237;os por el Rey Alfonso V de Arag&#243;n, Zaragoza 1429, BNI.jpg",
+         "location": "79B40A33-627E-2A53-5707-5A3C129A9EE6/PrivilegiootorgadoalosJudosporelReyAlfonsoVdeAragnZaragoza1429BNI.jpg",
          "dataLength": "203947",
          "format": ".jpg"
         }
@@ -2926,7 +2926,7 @@
            "objectID": "3FA4BE4E-827F-D0A9-14A8-AC440B454035",
            "name": "Maim&#243;nides, Mishn&#233; Tor&#225;, 1300-1350, &apos;Mad&#225;&apos; (Ciencia), BNI.jpg",
            "attachmentType": "1",
-           "location": "3FA4BE4E-827F-D0A9-14A8-AC440B454035\\Maim&#243;nides, Mishn&#233; Tor&#225;, 1300-1350, &apos;Mad&#225;&apos; (Ciencia), BNI.jpg",
+           "location": "3FA4BE4E-827F-D0A9-14A8-AC440B454035/MaimnidesMishnTor1300-1350Mad(Ciencia)BNI.jpg",
            "dataLength": "400794",
            "format": ".jpg"
           },
@@ -2938,7 +2938,7 @@
            "objectID": "3FA4BE4E-827F-D0A9-14A8-AC440B454035",
            "name": "Maim&#243;nides, Mishn&#233; Tor&#225;, 1300-1350, BNI.jpg",
            "attachmentType": "1",
-           "location": "3FA4BE4E-827F-D0A9-14A8-AC440B454035\\Maim&#243;nides, Mishn&#233; Tor&#225;, 1300-1350, BNI.jpg",
+           "location": "3FA4BE4E-827F-D0A9-14A8-AC440B454035/MaimnidesMishnTor1300-1350BNI.jpg",
            "dataLength": "105213",
            "format": ".jpg"
           },
@@ -2950,7 +2950,7 @@
            "objectID": "3FA4BE4E-827F-D0A9-14A8-AC440B454035",
            "name": "Maimonides, Mishn&#233; Tor&#225;, Maim&#243;nides, Jueces, copiado en 1433, BNI.jpg",
            "attachmentType": "1",
-           "location": "3FA4BE4E-827F-D0A9-14A8-AC440B454035\\Maimonides, Mishn&#233; Tor&#225;, Maim&#243;nides, Jueces, copiado en 1433, BNI.jpg",
+           "location": "3FA4BE4E-827F-D0A9-14A8-AC440B454035/MaimonidesMishnTorMaimnidesJuecescopiadoen1433BNI.jpg",
            "dataLength": "316242",
            "format": ".jpg"
           },
@@ -2962,7 +2962,7 @@
            "objectID": "3FA4BE4E-827F-D0A9-14A8-AC440B454035",
            "name": "Cantar de los Cantares, con traducci&#243;n y el comentario de Rashi, siglo XVIII, BNI.jpg",
            "attachmentType": "1",
-           "location": "3FA4BE4E-827F-D0A9-14A8-AC440B454035\\Cantar de los Cantares, con traducci&#243;n y el comentario de Rashi, siglo XVIII, BNI.jpg",
+           "location": "3FA4BE4E-827F-D0A9-14A8-AC440B454035/CantardelosCantarescontraduccinyelcomentariodeRashisigloXVIIIBNI.jpg",
            "dataLength": "381468",
            "format": ".jpg"
           }
@@ -2989,7 +2989,7 @@
              "objectID": "88071551-CAC3-80D5-97AF-5079AB420CAE",
              "name": "Privilegio otorgados a los Jud&#237;os por el Rey Alfonso V de Arag&#243;n, Zaragoza 1429, BNI.jpg",
              "attachmentType": "1",
-             "location": "88071551-CAC3-80D5-97AF-5079AB420CAE\\Privilegio otorgados a los Jud&#237;os por el Rey Alfonso V de Arag&#243;n, Zaragoza 1429, BNI.jpg",
+             "location": "88071551-CAC3-80D5-97AF-5079AB420CAE/PrivilegiootorgadosalosJudosporelReyAlfonsoVdeAragnZaragoza1429BNI.jpg",
              "dataLength": "203947",
              "format": ".jpg"
             }
@@ -3016,7 +3016,7 @@
                "objectID": "F28F8FD4-1A6F-CAC5-9791-31C1A1053676",
                "name": "Cor&#225;n, siglo IX, Qayrawan, BNI.jpg",
                "attachmentType": "1",
-               "location": "F28F8FD4-1A6F-CAC5-9791-31C1A1053676\\Cor&#225;n, siglo IX, Qayrawan, BNI.jpg",
+               "location": "F28F8FD4-1A6F-CAC5-9791-31C1A1053676/CornsigloIXQayrawanBNI.jpg",
                "dataLength": "308234",
                "format": ".jpg"
               },
@@ -3028,7 +3028,7 @@
                "objectID": "F28F8FD4-1A6F-CAC5-9791-31C1A1053676",
                "name": "Muhammad al-Busiri, Al-Burdah (poema de la Manta), mediados del siglo XIV, BNI.jpg",
                "attachmentType": "1",
-               "location": "F28F8FD4-1A6F-CAC5-9791-31C1A1053676\\Muhammad al-Busiri, Al-Burdah (poema de la Manta), mediados del siglo XIV, BNI.jpg",
+               "location": "F28F8FD4-1A6F-CAC5-9791-31C1A1053676/Muhammadal-BusiriAl-Burdah(poemadelaManta)mediadosdelsigloXIVBNI.jpg",
                "dataLength": "426621",
                "format": ".jpg"
               },
@@ -3040,7 +3040,7 @@
                "objectID": "F28F8FD4-1A6F-CAC5-9791-31C1A1053676",
                "name": "Un Cor&#225;n Andal&#250;z, siglo XII, BNI.jpg",
                "attachmentType": "1",
-               "location": "F28F8FD4-1A6F-CAC5-9791-31C1A1053676\\Un Cor&#225;n Andal&#250;z, siglo XII, BNI.jpg",
+               "location": "F28F8FD4-1A6F-CAC5-9791-31C1A1053676/UnCornAndalzsigloXIIBNI.jpg",
                "dataLength": "133625",
                "format": ".jpg"
               }
@@ -3067,7 +3067,7 @@
                  "objectID": "C92D560D-5645-2865-023C-FFAC343A6299",
                  "name": "Libro de Horas, siglo XV, Brujas, BNI .jpg",
                  "attachmentType": "1",
-                 "location": "C92D560D-5645-2865-023C-FFAC343A6299\\Libro de Horas, siglo XV, Brujas, BNI .jpg",
+                 "location": "C92D560D-5645-2865-023C-FFAC343A6299/LibrodeHorassigloXVBrujasBNI.jpg",
                  "dataLength": "432242",
                  "format": ".jpg"
                 },
@@ -3079,7 +3079,7 @@
                  "objectID": "C92D560D-5645-2865-023C-FFAC343A6299",
                  "name": "Ls carta de Napole&#243;n al  general Destaing durante la campa&#241;a en Egipto, 9.7.1799, BNI.jpg",
                  "attachmentType": "1",
-                 "location": "C92D560D-5645-2865-023C-FFAC343A6299\\Ls carta de Napole&#243;n al  general Destaing durante la campa&#241;a en Egipto, 9.7.1799, BNI.jpg",
+                 "location": "C92D560D-5645-2865-023C-FFAC343A6299/LscartadeNapolenalgeneralDestaingdurantelacampaaenEgipto9.7.1799BNI.jpg",
                  "dataLength": "485893",
                  "format": ".jpg"
                 },
@@ -3091,7 +3091,7 @@
                  "objectID": "C92D560D-5645-2865-023C-FFAC343A6299",
                  "name": "Newton, Mapa de la Quinta y la Sexta Trompeta, BNI.jpg",
                  "attachmentType": "1",
-                 "location": "C92D560D-5645-2865-023C-FFAC343A6299\\Newton, Mapa de la Quinta y la Sexta Trompeta, BNI.jpg",
+                 "location": "C92D560D-5645-2865-023C-FFAC343A6299/NewtonMapadelaQuintaylaSextaTrompetaBNI.jpg",
                  "dataLength": "179468",
                  "format": ".jpg"
                 }
@@ -3127,7 +3127,7 @@
          "objectID": "A6351551-62EE-E455-916F-996F497369D6",
          "name": "Sinagoga Santa Maria La Blanca, Toledo.jpg",
          "attachmentType": "1",
-         "location": "A6351551-62EE-E455-916F-996F497369D6\\Sinagoga Santa Maria La Blanca, Toledo.jpg",
+         "location": "A6351551-62EE-E455-916F-996F497369D6/SinagogaSantaMariaLaBlancaToledo.jpg",
          "dataLength": "71947",
          "format": ".jpg"
         }
@@ -3154,7 +3154,7 @@
            "objectID": "1E1FC4E4-EB6B-37E8-4D9C-5B15F9599EE6",
            "name": "Retrato de Abraham Shalom Yahuda, el estudio de G Krokorian, Jerusal&#233;n.jpg",
            "attachmentType": "1",
-           "location": "1E1FC4E4-EB6B-37E8-4D9C-5B15F9599EE6\\Retrato de Abraham Shalom Yahuda, el estudio de G Krokorian, Jerusal&#233;n.jpg",
+           "location": "1E1FC4E4-EB6B-37E8-4D9C-5B15F9599EE6/RetratodeAbrahamShalomYahudaelestudiodeGKrokorianJerusaln.jpg",
            "dataLength": "29672",
            "format": ".jpg"
           }
@@ -3181,7 +3181,7 @@
              "objectID": "4205FA5C-1034-4AD6-5F57-B7914EF2F2FD",
              "name": "Yahuda, esperando una audiencia con el Rey Alfonso XIII, 15.1.1916, BNI.jpg",
              "attachmentType": "1",
-             "location": "4205FA5C-1034-4AD6-5F57-B7914EF2F2FD\\Yahuda, esperando una audiencia con el Rey Alfonso XIII, 15.1.1916, BNI.jpg",
+             "location": "4205FA5C-1034-4AD6-5F57-B7914EF2F2FD/YahudaesperandounaaudienciaconelReyAlfonsoXIII15.1.1916BNI.jpg",
              "dataLength": "47756",
              "format": ".jpg"
             }
@@ -3243,7 +3243,7 @@
          "objectID": "E85FC4C9-9F79-E3CF-CFC6-385532AADF7A",
          "name": "El Cor&#225;n de Shiraz, Ir&#225;n, principios del siglo XVI, BNI.jpg",
          "attachmentType": "1",
-         "location": "E85FC4C9-9F79-E3CF-CFC6-385532AADF7A\\El Cor&#225;n de Shiraz, Ir&#225;n, principios del siglo XVI, BNI.jpg",
+         "location": "E85FC4C9-9F79-E3CF-CFC6-385532AADF7A/ElCorndeShirazIrnprincipiosdelsigloXVIBNI.jpg",
          "dataLength": "327636",
          "format": ".jpg"
         }
@@ -3270,7 +3270,7 @@
            "objectID": "CB984E7E-BE68-951B-69B3-EA7F108D345E",
            "name": "El Cor&#225;n de Shiraz, la oraci&#243;n cubierta en oro.jpg",
            "attachmentType": "1",
-           "location": "CB984E7E-BE68-951B-69B3-EA7F108D345E\\El Cor&#225;n de Shiraz, la oraci&#243;n cubierta en oro.jpg",
+           "location": "CB984E7E-BE68-951B-69B3-EA7F108D345E/ElCorndeShirazlaoracincubiertaenoro.jpg",
            "dataLength": "204482",
            "format": ".jpg"
           }
@@ -3297,7 +3297,7 @@
              "objectID": "A2DCEFBF-C896-A2B3-79EB-898B91470F51",
              "name": "El Cor&#225;n de Shiraz, Ir&#225;n, principios del siglo XVI, Dos sellos en la portada del manuscrito, BNI.jpg",
              "attachmentType": "1",
-             "location": "A2DCEFBF-C896-A2B3-79EB-898B91470F51\\El Cor&#225;n de Shiraz, Ir&#225;n, principios del siglo XVI, Dos sellos en la portada del manuscrito, BNI.jpg",
+             "location": "A2DCEFBF-C896-A2B3-79EB-898B91470F51/ElCorndeShirazIrnprincipiosdelsigloXVIDossellosenlaportadadelmanuscritoBNI.jpg",
              "dataLength": "118490",
              "format": ".jpg"
             }
@@ -3324,7 +3324,7 @@
                "objectID": "91B48F92-D65D-CC3F-D13F-E59555B7EDAF",
                "name": "Shukri Bey Biltisi, Selim Nameh (El Libro de Selim), manuscrito-1524, BNI.jpg",
                "attachmentType": "1",
-               "location": "91B48F92-D65D-CC3F-D13F-E59555B7EDAF\\Shukri Bey Biltisi, Selim Nameh (El Libro de Selim), manuscrito-1524, BNI.jpg",
+               "location": "91B48F92-D65D-CC3F-D13F-E59555B7EDAF/ShukriBeyBiltisiSelimNameh(ElLibrodeSelim)manuscrito-1524BNI.jpg",
                "dataLength": "179982",
                "format": ".jpg"
               }
@@ -3351,7 +3351,7 @@
                  "objectID": "858F39C1-9B1F-819D-9F1B-D800CA7FC265",
                  "name": "El Sultan Selim a caballo.jpg",
                  "attachmentType": "1",
-                 "location": "858F39C1-9B1F-819D-9F1B-D800CA7FC265\\El Sultan Selim a caballo.jpg",
+                 "location": "858F39C1-9B1F-819D-9F1B-D800CA7FC265/ElSultanSelimacaballo.jpg",
                  "dataLength": "113766",
                  "format": ".jpg"
                 }
@@ -3391,7 +3391,7 @@
      "objectID": "E07DE180-4F9F-F5EF-5597-F1B13CA9F5B3",
      "name": "Maim&#243;nides, relieve de m&#225;rmol en Capitol Hill, Washington. artista - Brenda Putnam.jpg",
      "attachmentType": "1",
-     "location": "E07DE180-4F9F-F5EF-5597-F1B13CA9F5B3\\Maim&#243;nides, relieve de m&#225;rmol en Capitol Hill, Washington. artista - Brenda Putnam.jpg",
+     "location": "E07DE180-4F9F-F5EF-5597-F1B13CA9F5B3/MaimnidesrelievedemrmolenCapitolHillWashington.artista-BrendaPutnam.jpg",
      "dataLength": "91891",
      "format": ".jpg"
     }
@@ -3412,7 +3412,7 @@
        "objectID": "4504BA63-8A03-E369-3B65-6AA7A2D71392",
        "name": "Aut&#243;grafo de Maim&#243;nides, Seder Mo&apos;ed,  P&#225;gina 72, detalles, BNI.jpg",
        "attachmentType": "1",
-       "location": "4504BA63-8A03-E369-3B65-6AA7A2D71392\\Aut&#243;grafo de Maim&#243;nides, Seder Mo&apos;ed,  P&#225;gina 72, detalles, BNI.jpg",
+       "location": "4504BA63-8A03-E369-3B65-6AA7A2D71392/AutgrafodeMaimnidesSederMoedPgina72detallesBNI.jpg",
        "dataLength": "165770",
        "format": ".jpg"
       },
@@ -3424,7 +3424,7 @@
        "objectID": "4504BA63-8A03-E369-3B65-6AA7A2D71392",
        "name": "Aut&#243;grafo de Maim&#243;nides, Seder Mo&apos;ed, P&#225;gina 72, BNI.jpg",
        "attachmentType": "1",
-       "location": "4504BA63-8A03-E369-3B65-6AA7A2D71392\\Aut&#243;grafo de Maim&#243;nides, Seder Mo&apos;ed, P&#225;gina 72, BNI.jpg",
+       "location": "4504BA63-8A03-E369-3B65-6AA7A2D71392/AutgrafodeMaimnidesSederMoedPgina72BNI.jpg",
        "dataLength": "190958",
        "format": ".jpg"
       }
@@ -3461,7 +3461,7 @@
          "objectID": "F7473840-FD1D-D51D-F9E9-E5C0737401F5",
          "name": "Mishn&#225;, Seder Nezikin, Masekhet Avot, detalle de la Gueniz&#225; del Cairo, BNI.jpg",
          "attachmentType": "1",
-         "location": "F7473840-FD1D-D51D-F9E9-E5C0737401F5\\Mishn&#225;, Seder Nezikin, Masekhet Avot, detalle de la Gueniz&#225; del Cairo, BNI.jpg",
+         "location": "F7473840-FD1D-D51D-F9E9-E5C0737401F5/MishnSederNezikinMasekhetAvotdetalledelaGuenizdelCairoBNI.jpg",
          "dataLength": "72789",
          "format": ".jpg"
         }
@@ -3488,7 +3488,7 @@
          "objectID": "7505D43F-518B-4B46-4495-45B81531F2A9",
          "name": "Judeo-&#193;rabe, letras &#193;rabes y Hebreas.gif",
          "attachmentType": "1",
-         "location": "7505D43F-518B-4B46-4495-45B81531F2A9\\Judeo-&#193;rabe, letras &#193;rabes y Hebreas.gif",
+         "location": "7505D43F-518B-4B46-4495-45B81531F2A9/Judeo-rabeletrasrabesyHebreas.gif",
          "dataLength": "7124",
          "format": ".gif"
         },
@@ -3500,7 +3500,7 @@
          "objectID": "7505D43F-518B-4B46-4495-45B81531F2A9",
          "name": "Sa&apos;adiah Gaon, Kitab al-amanat wal-i tiqadat (Libro de Creencias y Opiniones), BNI.jpg",
          "attachmentType": "1",
-         "location": "7505D43F-518B-4B46-4495-45B81531F2A9\\Sa&apos;adiah Gaon, Kitab al-amanat wal-i tiqadat (Libro de Creencias y Opiniones), BNI.jpg",
+         "location": "7505D43F-518B-4B46-4495-45B81531F2A9/SaadiahGaonKitabal-amanatwal-itiqadat(LibrodeCreenciasyOpiniones)BNI.jpg",
          "dataLength": "207763",
          "format": ".jpg"
         },
@@ -3538,7 +3538,7 @@
          "objectID": "04742146-4A6C-FCA8-766B-176722205CC9",
          "name": "Talmud, Seder Nashim, Venecia 1523, P&#225;gina 1.jpg",
          "attachmentType": "1",
-         "location": "04742146-4A6C-FCA8-766B-176722205CC9\\Talmud, Seder Nashim, Venecia 1523, P&#225;gina 1.jpg",
+         "location": "04742146-4A6C-FCA8-766B-176722205CC9/TalmudSederNashimVenecia1523Pgina1.jpg",
          "dataLength": "146333",
          "format": ".jpg"
         }
@@ -3577,7 +3577,7 @@
            "objectID": "82E599B4-743F-E479-ECDA-1F0B8FC4E538",
            "name": "Alepo.jpg",
            "attachmentType": "1",
-           "location": "82E599B4-743F-E479-ECDA-1F0B8FC4E538\\Alepo.jpg",
+           "location": "82E599B4-743F-E479-ECDA-1F0B8FC4E538/Alepo.jpg",
            "dataLength": "54715",
            "format": ".jpg"
           }
@@ -3604,7 +3604,7 @@
              "objectID": "0364CF7B-3F0B-C121-C39B-5D4439E226F6",
              "name": "Un model de la Sinagoga de Alepo, Beit Ha-Tfutsot, Museo del Pueblo Jud&#237;o, Tel Aviv, Israel.jpg",
              "attachmentType": "1",
-             "location": "0364CF7B-3F0B-C121-C39B-5D4439E226F6\\Un model de la Sinagoga de Alepo, Beit Ha-Tfutsot, Museo del Pueblo Jud&#237;o, Tel Aviv, Israel.jpg",
+             "location": "0364CF7B-3F0B-C121-C39B-5D4439E226F6/UnmodeldelaSinagogadeAlepoBeitHa-TfutsotMuseodelPuebloJudoTelAvivIsrael.jpg",
              "dataLength": "57298",
              "format": ".jpg"
             }
@@ -3631,7 +3631,7 @@
                "objectID": "1E9B1ED7-FC05-8624-14CD-02272D8B60A1",
                "name": "Portae Lucis, traducci&#243;n al Lat&#237;n de la obra cabal&#237;stica de Gikatilla Shaarei Ora - Las Puertas de la Luz.jpg",
                "attachmentType": "1",
-               "location": "1E9B1ED7-FC05-8624-14CD-02272D8B60A1\\Portae Lucis, traducci&#243;n al Lat&#237;n de la obra cabal&#237;stica de Gikatilla Shaarei Ora - Las Puertas de la Luz.jpg",
+               "location": "1E9B1ED7-FC05-8624-14CD-02272D8B60A1/PortaeLucistraduccinalLatndelaobracabalsticadeGikatillaShaareiOra-LasPuertasdelaLuz.jpg",
                "dataLength": "128731",
                "format": ".jpg"
               }
@@ -3708,7 +3708,7 @@
        "objectID": "B45441E4-0097-0317-6BDB-FD5F59E44DDA",
        "name": "Medalla Oficial del Estado de Israel conmemorando el 800 aniversario de Maim&#243;nides, Israel Coins and Medals Corporation.jpg",
        "attachmentType": "1",
-       "location": "B45441E4-0097-0317-6BDB-FD5F59E44DDA\\Medalla Oficial del Estado de Israel conmemorando el 800 aniversario de Maim&#243;nides, Israel Coins and Medals Corporation.jpg",
+       "location": "B45441E4-0097-0317-6BDB-FD5F59E44DDA/MedallaOficialdelEstadodeIsraelconmemorandoel800aniversariodeMaimnidesIsraelCoinsandMedalsCorporation.jpg",
        "dataLength": "146802",
        "format": ".jpg"
       }
@@ -3733,7 +3733,7 @@
          "objectID": "6BCDA941-C0D4-3E08-7823-4101211A63A8",
          "name": "La estatua de Maim&#243;nides en el barrio jud&#237;o de C&#243;rdoba.jpg",
          "attachmentType": "1",
-         "location": "6BCDA941-C0D4-3E08-7823-4101211A63A8\\La estatua de Maim&#243;nides en el barrio jud&#237;o de C&#243;rdoba.jpg",
+         "location": "6BCDA941-C0D4-3E08-7823-4101211A63A8/LaestatuadeMaimnidesenelbarriojudodeCrdoba.jpg",
          "dataLength": "112394",
          "format": ".jpg"
         }
@@ -3772,7 +3772,7 @@
            "objectID": "DF6089D1-D5E1-82D5-A31D-1B98BE878817",
            "name": "Jabir ibn Aflah, Europe, siglo XVI, grabado en madera, la biblioteca de la University of Pennsylvania.jpg",
            "attachmentType": "1",
-           "location": "DF6089D1-D5E1-82D5-A31D-1B98BE878817\\Jabir ibn Aflah, Europe, siglo XVI, grabado en madera, la biblioteca de la University of Pennsylvania.jpg",
+           "location": "DF6089D1-D5E1-82D5-A31D-1B98BE878817/JabiribnAflahEuropesigloXVIgrabadoenmaderalabibliotecadelaUniversityofPennsylvania.jpg",
            "dataLength": "31137",
            "format": ".jpg"
           },
@@ -3784,7 +3784,7 @@
            "objectID": "DF6089D1-D5E1-82D5-A31D-1B98BE878817",
            "name": "Hanhagat ha-Beri&apos;ut (tratado de medicina) de Maim&#243;nides, Florencia 1481, BNI.jpg",
            "attachmentType": "1",
-           "location": "DF6089D1-D5E1-82D5-A31D-1B98BE878817\\Hanhagat ha-Beri&apos;ut (tratado de medicina) de Maim&#243;nides, Florencia 1481, BNI.jpg",
+           "location": "DF6089D1-D5E1-82D5-A31D-1B98BE878817/Hanhagatha-Beriut(tratadodemedicina)deMaimnidesFlorencia1481BNI.jpg",
            "dataLength": "130728",
            "format": ".jpg"
           },
@@ -3796,7 +3796,7 @@
            "objectID": "DF6089D1-D5E1-82D5-A31D-1B98BE878817",
            "name": "Logica Sapientis Rabbi Simeonis de Maim&#243;nides, traducci&#243;n al Lat&#237;n, Basilea 1527, BNI.jpg",
            "attachmentType": "1",
-           "location": "DF6089D1-D5E1-82D5-A31D-1B98BE878817\\Logica Sapientis Rabbi Simeonis de Maim&#243;nides, traducci&#243;n al Lat&#237;n, Basilea 1527, BNI.jpg",
+           "location": "DF6089D1-D5E1-82D5-A31D-1B98BE878817/LogicaSapientisRabbiSimeonisdeMaimnidestraduccinalLatnBasilea1527BNI.jpg",
            "dataLength": "224512",
            "format": ".jpg"
           }
@@ -3823,7 +3823,7 @@
              "objectID": "E1888FC1-0603-B624-13D6-938AB577AFEC",
              "name": "Primera p&#225;gina de un manuscrito del siglo XVI del C&#225;non de Avicenna, Yale University.jpg",
              "attachmentType": "1",
-             "location": "E1888FC1-0603-B624-13D6-938AB577AFEC\\Primera p&#225;gina de un manuscrito del siglo XVI del C&#225;non de Avicenna, Yale University.jpg",
+             "location": "E1888FC1-0603-B624-13D6-938AB577AFEC/PrimerapginadeunmanuscritodelsigloXVIdelCnondeAvicennaYaleUniversity.jpg",
              "dataLength": "135635",
              "format": ".jpg"
             }
@@ -3850,7 +3850,7 @@
                "objectID": "6822BDD0-145C-CE84-8515-80CF50AB53C6",
                "name": "Expansi&#243;n Almohade.png",
                "attachmentType": "1",
-               "location": "6822BDD0-145C-CE84-8515-80CF50AB53C6\\Expansi&#243;n Almohade.png",
+               "location": "6822BDD0-145C-CE84-8515-80CF50AB53C6/ExpansinAlmohade.png",
                "dataLength": "22136",
                "format": ".png"
               }
@@ -3877,7 +3877,7 @@
                  "objectID": "FD78C210-0204-98D5-380D-23FB99FBAFC1",
                  "name": "Iggeret ha-Shemad (ep&#237;stola sobre la conversi&#243;n forzada), la edici&#243;n de Abraham Geiger, Breslau, 1850.jpg",
                  "attachmentType": "1",
-                 "location": "FD78C210-0204-98D5-380D-23FB99FBAFC1\\Iggeret ha-Shemad (ep&#237;stola sobre la conversi&#243;n forzada), la edici&#243;n de Abraham Geiger, Breslau, 1850.jpg",
+                 "location": "FD78C210-0204-98D5-380D-23FB99FBAFC1/Iggeretha-Shemad(epstolasobrelaconversinforzada)laedicindeAbrahamGeigerBreslau1850.jpg",
                  "dataLength": "166625",
                  "format": ".jpg"
                 },
@@ -3889,7 +3889,7 @@
                  "objectID": "FD78C210-0204-98D5-380D-23FB99FBAFC1",
                  "name": "La casa de Maim&#243;nides en Fes.jpg",
                  "attachmentType": "1",
-                 "location": "FD78C210-0204-98D5-380D-23FB99FBAFC1\\La casa de Maim&#243;nides en Fes.jpg",
+                 "location": "FD78C210-0204-98D5-380D-23FB99FBAFC1/LacasadeMaimnidesenFes.jpg",
                  "dataLength": "24760",
                  "format": ".jpg"
                 }
@@ -3916,7 +3916,7 @@
                    "objectID": "A35916B5-7608-6F21-7BC9-A0335815B679",
                    "name": "Mapa de Acre, Petrus Vesconte, siglo XVII, Civitas Acon Sive Ptolomayda.jpg",
                    "attachmentType": "1",
-                   "location": "A35916B5-7608-6F21-7BC9-A0335815B679\\Mapa de Acre, Petrus Vesconte, siglo XVII, Civitas Acon Sive Ptolomayda.jpg",
+                   "location": "A35916B5-7608-6F21-7BC9-A0335815B679/MapadeAcrePetrusVescontesigloXVIICivitasAconSivePtolomayda.jpg",
                    "dataLength": "271738",
                    "format": ".jpg"
                   }
@@ -3943,7 +3943,7 @@
                      "objectID": "3EE8A4EF-31C3-0F71-1601-DE5687F37E0B",
                      "name": "Al-Fustat (Cairo antiguo).jpg",
                      "attachmentType": "1",
-                     "location": "3EE8A4EF-31C3-0F71-1601-DE5687F37E0B\\Al-Fustat (Cairo antiguo).jpg",
+                     "location": "3EE8A4EF-31C3-0F71-1601-DE5687F37E0B/Al-Fustat(Cairoantiguo).jpg",
                      "dataLength": "28637",
                      "format": ".jpg"
                     },
@@ -3955,7 +3955,7 @@
                      "objectID": "3EE8A4EF-31C3-0F71-1601-DE5687F37E0B",
                      "name": "Mural, Fustat, Dinast&#237;a Fatim&#237; (909-1171).jpg",
                      "attachmentType": "1",
-                     "location": "3EE8A4EF-31C3-0F71-1601-DE5687F37E0B\\Mural, Fustat, Dinast&#237;a Fatim&#237; (909-1171).jpg",
+                     "location": "3EE8A4EF-31C3-0F71-1601-DE5687F37E0B/MuralFustatDinastaFatim(909-1171).jpg",
                      "dataLength": "50003",
                      "format": ".jpg"
                     }
@@ -3982,7 +3982,7 @@
                        "objectID": "AA3EB497-D1C2-9CA5-9B12-6CC4C0D9CBE5",
                        "name": "Maim&#243;nides, Hanhagat ha-Beri&apos;ut (tratado de medicina), traducci&#243;n al Lat&#237;n, Florencia, 1481.jpg",
                        "attachmentType": "1",
-                       "location": "AA3EB497-D1C2-9CA5-9B12-6CC4C0D9CBE5\\Maim&#243;nides, Hanhagat ha-Beri&apos;ut (tratado de medicina), traducci&#243;n al Lat&#237;n, Florencia, 1481.jpg",
+                       "location": "AA3EB497-D1C2-9CA5-9B12-6CC4C0D9CBE5/MaimnidesHanhagatha-Beriut(tratadodemedicina)traduccinalLatnFlorencia1481.jpg",
                        "dataLength": "130728",
                        "format": ".jpg"
                       }
@@ -4009,7 +4009,7 @@
                          "objectID": "DA464CF2-2281-D4EB-D641-99C567B2DE43",
                          "name": "Reconstrucci&#243;n de la Sinagoga Ben Ezra, 2.jpg",
                          "attachmentType": "1",
-                         "location": "DA464CF2-2281-D4EB-D641-99C567B2DE43\\Reconstrucci&#243;n de la Sinagoga Ben Ezra, 2.jpg",
+                         "location": "DA464CF2-2281-D4EB-D641-99C567B2DE43/ReconstruccindelaSinagogaBenEzra2.jpg",
                          "dataLength": "44987",
                          "format": ".jpg"
                         },
@@ -4021,7 +4021,7 @@
                          "objectID": "DA464CF2-2281-D4EB-D641-99C567B2DE43",
                          "name": "Reconstrucci&#243;n de la Sinagoga Ben Ezra.jpg",
                          "attachmentType": "1",
-                         "location": "DA464CF2-2281-D4EB-D641-99C567B2DE43\\Reconstrucci&#243;n de la Sinagoga Ben Ezra.jpg",
+                         "location": "DA464CF2-2281-D4EB-D641-99C567B2DE43/ReconstruccindelaSinagogaBenEzra.jpg",
                          "dataLength": "62047",
                          "format": ".jpg"
                         },
@@ -4033,7 +4033,7 @@
                          "objectID": "DA464CF2-2281-D4EB-D641-99C567B2DE43",
                          "name": "La Sinagoga Ben Ezra, 2.jpg",
                          "attachmentType": "1",
-                         "location": "DA464CF2-2281-D4EB-D641-99C567B2DE43\\La Sinagoga Ben Ezra, 2.jpg",
+                         "location": "DA464CF2-2281-D4EB-D641-99C567B2DE43/LaSinagogaBenEzra2.jpg",
                          "dataLength": "42942",
                          "format": ".jpg"
                         },
@@ -4045,7 +4045,7 @@
                          "objectID": "DA464CF2-2281-D4EB-D641-99C567B2DE43",
                          "name": "La Sinagoga Ben Ezra.jpg",
                          "attachmentType": "1",
-                         "location": "DA464CF2-2281-D4EB-D641-99C567B2DE43\\La Sinagoga Ben Ezra.jpg",
+                         "location": "DA464CF2-2281-D4EB-D641-99C567B2DE43/LaSinagogaBenEzra.jpg",
                          "dataLength": "168114",
                          "format": ".jpg"
                         }
@@ -4072,7 +4072,7 @@
                            "objectID": "0E88C45C-353C-2D9C-D6C2-A2395A860B45",
                            "name": "Inscripci&#243;n en la tumba de Maim&#243;nides Tiber&#237;as - De Mois&#233;s a Mois&#233;s nadie fue tan grande como Mois&#233;s.jpg",
                            "attachmentType": "1",
-                           "location": "0E88C45C-353C-2D9C-D6C2-A2395A860B45\\Inscripci&#243;n en la tumba de Maim&#243;nides Tiber&#237;as - De Mois&#233;s a Mois&#233;s nadie fue tan grande como Mois&#233;s.jpg",
+                           "location": "0E88C45C-353C-2D9C-D6C2-A2395A860B45/InscripcinenlatumbadeMaimnidesTiberas-DeMoissaMoissnadiefuetangrandecomoMoiss.jpg",
                            "dataLength": "88982",
                            "format": ".jpg"
                           },
@@ -4084,7 +4084,7 @@
                            "objectID": "0E88C45C-353C-2D9C-D6C2-A2395A860B45",
                            "name": "La tumba de Maim&#243;nides Tiber&#237;as.jpg",
                            "attachmentType": "1",
-                           "location": "0E88C45C-353C-2D9C-D6C2-A2395A860B45\\La tumba de Maim&#243;nides Tiber&#237;as.jpg",
+                           "location": "0E88C45C-353C-2D9C-D6C2-A2395A860B45/LatumbadeMaimnidesTiberas.jpg",
                            "dataLength": "138935",
                            "format": ".jpg"
                           }
@@ -4132,7 +4132,7 @@
        "objectID": "D426D901-F0FB-99E7-6E57-289CFFFBDD64",
        "name": "Seder Nashim, aut&#243;grafo de Maim&#243;nides, BNI.jpg",
        "attachmentType": "1",
-       "location": "D426D901-F0FB-99E7-6E57-289CFFFBDD64\\Seder Nashim, aut&#243;grafo de Maim&#243;nides, BNI.jpg",
+       "location": "D426D901-F0FB-99E7-6E57-289CFFFBDD64/SederNashimautgrafodeMaimnidesBNI.jpg",
        "dataLength": "190912",
        "format": ".jpg"
       }
@@ -4157,7 +4157,7 @@
          "objectID": "D6BBEBDF-00D3-DBD2-7736-78D520E0189C",
          "name": "Maimonides, Mishn&#233; Torah, 1300-1350, &apos;Mada&apos;, (Ciencia), detalle, BNI.jpg",
          "attachmentType": "1",
-         "location": "D6BBEBDF-00D3-DBD2-7736-78D520E0189C\\Maimonides, Mishn&#233; Torah, 1300-1350, &apos;Mada&apos;, (Ciencia), detalle, BNI.jpg",
+         "location": "D6BBEBDF-00D3-DBD2-7736-78D520E0189C/MaimonidesMishnTorah1300-1350Mada(Ciencia)detalleBNI.jpg",
          "dataLength": "243351",
          "format": ".jpg"
         },
@@ -4169,7 +4169,7 @@
          "objectID": "D6BBEBDF-00D3-DBD2-7736-78D520E0189C",
          "name": "Maim&#243;nides, Mishne Torah,  1300-1350, &apos;Mada&apos; (Ciencia), BNI.jpg",
          "attachmentType": "1",
-         "location": "D6BBEBDF-00D3-DBD2-7736-78D520E0189C\\Maim&#243;nides, Mishne Torah,  1300-1350, &apos;Mada&apos; (Ciencia), BNI.jpg",
+         "location": "D6BBEBDF-00D3-DBD2-7736-78D520E0189C/MaimnidesMishneTorah1300-1350Mada(Ciencia)BNI.jpg",
          "dataLength": "270064",
          "format": ".jpg"
         },
@@ -4181,7 +4181,7 @@
          "objectID": "D6BBEBDF-00D3-DBD2-7736-78D520E0189C",
          "name": "Maimonides, Mishn&#233; Torah, 1300-1350, &apos;Ahava&apos;, (Amor), BNI.jpg",
          "attachmentType": "1",
-         "location": "D6BBEBDF-00D3-DBD2-7736-78D520E0189C\\Maimonides, Mishn&#233; Torah, 1300-1350, &apos;Ahava&apos;, (Amor), BNI.jpg",
+         "location": "D6BBEBDF-00D3-DBD2-7736-78D520E0189C/MaimonidesMishnTorah1300-1350Ahava(Amor)BNI.jpg",
          "dataLength": "255561",
          "format": ".jpg"
         },
@@ -4193,7 +4193,7 @@
          "objectID": "D6BBEBDF-00D3-DBD2-7736-78D520E0189C",
          "name": "Maimonides, Mishn&#233; Torah, 1300-1350, &apos;Ahava&apos; (Amor), detalle, BNI.jpg",
          "attachmentType": "1",
-         "location": "D6BBEBDF-00D3-DBD2-7736-78D520E0189C\\Maimonides, Mishn&#233; Torah, 1300-1350, &apos;Ahava&apos; (Amor), detalle, BNI.jpg",
+         "location": "D6BBEBDF-00D3-DBD2-7736-78D520E0189C/MaimonidesMishnTorah1300-1350Ahava(Amor)detalleBNI.jpg",
          "dataLength": "182522",
          "format": ".jpg"
         }
@@ -4220,7 +4220,7 @@
            "objectID": "1BAF406E-CD39-9925-64F2-EB8CD3520C9E",
            "name": "Maim&#243;nides, Mishn&#233; Tor&#233;, Espa&#241;a, 1300-1350,  BNI.jpg",
            "attachmentType": "1",
-           "location": "1BAF406E-CD39-9925-64F2-EB8CD3520C9E\\Maim&#243;nides, Mishn&#233; Tor&#233;, Espa&#241;a, 1300-1350,  BNI.jpg",
+           "location": "1BAF406E-CD39-9925-64F2-EB8CD3520C9E/MaimnidesMishnTorEspaa1300-1350BNI.jpg",
            "dataLength": "99295",
            "format": ".jpg"
           },
@@ -4232,7 +4232,7 @@
            "objectID": "1BAF406E-CD39-9925-64F2-EB8CD3520C9E",
            "name": "Maim&#243;nides, Mishn&#233; Tor&#225;, Espa&#241;a, con una ilustraci&#243;n, 1300-1350, BNI.jpg",
            "attachmentType": "1",
-           "location": "1BAF406E-CD39-9925-64F2-EB8CD3520C9E\\Maim&#243;nides, Mishn&#233; Tor&#225;, Espa&#241;a, con una ilustraci&#243;n, 1300-1350, BNI.jpg",
+           "location": "1BAF406E-CD39-9925-64F2-EB8CD3520C9E/MaimnidesMishnTorEspaaconunailustracin1300-1350BNI.jpg",
            "dataLength": "93660",
            "format": ".jpg"
           }
@@ -4259,7 +4259,7 @@
              "objectID": "FB6C82E3-22BC-35F8-A367-5AAB2732BB40",
              "name": "La Gu&#237;a de los Perplejos, siglo XIV, Yemen, Judeo-&#193;rabe, BNI.jpg",
              "attachmentType": "1",
-             "location": "FB6C82E3-22BC-35F8-A367-5AAB2732BB40\\La Gu&#237;a de los Perplejos, siglo XIV, Yemen, Judeo-&#193;rabe, BNI.jpg",
+             "location": "FB6C82E3-22BC-35F8-A367-5AAB2732BB40/LaGuadelosPerplejossigloXIVYemenJudeo-rabeBNI.jpg",
              "dataLength": "223523",
              "format": ".jpg"
             }
@@ -4295,7 +4295,7 @@
      "objectID": "127359C4-ED56-148C-0494-212AB1F43A86",
      "name": "de  Lonzano,  &apos;Derushim&apos;, 1610,  fol.11, NLI.jpg",
      "attachmentType": "1",
-     "location": "127359C4-ED56-148C-0494-212AB1F43A86\\de  Lonzano,  &apos;Derushim&apos;, 1610,  fol.11, NLI.jpg",
+     "location": "127359C4-ED56-148C-0494-212AB1F43A86/deLonzanoDerushim1610fol.11NLI.jpg",
      "dataLength": "402486",
      "format": ".jpg"
     },
@@ -4307,7 +4307,7 @@
      "objectID": "127359C4-ED56-148C-0494-212AB1F43A86",
      "name": "de Lonzano, &apos;Derushim&apos;, 1610, fol.20, detail, NLI.jpg",
      "attachmentType": "1",
-     "location": "127359C4-ED56-148C-0494-212AB1F43A86\\de Lonzano, &apos;Derushim&apos;, 1610, fol.20, detail, NLI.jpg",
+     "location": "127359C4-ED56-148C-0494-212AB1F43A86/deLonzanoDerushim1610fol.20detailNLI.jpg",
      "dataLength": "156360",
      "format": ".jpg"
     }
@@ -4340,7 +4340,7 @@
          "objectID": "0B2BD36E-A6E5-0282-CF07-4E244E18CB6F",
          "name": "Gershom Scholem.jpg",
          "attachmentType": "1",
-         "location": "0B2BD36E-A6E5-0282-CF07-4E244E18CB6F\\Gershom Scholem.jpg",
+         "location": "0B2BD36E-A6E5-0282-CF07-4E244E18CB6F/GershomScholem.jpg",
          "dataLength": "122236",
          "format": ".jpg"
         },
@@ -4352,7 +4352,7 @@
          "objectID": "0B2BD36E-A6E5-0282-CF07-4E244E18CB6F",
          "name": "Gershom Scholem, 1925, BNI.jpg",
          "attachmentType": "1",
-         "location": "0B2BD36E-A6E5-0282-CF07-4E244E18CB6F\\Gershom Scholem, 1925, BNI.jpg",
+         "location": "0B2BD36E-A6E5-0282-CF07-4E244E18CB6F/GershomScholem1925BNI.jpg",
          "dataLength": "51145",
          "format": ".jpg"
         }
@@ -4379,7 +4379,7 @@
            "objectID": "B1672742-A3B6-91B3-4F54-B51E19F39D89",
            "name": "La Colecci&#243;n Scholem en la BNI.jpg",
            "attachmentType": "1",
-           "location": "B1672742-A3B6-91B3-4F54-B51E19F39D89\\La Colecci&#243;n Scholem en la BNI.jpg",
+           "location": "B1672742-A3B6-91B3-4F54-B51E19F39D89/LaColeccinScholemenlaBNI.jpg",
            "dataLength": "86912",
            "format": ".jpg"
           },
@@ -4391,7 +4391,7 @@
            "objectID": "B1672742-A3B6-91B3-4F54-B51E19F39D89",
            "name": "Kerekh Qatan, Haim Vital, una copia de 1714, la Colecci&#243;n Scholem, BNI.jpg",
            "attachmentType": "1",
-           "location": "B1672742-A3B6-91B3-4F54-B51E19F39D89\\Kerekh Qatan, Haim Vital, una copia de 1714, la Colecci&#243;n Scholem, BNI.jpg",
+           "location": "B1672742-A3B6-91B3-4F54-B51E19F39D89/KerekhQatanHaimVitalunacopiade1714laColeccinScholemBNI.jpg",
            "dataLength": "109810",
            "format": ".jpg"
           },
@@ -4435,7 +4435,7 @@
        "objectID": "9D6F504D-AC12-E7CA-54E4-0C5AB510A1D3",
        "name": "El Baal Shem (Tov) en el registro impositivo de Medzhybizh en 1758",
        "attachmentType": "1",
-       "location": "9D6F504D-AC12-E7CA-54E4-0C5AB510A1D3\\El Baal Shem (Tov) en el registro impositivo de Medzhybizh en 1758",
+       "location": "9D6F504D-AC12-E7CA-54E4-0C5AB510A1D3/ElBaalShem(Tov)enelregistroimpositivodeMedzhybizhen1758",
        "dataLength": "52962",
        "format": ".jpg"
       },
@@ -4447,7 +4447,7 @@
        "objectID": "9D6F504D-AC12-E7CA-54E4-0C5AB510A1D3",
        "name": "La Firma del Baal Shem Tov.png",
        "attachmentType": "1",
-       "location": "9D6F504D-AC12-E7CA-54E4-0C5AB510A1D3\\La Firma del Baal Shem Tov.png",
+       "location": "9D6F504D-AC12-E7CA-54E4-0C5AB510A1D3/LaFirmadelBaalShemTov.png",
        "dataLength": "3695",
        "format": ".png"
       },
@@ -4471,7 +4471,7 @@
        "objectID": "9D6F504D-AC12-E7CA-54E4-0C5AB510A1D3",
        "name": "Cantando el _Nig&#250;n_.jpg",
        "attachmentType": "1",
-       "location": "9D6F504D-AC12-E7CA-54E4-0C5AB510A1D3\\Cantando el _Nig&#250;n_.jpg",
+       "location": "9D6F504D-AC12-E7CA-54E4-0C5AB510A1D3/Cantandoel_Nign_.jpg",
        "dataLength": "7185",
        "format": ".jpg"
       },
@@ -4522,7 +4522,7 @@
          "objectID": "6E7E005E-E885-AC0B-AA37-B6D5DB7DE578",
          "name": "de Lonzano, &apos;Derushim&apos;, fol.1, BNI.jpg",
          "attachmentType": "1",
-         "location": "6E7E005E-E885-AC0B-AA37-B6D5DB7DE578\\de Lonzano, &apos;Derushim&apos;, fol.1, BNI.jpg",
+         "location": "6E7E005E-E885-AC0B-AA37-B6D5DB7DE578/deLonzanoDerushimfol.1BNI.jpg",
          "dataLength": "150362",
          "format": ".jpg"
         }
@@ -4549,7 +4549,7 @@
            "objectID": "C8B201A2-EC0D-A5FA-68D2-A24B3F926965",
            "name": "de Lonzano, &apos;Derushim&apos;, fol.18, detalle, BNI.jpg",
            "attachmentType": "1",
-           "location": "C8B201A2-EC0D-A5FA-68D2-A24B3F926965\\de Lonzano, &apos;Derushim&apos;, fol.18, detalle, BNI.jpg",
+           "location": "C8B201A2-EC0D-A5FA-68D2-A24B3F926965/deLonzanoDerushimfol.18detalleBNI.jpg",
            "dataLength": "235900",
            "format": ".jpg"
           }
@@ -4581,7 +4581,7 @@
        "objectID": "7660CE39-5432-7D03-DF5C-1645E15FBAF7",
        "name": "Traducci&#243;n al Lat&#237;n de un texto cabal&#237;stico, Shaarei Ora de Gicatilla.jpg",
        "attachmentType": "1",
-       "location": "7660CE39-5432-7D03-DF5C-1645E15FBAF7\\Traducci&#243;n al Lat&#237;n de un texto cabal&#237;stico, Shaarei Ora de Gicatilla.jpg",
+       "location": "7660CE39-5432-7D03-DF5C-1645E15FBAF7/TraduccinalLatndeuntextocabalsticoShaareiOradeGicatilla.jpg",
        "dataLength": "430796",
        "format": ".jpg"
       }
@@ -4620,7 +4620,7 @@
            "objectID": "989DDE47-EC5F-CF1F-770A-0BAA65BF695A",
            "name": "Ilan Sefirot - un mapa cabal&#237;stico de la Divinidad. Amsterdam, siglo XVIII, BNI.jpg",
            "attachmentType": "1",
-           "location": "989DDE47-EC5F-CF1F-770A-0BAA65BF695A\\Ilan Sefirot - un mapa cabal&#237;stico de la Divinidad. Amsterdam, siglo XVIII, BNI.jpg",
+           "location": "989DDE47-EC5F-CF1F-770A-0BAA65BF695A/IlanSefirot-unmapacabalsticodelaDivinidad.AmsterdamsigloXVIIIBNI.jpg",
            "dataLength": "491865",
            "format": ".jpg"
           }
@@ -4647,7 +4647,7 @@
              "objectID": "DACAD362-E460-B39F-8B0C-E40C27A1B1EF",
              "name": "La Sinagoga Abuhav en Safed,  fundada al rededor de 1500 por Jud&#237;os Espa&#241;oles.jpg",
              "attachmentType": "1",
-             "location": "DACAD362-E460-B39F-8B0C-E40C27A1B1EF\\La Sinagoga Abuhav en Safed,  fundada al rededor de 1500 por Jud&#237;os Espa&#241;oles.jpg",
+             "location": "DACAD362-E460-B39F-8B0C-E40C27A1B1EF/LaSinagogaAbuhavenSafedfundadaalrededorde1500porJudosEspaoles.jpg",
              "dataLength": "153156",
              "format": ".jpg"
             },
@@ -4659,7 +4659,7 @@
              "objectID": "DACAD362-E460-B39F-8B0C-E40C27A1B1EF",
              "name": "Safed, Panorama des heiligen landes, Schottlaender, Breslau, c.1900, NLI .jpg",
              "attachmentType": "1",
-             "location": "DACAD362-E460-B39F-8B0C-E40C27A1B1EF\\Safed, Panorama des heiligen landes, Schottlaender, Breslau, c.1900, NLI .jpg",
+             "location": "DACAD362-E460-B39F-8B0C-E40C27A1B1EF/SafedPanoramadesheiligenlandesSchottlaenderBreslauc.1900NLI.jpg",
              "dataLength": "333406",
              "format": ".jpg"
             }
@@ -4686,7 +4686,7 @@
                "objectID": "66ACABEC-39A0-5CE7-4B93-07D4D1822C41",
                "name": "Una calle en la ciudad vieja de Safed.jpg",
                "attachmentType": "1",
-               "location": "66ACABEC-39A0-5CE7-4B93-07D4D1822C41\\Una calle en la ciudad vieja de Safed.jpg",
+               "location": "66ACABEC-39A0-5CE7-4B93-07D4D1822C41/UnacalleenlaciudadviejadeSafed.jpg",
                "dataLength": "241100",
                "format": ".jpg"
               },
@@ -4698,7 +4698,7 @@
                "objectID": "66ACABEC-39A0-5CE7-4B93-07D4D1822C41",
                "name": "El libro Kerekh Qatan (peque&#241;o tomo) por Haim Vital, copia  1714, BNI.jpg",
                "attachmentType": "1",
-               "location": "66ACABEC-39A0-5CE7-4B93-07D4D1822C41\\El libro Kerekh Qatan (peque&#241;o tomo) por Haim Vital, copia  1714, BNI.jpg",
+               "location": "66ACABEC-39A0-5CE7-4B93-07D4D1822C41/EllibroKerekhQatan(pequeotomo)porHaimVitalcopia1714BNI.jpg",
                "dataLength": "109810",
                "format": ".jpg"
               },
@@ -4710,7 +4710,7 @@
                "objectID": "66ACABEC-39A0-5CE7-4B93-07D4D1822C41",
                "name": "La tumba de Rabbi Isaac Luria en Safed.jpg",
                "attachmentType": "1",
-               "location": "66ACABEC-39A0-5CE7-4B93-07D4D1822C41\\La tumba de Rabbi Isaac Luria en Safed.jpg",
+               "location": "66ACABEC-39A0-5CE7-4B93-07D4D1822C41/LatumbadeRabbiIsaacLuriaenSafed.jpg",
                "dataLength": "57829",
                "format": ".jpg"
               }
@@ -4737,7 +4737,7 @@
                  "objectID": "15B3BFE8-75D8-9CBA-4899-A79EB5D1CDBD",
                  "name": "Fuerzas Cosmol&#243;gicas Masculinas y Femininas, Europa Oriental, 1789, Mordechai Ben Moshe, BNI.jpg",
                  "attachmentType": "1",
-                 "location": "15B3BFE8-75D8-9CBA-4899-A79EB5D1CDBD\\Fuerzas Cosmol&#243;gicas Masculinas y Femininas, Europa Oriental, 1789, Mordechai Ben Moshe, BNI.jpg",
+                 "location": "15B3BFE8-75D8-9CBA-4899-A79EB5D1CDBD/FuerzasCosmolgicasMasculinasyFemininasEuropaOriental1789MordechaiBenMosheBNI.jpg",
                  "dataLength": "411674",
                  "format": ".jpg"
                 }
@@ -4816,7 +4816,7 @@
          "objectID": "EDBD8E04-D63F-B5AF-1698-1132C1923A81",
          "name": "de Lonzano, &apos;Derushim&apos;, detalle con &apos;Bereshit&apos; (G&#233;nesis), Fol. 218, detalle, BNI.jpg",
          "attachmentType": "1",
-         "location": "EDBD8E04-D63F-B5AF-1698-1132C1923A81\\de Lonzano, &apos;Derushim&apos;, detalle con &apos;Bereshit&apos; (G&#233;nesis), Fol. 218, detalle, BNI.jpg",
+         "location": "EDBD8E04-D63F-B5AF-1698-1132C1923A81/deLonzanoDerushimdetalleconBereshit(Gnesis)Fol.218detalleBNI.jpg",
          "dataLength": "153309",
          "format": ".jpg"
         },
@@ -4828,7 +4828,7 @@
          "objectID": "EDBD8E04-D63F-B5AF-1698-1132C1923A81",
          "name": "de Lonzano,  &apos;Avodat Mikdash&apos; (Rito del Templo), manuscrito - 1768, p.2, BNI.jpg",
          "attachmentType": "1",
-         "location": "EDBD8E04-D63F-B5AF-1698-1132C1923A81\\de Lonzano,  &apos;Avodat Mikdash&apos; (Rito del Templo), manuscrito - 1768, p.2, BNI.jpg",
+         "location": "EDBD8E04-D63F-B5AF-1698-1132C1923A81/deLonzanoAvodatMikdash(RitodelTemplo)manuscrito-1768p.2BNI.jpg",
          "dataLength": "173915",
          "format": ".jpg"
         }
@@ -4855,7 +4855,7 @@
            "objectID": "59B6C40D-6878-246D-5288-854078FC0DC4",
            "name": "El Cosmos Cabal&#237;stico como el Hombre Primordial,  (Isaac Myer).jpg",
            "attachmentType": "1",
-           "location": "59B6C40D-6878-246D-5288-854078FC0DC4\\El Cosmos Cabal&#237;stico como el Hombre Primordial,  (Isaac Myer).jpg",
+           "location": "59B6C40D-6878-246D-5288-854078FC0DC4/ElCosmosCabalsticocomoelHombrePrimordial(IsaacMyer).jpg",
            "dataLength": "32446",
            "format": ".jpg"
           }
@@ -4899,7 +4899,7 @@
          "objectID": "BBDC52AA-6BBB-9167-4038-76189F1461BF",
          "name": "Giovanni Pico Della Mirandola, Retrato de la Galer&#237;a Uffizi, Florencia.jpg",
          "attachmentType": "1",
-         "location": "BBDC52AA-6BBB-9167-4038-76189F1461BF\\Giovanni Pico Della Mirandola, Retrato de la Galer&#237;a Uffizi, Florencia.jpg",
+         "location": "BBDC52AA-6BBB-9167-4038-76189F1461BF/GiovanniPicoDellaMirandolaRetratodelaGaleraUffiziFlorencia.jpg",
          "dataLength": "19919",
          "format": ".jpg"
         },
@@ -4911,7 +4911,7 @@
          "objectID": "BBDC52AA-6BBB-9167-4038-76189F1461BF",
          "name": "La Rueda de Ezequiel, Iglesia de San Juan Bautista, Kratovo, Macedonia.jpg",
          "attachmentType": "1",
-         "location": "BBDC52AA-6BBB-9167-4038-76189F1461BF\\La Rueda de Ezequiel, Iglesia de San Juan Bautista, Kratovo, Macedonia.jpg",
+         "location": "BBDC52AA-6BBB-9167-4038-76189F1461BF/LaRuedadeEzequielIglesiadeSanJuanBautistaKratovoMacedonia.jpg",
          "dataLength": "18098",
          "format": ".jpg"
         },
@@ -4923,7 +4923,7 @@
          "objectID": "BBDC52AA-6BBB-9167-4038-76189F1461BF",
          "name": "El grabado de Matthaus Merian de la visi&#243;n de Ezequiel (1670).jpg",
          "attachmentType": "1",
-         "location": "BBDC52AA-6BBB-9167-4038-76189F1461BF\\El grabado de Matthaus Merian de la visi&#243;n de Ezequiel (1670).jpg",
+         "location": "BBDC52AA-6BBB-9167-4038-76189F1461BF/ElgrabadodeMatthausMeriandelavisindeEzequiel(1670).jpg",
          "dataLength": "61028",
          "format": ".jpg"
         }
@@ -4950,7 +4950,7 @@
            "objectID": "84103AC8-681F-ABA9-B055-0147AE6759FA",
            "name": "Athanasius Kircher, 1652 &apos;El &#193;rbol de la Vida&apos;, dispuesto seg&#250;n las Sefir&#243;t Cabal&#237;sticas.jpg",
            "attachmentType": "1",
-           "location": "84103AC8-681F-ABA9-B055-0147AE6759FA\\Athanasius Kircher, 1652 &apos;El &#193;rbol de la Vida&apos;, dispuesto seg&#250;n las Sefir&#243;t Cabal&#237;sticas.jpg",
+           "location": "84103AC8-681F-ABA9-B055-0147AE6759FA/AthanasiusKircher1652ElrboldelaVidadispuestosegnlasSefirtCabalsticas.jpg",
            "dataLength": "84974",
            "format": ".jpg"
           },
@@ -4962,7 +4962,7 @@
            "objectID": "84103AC8-681F-ABA9-B055-0147AE6759FA",
            "name": "Madonna promoviendo la C&#225;bala.jpg",
            "attachmentType": "1",
-           "location": "84103AC8-681F-ABA9-B055-0147AE6759FA\\Madonna promoviendo la C&#225;bala.jpg",
+           "location": "84103AC8-681F-ABA9-B055-0147AE6759FA/MadonnapromoviendolaCbala.jpg",
            "dataLength": "14508",
            "format": ".jpg"
           }
@@ -5041,7 +5041,7 @@
        "objectID": "69DCDB29-0DCD-2429-FB9E-E72337CB76E1",
        "name": "Kafka, fotograf&#237;a de pasaporte, BNI.jpg",
        "attachmentType": "1",
-       "location": "69DCDB29-0DCD-2429-FB9E-E72337CB76E1\\Kafka, fotograf&#237;a de pasaporte, BNI.jpg",
+       "location": "69DCDB29-0DCD-2429-FB9E-E72337CB76E1/KafkafotografadepasaporteBNI.jpg",
        "dataLength": "91157",
        "format": ".jpg"
       }
@@ -5066,7 +5066,7 @@
          "objectID": "BECC5ABA-AB23-EA10-9DD6-17B72E29AE48",
          "name": "La estatua de bronce de Franz Kafka en Praga, Jaroslav Rona.jpg",
          "attachmentType": "1",
-         "location": "BECC5ABA-AB23-EA10-9DD6-17B72E29AE48\\La estatua de bronce de Franz Kafka en Praga, Jaroslav Rona.jpg",
+         "location": "BECC5ABA-AB23-EA10-9DD6-17B72E29AE48/LaestatuadebroncedeFranzKafkaenPragaJaroslavRona.jpg",
          "dataLength": "23980",
          "format": ".jpg"
         }
@@ -5091,7 +5091,7 @@
            "objectID": "9211A3E8-4BD5-6E99-0C37-E41E7A4D161D",
            "name": "La carta de Kafka a su padre.jpg",
            "attachmentType": "1",
-           "location": "9211A3E8-4BD5-6E99-0C37-E41E7A4D161D\\La carta de Kafka a su padre.jpg",
+           "location": "9211A3E8-4BD5-6E99-0C37-E41E7A4D161D/LacartadeKafkaasupadre.jpg",
            "dataLength": "134156",
            "format": ".jpg"
           },
@@ -5103,7 +5103,7 @@
            "objectID": "9211A3E8-4BD5-6E99-0C37-E41E7A4D161D",
            "name": "Kafka a la edad de 5 a&#241;os.jpg",
            "attachmentType": "1",
-           "location": "9211A3E8-4BD5-6E99-0C37-E41E7A4D161D\\Kafka a la edad de 5 a&#241;os.jpg",
+           "location": "9211A3E8-4BD5-6E99-0C37-E41E7A4D161D/Kafkaalaedadde5aos.jpg",
            "dataLength": "26886",
            "format": ".jpg"
           },
@@ -5115,7 +5115,7 @@
            "objectID": "9211A3E8-4BD5-6E99-0C37-E41E7A4D161D",
            "name": "Kafka en su juventud.jpg",
            "attachmentType": "1",
-           "location": "9211A3E8-4BD5-6E99-0C37-E41E7A4D161D\\Kafka en su juventud.jpg",
+           "location": "9211A3E8-4BD5-6E99-0C37-E41E7A4D161D/Kafkaensujuventud.jpg",
            "dataLength": "15830",
            "format": ".jpg"
           },
@@ -5127,7 +5127,7 @@
            "objectID": "9211A3E8-4BD5-6E99-0C37-E41E7A4D161D",
            "name": "Kafka a la edad de 10 a&#241;os, con sus hermanas.jpg",
            "attachmentType": "1",
-           "location": "9211A3E8-4BD5-6E99-0C37-E41E7A4D161D\\Kafka a la edad de 10 a&#241;os, con sus hermanas.jpg",
+           "location": "9211A3E8-4BD5-6E99-0C37-E41E7A4D161D/Kafkaalaedadde10aosconsushermanas.jpg",
            "dataLength": "29328",
            "format": ".jpg"
           }
@@ -5166,7 +5166,7 @@
              "objectID": "B9A5DA7A-D132-ACC5-C1EB-F21A3A65455A",
              "name": "Franz Kafka y Max Brod en la playa.jpg",
              "attachmentType": "1",
-             "location": "B9A5DA7A-D132-ACC5-C1EB-F21A3A65455A\\Franz Kafka y Max Brod en la playa.jpg",
+             "location": "B9A5DA7A-D132-ACC5-C1EB-F21A3A65455A/FranzKafkayMaxBrodenlaplaya.jpg",
              "dataLength": "24895",
              "format": ".jpg"
             },
@@ -5178,7 +5178,7 @@
              "objectID": "B9A5DA7A-D132-ACC5-C1EB-F21A3A65455A",
              "name": "Kafka y su hermana Ottilie cerca de la casa de sus padres en Praga.jpg",
              "attachmentType": "1",
-             "location": "B9A5DA7A-D132-ACC5-C1EB-F21A3A65455A\\Kafka y su hermana Ottilie cerca de la casa de sus padres en Praga.jpg",
+             "location": "B9A5DA7A-D132-ACC5-C1EB-F21A3A65455A/KafkaysuhermanaOttiliecercadelacasadesuspadresenPraga.jpg",
              "dataLength": "44637",
              "format": ".jpg"
             }
@@ -5205,7 +5205,7 @@
                "objectID": "A420860D-74E0-837F-B44D-486B85BBE00F",
                "name": "Kafka y amigos en el parque de diversiones Prater in Viena, 1913, BNI.jpg",
                "attachmentType": "1",
-               "location": "A420860D-74E0-837F-B44D-486B85BBE00F\\Kafka y amigos en el parque de diversiones Prater in Viena, 1913, BNI.jpg",
+               "location": "A420860D-74E0-837F-B44D-486B85BBE00F/KafkayamigosenelparquedediversionesPraterinViena1913BNI.jpg",
                "dataLength": "94536",
                "format": ".jpg"
               }
@@ -5232,7 +5232,7 @@
                  "objectID": "AA67C69C-E433-132A-305B-A0BB13C9B4A8",
                  "name": "Dora Diamant, la amante de Kafka, 1923-1924 hasta su muerte.jpg",
                  "attachmentType": "1",
-                 "location": "AA67C69C-E433-132A-305B-A0BB13C9B4A8\\Dora Diamant, la amante de Kafka, 1923-1924 hasta su muerte.jpg",
+                 "location": "AA67C69C-E433-132A-305B-A0BB13C9B4A8/DoraDiamantlaamantedeKafka1923-1924hastasumuerte.jpg",
                  "dataLength": "17062",
                  "format": ".jpg"
                 },
@@ -5244,7 +5244,7 @@
                  "objectID": "AA67C69C-E433-132A-305B-A0BB13C9B4A8",
                  "name": "Milena Jesenska, la correspondente apasionada de Kafka, 1919-1923.jpg",
                  "attachmentType": "1",
-                 "location": "AA67C69C-E433-132A-305B-A0BB13C9B4A8\\Milena Jesenska, la correspondente apasionada de Kafka, 1919-1923.jpg",
+                 "location": "AA67C69C-E433-132A-305B-A0BB13C9B4A8/MilenaJesenskalacorrespondenteapasionadadeKafka1919-1923.jpg",
                  "dataLength": "12828",
                  "format": ".jpg"
                 }
@@ -5271,7 +5271,7 @@
                    "objectID": "8C60FB1C-AAC9-8BD9-A539-639A40EB28A8",
                    "name": "Kafka, Carta a Lise Weltsch, 1914, p.1, BNI.jpg",
                    "attachmentType": "1",
-                   "location": "8C60FB1C-AAC9-8BD9-A539-639A40EB28A8\\Kafka, Carta a Lise Weltsch, 1914, p.1, BNI.jpg",
+                   "location": "8C60FB1C-AAC9-8BD9-A539-639A40EB28A8/KafkaCartaaLiseWeltsch1914p.1BNI.jpg",
                    "dataLength": "69124",
                    "format": ".jpg"
                   },
@@ -5283,7 +5283,7 @@
                    "objectID": "8C60FB1C-AAC9-8BD9-A539-639A40EB28A8",
                    "name": "Kafka, Carta a Lise Weltsch, 1914, p.2, BNI.jpg",
                    "attachmentType": "1",
-                   "location": "8C60FB1C-AAC9-8BD9-A539-639A40EB28A8\\Kafka, Carta a Lise Weltsch, 1914, p.2, BNI.jpg",
+                   "location": "8C60FB1C-AAC9-8BD9-A539-639A40EB28A8/KafkaCartaaLiseWeltsch1914p.2BNI.jpg",
                    "dataLength": "39894",
                    "format": ".jpg"
                   }
@@ -5310,7 +5310,7 @@
                      "objectID": "A708AB7A-159C-2276-0CD2-2B7E9E24DB2A",
                      "name": "Kafka como agente de seguros.jpg",
                      "attachmentType": "1",
-                     "location": "A708AB7A-159C-2276-0CD2-2B7E9E24DB2A\\Kafka como agente de seguros.jpg",
+                     "location": "A708AB7A-159C-2276-0CD2-2B7E9E24DB2A/Kafkacomoagentedeseguros.jpg",
                      "dataLength": "58807",
                      "format": ".jpg"
                     },
@@ -5322,7 +5322,7 @@
                      "objectID": "A708AB7A-159C-2276-0CD2-2B7E9E24DB2A",
                      "name": "Kafka, &apos;La Metamorfosis&apos;, cubierta de la primera edici&#243;n, 1916.jpg",
                      "attachmentType": "1",
-                     "location": "A708AB7A-159C-2276-0CD2-2B7E9E24DB2A\\Kafka, &apos;La Metamorfosis&apos;, cubierta de la primera edici&#243;n, 1916.jpg",
+                     "location": "A708AB7A-159C-2276-0CD2-2B7E9E24DB2A/KafkaLaMetamorfosiscubiertadelaprimeraedicin1916.jpg",
                      "dataLength": "64084",
                      "format": ".jpg"
                     }
@@ -5373,7 +5373,7 @@
                        "objectID": "E0E8F390-F4AC-5530-4CC7-1E6781681DD3",
                        "name": "La tumba de Franz Kafka en Praga.jpg",
                        "attachmentType": "1",
-                       "location": "E0E8F390-F4AC-5530-4CC7-1E6781681DD3\\La tumba de Franz Kafka en Praga.jpg",
+                       "location": "E0E8F390-F4AC-5530-4CC7-1E6781681DD3/LatumbadeFranzKafkaenPraga.jpg",
                        "dataLength": "129598",
                        "format": ".jpg"
                       }
@@ -5427,7 +5427,7 @@
            "objectID": "EA123389-3967-85D2-FCA7-B5B6FB8009FB",
            "name": "El cuaderno de Hebreo de Kafka, c. 1917, BNI.jpg",
            "attachmentType": "1",
-           "location": "EA123389-3967-85D2-FCA7-B5B6FB8009FB\\El cuaderno de Hebreo de Kafka, c. 1917, BNI.jpg",
+           "location": "EA123389-3967-85D2-FCA7-B5B6FB8009FB/ElcuadernodeHebreodeKafkac.1917BNI.jpg",
            "dataLength": "51333",
            "format": ".jpg"
           }
@@ -5481,7 +5481,7 @@
                "objectID": "A511D2A0-4CF8-6EAA-4E6E-FC7CD0EDBCE9",
                "name": "Hugo Bergmann a su esposa Else, p.1, BNI.jpg",
                "attachmentType": "1",
-               "location": "A511D2A0-4CF8-6EAA-4E6E-FC7CD0EDBCE9\\Hugo Bergmann a su esposa Else, p.1, BNI.jpg",
+               "location": "A511D2A0-4CF8-6EAA-4E6E-FC7CD0EDBCE9/HugoBergmannasuesposaElsep.1BNI.jpg",
                "dataLength": "149811",
                "format": ".jpg"
               },
@@ -5493,7 +5493,7 @@
                "objectID": "A511D2A0-4CF8-6EAA-4E6E-FC7CD0EDBCE9",
                "name": "Hugo Bergmann a su esposa Else, p.2, BNI.jpg",
                "attachmentType": "1",
-               "location": "A511D2A0-4CF8-6EAA-4E6E-FC7CD0EDBCE9\\Hugo Bergmann a su esposa Else, p.2, BNI.jpg",
+               "location": "A511D2A0-4CF8-6EAA-4E6E-FC7CD0EDBCE9/HugoBergmannasuesposaElsep.2BNI.jpg",
                "dataLength": "146864",
                "format": ".jpg"
               },
@@ -5505,7 +5505,7 @@
                "objectID": "A511D2A0-4CF8-6EAA-4E6E-FC7CD0EDBCE9",
                "name": "Hugo Bergmann a su esposa Else, p.3, BNI.jpg",
                "attachmentType": "1",
-               "location": "A511D2A0-4CF8-6EAA-4E6E-FC7CD0EDBCE9\\Hugo Bergmann a su esposa Else, p.3, BNI.jpg",
+               "location": "A511D2A0-4CF8-6EAA-4E6E-FC7CD0EDBCE9/HugoBergmannasuesposaElsep.3BNI.jpg",
                "dataLength": "165778",
                "format": ".jpg"
               }
@@ -5532,7 +5532,7 @@
                  "objectID": "F8764905-77D6-2F1F-C4A6-0376797AED4A",
                  "name": "Shmuel Hugo Bergman.jpg",
                  "attachmentType": "1",
-                 "location": "F8764905-77D6-2F1F-C4A6-0376797AED4A\\Shmuel Hugo Bergman.jpg",
+                 "location": "F8764905-77D6-2F1F-C4A6-0376797AED4A/ShmuelHugoBergman.jpg",
                  "dataLength": "27640",
                  "format": ".jpg"
                 },
@@ -5544,7 +5544,7 @@
                  "objectID": "F8764905-77D6-2F1F-C4A6-0376797AED4A",
                  "name": "Bergman y el presidente Checo Masaryk yendo a visitar la Biblioteca Nacional, Jerusal&#233;n, 1927.jpg",
                  "attachmentType": "1",
-                 "location": "F8764905-77D6-2F1F-C4A6-0376797AED4A\\Bergman y el presidente Checo Masaryk yendo a visitar la Biblioteca Nacional, Jerusal&#233;n, 1927.jpg",
+                 "location": "F8764905-77D6-2F1F-C4A6-0376797AED4A/BergmanyelpresidenteChecoMasarykyendoavisitarlaBibliotecaNacionalJerusaln1927.jpg",
                  "dataLength": "119190",
                  "format": ".jpg"
                 }
@@ -5580,7 +5580,7 @@
        "objectID": "2E410E15-5403-8D01-B232-146BF004FBDC",
        "name": "Stefan Zweig, BNI.jpg",
        "attachmentType": "1",
-       "location": "2E410E15-5403-8D01-B232-146BF004FBDC\\Stefan Zweig, BNI.jpg",
+       "location": "2E410E15-5403-8D01-B232-146BF004FBDC/StefanZweigBNI.jpg",
        "dataLength": "54231",
        "format": ".jpg"
       }
@@ -5605,7 +5605,7 @@
          "objectID": "D6C48A53-A866-3508-8FCC-68CED1AA200F",
          "name": "Zweig&apos;s signature (letter to Martin Buber,  24.1.1917), NLI.jpg",
          "attachmentType": "1",
-         "location": "D6C48A53-A866-3508-8FCC-68CED1AA200F\\Zweig&apos;s signature (letter to Martin Buber,  24.1.1917), NLI.jpg",
+         "location": "D6C48A53-A866-3508-8FCC-68CED1AA200F/Zweigssignature(lettertoMartinBuber24.1.1917)NLI.jpg",
          "dataLength": "19478",
          "format": ".jpg"
         }
@@ -5630,7 +5630,7 @@
            "objectID": "4FB68FFB-D884-EE6A-4A8B-2AF40CD10E3B",
            "name": "La carta de suicidio de Stefan Zweig, Petr&#243;polis, 22.2.1942, BNI.jpg",
            "attachmentType": "1",
-           "location": "4FB68FFB-D884-EE6A-4A8B-2AF40CD10E3B\\La carta de suicidio de Stefan Zweig, Petr&#243;polis, 22.2.1942, BNI.jpg",
+           "location": "4FB68FFB-D884-EE6A-4A8B-2AF40CD10E3B/LacartadesuicidiodeStefanZweigPetrpolis22.2.1942BNI.jpg",
            "dataLength": "48578",
            "format": ".jpg"
           }
@@ -5668,7 +5668,7 @@
            "objectID": "043D9139-9007-60EF-7560-FCE81E7D244D",
            "name": "Zweig, El Mundo de Ayer, mecanografiado, p.1, BNI.jpg",
            "attachmentType": "1",
-           "location": "043D9139-9007-60EF-7560-FCE81E7D244D\\Zweig, El Mundo de Ayer, mecanografiado, p.1, BNI.jpg",
+           "location": "043D9139-9007-60EF-7560-FCE81E7D244D/ZweigElMundodeAyermecanografiadop.1BNI.jpg",
            "dataLength": "70787",
            "format": ".jpg"
           },
@@ -5680,7 +5680,7 @@
            "objectID": "043D9139-9007-60EF-7560-FCE81E7D244D",
            "name": "Zweig, El Mundo de Ayer, mecanografiado, p.2, BNI.jpg",
            "attachmentType": "1",
-           "location": "043D9139-9007-60EF-7560-FCE81E7D244D\\Zweig, El Mundo de Ayer, mecanografiado, p.2, BNI.jpg",
+           "location": "043D9139-9007-60EF-7560-FCE81E7D244D/ZweigElMundodeAyermecanografiadop.2BNI.jpg",
            "dataLength": "73720",
            "format": ".jpg"
           },
@@ -5692,7 +5692,7 @@
            "objectID": "043D9139-9007-60EF-7560-FCE81E7D244D",
            "name": "Zweig, El Mundo de Ayer, mecanografiado, parte III p.13, sobre la correspondencia con Herzl, BNI.jpg",
            "attachmentType": "1",
-           "location": "043D9139-9007-60EF-7560-FCE81E7D244D\\Zweig, El Mundo de Ayer, mecanografiado, parte III p.13, sobre la correspondencia con Herzl, BNI.jpg",
+           "location": "043D9139-9007-60EF-7560-FCE81E7D244D/ZweigElMundodeAyermecanografiadoparteIIIp.13sobrelacorrespondenciaconHerzlBNI.jpg",
            "dataLength": "85871",
            "format": ".jpg"
           }
@@ -5718,7 +5718,7 @@
            "objectID": "8C71E338-7233-5876-B3D8-8B072725E49F",
            "name": "&#214;NB/ANNO AustriaN Newspaper Online",
            "attachmentType": "3",
-           "location": "http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19000102&amp;zoom=33",
+           "location": "http://anno.onb.ac.at/cgi-content/anno?aid=nfp&datum=19000102&zoom=33",
            "dataLength": "0",
            "format": ""
           },
@@ -5730,7 +5730,7 @@
            "objectID": "8C71E338-7233-5876-B3D8-8B072725E49F",
            "name": "La carta de Herzl a Zweig, 2.11.1903, BNI.jpg",
            "attachmentType": "1",
-           "location": "8C71E338-7233-5876-B3D8-8B072725E49F\\La carta de Herzl a Zweig, 2.11.1903, BNI.jpg",
+           "location": "8C71E338-7233-5876-B3D8-8B072725E49F/LacartadeHerzlaZweig2.11.1903BNI.jpg",
            "dataLength": "64901",
            "format": ".jpg"
           },
@@ -5742,7 +5742,7 @@
            "objectID": "8C71E338-7233-5876-B3D8-8B072725E49F",
            "name": "La visi&#243;n de Herzl del Estado Jud&#237;o, Altneuland.jpg",
            "attachmentType": "1",
-           "location": "8C71E338-7233-5876-B3D8-8B072725E49F\\La visi&#243;n de Herzl del Estado Jud&#237;o, Altneuland.jpg",
+           "location": "8C71E338-7233-5876-B3D8-8B072725E49F/LavisindeHerzldelEstadoJudoAltneuland.jpg",
            "dataLength": "34881",
            "format": ".jpg"
           },
@@ -5754,7 +5754,7 @@
            "objectID": "8C71E338-7233-5876-B3D8-8B072725E49F",
            "name": "Theodor Herzl.jpg",
            "attachmentType": "1",
-           "location": "8C71E338-7233-5876-B3D8-8B072725E49F\\Theodor Herzl.jpg",
+           "location": "8C71E338-7233-5876-B3D8-8B072725E49F/TheodorHerzl.jpg",
            "dataLength": "12094",
            "format": ".jpg"
           }
@@ -5791,7 +5791,7 @@
              "objectID": "CC6A7FD0-DD1F-B725-6AE4-F6E52977F471",
              "name": "Der Judenstaat, 1896.jpg",
              "attachmentType": "1",
-             "location": "CC6A7FD0-DD1F-B725-6AE4-F6E52977F471\\Der Judenstaat, 1896.jpg",
+             "location": "CC6A7FD0-DD1F-B725-6AE4-F6E52977F471/DerJudenstaat1896.jpg",
              "dataLength": "23754",
              "format": ".jpg"
             },
@@ -5803,7 +5803,7 @@
              "objectID": "CC6A7FD0-DD1F-B725-6AE4-F6E52977F471",
              "name": "Herzl, El Primer Congreso Sionista en Basilea, 1897.jpg",
              "attachmentType": "1",
-             "location": "CC6A7FD0-DD1F-B725-6AE4-F6E52977F471\\Herzl, El Primer Congreso Sionista en Basilea, 1897.jpg",
+             "location": "CC6A7FD0-DD1F-B725-6AE4-F6E52977F471/HerzlElPrimerCongresoSionistaenBasilea1897.jpg",
              "dataLength": "101981",
              "format": ".jpg"
             }
@@ -5832,7 +5832,7 @@
            "objectID": "464AAD88-DF79-75FE-4CAE-3B36EF5DDECB",
            "name": "Martin Buber.jpg",
            "attachmentType": "1",
-           "location": "464AAD88-DF79-75FE-4CAE-3B36EF5DDECB\\Martin Buber.jpg",
+           "location": "464AAD88-DF79-75FE-4CAE-3B36EF5DDECB/MartinBuber.jpg",
            "dataLength": "51861",
            "format": ".jpg"
           },
@@ -5844,7 +5844,7 @@
            "objectID": "464AAD88-DF79-75FE-4CAE-3B36EF5DDECB",
            "name": "La carta de Zweig a Martin Buber, 24.1.1917, p.1.jpg",
            "attachmentType": "1",
-           "location": "464AAD88-DF79-75FE-4CAE-3B36EF5DDECB\\La carta de Zweig a Martin Buber, 24.1.1917, p.1.jpg",
+           "location": "464AAD88-DF79-75FE-4CAE-3B36EF5DDECB/LacartadeZweigaMartinBuber24.1.1917p.1.jpg",
            "dataLength": "74857",
            "format": ".jpg"
           }
@@ -5893,7 +5893,7 @@
              "objectID": "F5CF3D21-6D29-2B7A-46BC-E1D5188ADE41",
              "name": "Martin Buber.jpg",
              "attachmentType": "1",
-             "location": "F5CF3D21-6D29-2B7A-46BC-E1D5188ADE41\\Martin Buber.jpg",
+             "location": "F5CF3D21-6D29-2B7A-46BC-E1D5188ADE41/MartinBuber.jpg",
              "dataLength": "130366",
              "format": ".jpg"
             }
@@ -5920,7 +5920,7 @@
              "objectID": "E6BEF91A-FBC5-E14F-9B65-4C7EA63AD875",
              "name": "La carta de Zweig a Martin Buber,  24.1.1917, p.2, BNI.jpg",
              "attachmentType": "1",
-             "location": "E6BEF91A-FBC5-E14F-9B65-4C7EA63AD875\\La carta de Zweig a Martin Buber,  24.1.1917, p.2, BNI.jpg",
+             "location": "E6BEF91A-FBC5-E14F-9B65-4C7EA63AD875/LacartadeZweigaMartinBuber24.1.1917p.2BNI.jpg",
              "dataLength": "75746",
              "format": ".jpg"
             }
@@ -5947,7 +5947,7 @@
                "objectID": "BCD6A75F-82F3-6EDC-1024-7F03831F6CA0",
                "name": "La Declaraci&#243;n de Balfour como fue publicada en el Times, 9 de Noviembre, 1917.jpg",
                "attachmentType": "1",
-               "location": "BCD6A75F-82F3-6EDC-1024-7F03831F6CA0\\La Declaraci&#243;n de Balfour como fue publicada en el Times, 9 de Noviembre, 1917.jpg",
+               "location": "BCD6A75F-82F3-6EDC-1024-7F03831F6CA0/LaDeclaracindeBalfourcomofuepublicadaenelTimes9deNoviembre1917.jpg",
                "dataLength": "99350",
                "format": ".jpg"
               },
@@ -5959,7 +5959,7 @@
                "objectID": "BCD6A75F-82F3-6EDC-1024-7F03831F6CA0",
                "name": "La carta de Zweig a Martin Buber,  24.1.1917, p.3, BNI.jpg",
                "attachmentType": "1",
-               "location": "BCD6A75F-82F3-6EDC-1024-7F03831F6CA0\\La carta de Zweig a Martin Buber,  24.1.1917, p.3, BNI.jpg",
+               "location": "BCD6A75F-82F3-6EDC-1024-7F03831F6CA0/LacartadeZweigaMartinBuber24.1.1917p.3BNI.jpg",
                "dataLength": "71888",
                "format": ".jpg"
               }
@@ -5998,7 +5998,7 @@
                  "objectID": "A39F194E-7EA0-E641-B943-A9255C33A28D",
                  "name": "La carta de Zweig a Martin Buber,  24.1.1917, p.4, BNI.jpg",
                  "attachmentType": "1",
-                 "location": "A39F194E-7EA0-E641-B943-A9255C33A28D\\La carta de Zweig a Martin Buber,  24.1.1917, p.4, BNI.jpg",
+                 "location": "A39F194E-7EA0-E641-B943-A9255C33A28D/LacartadeZweigaMartinBuber24.1.1917p.4BNI.jpg",
                  "dataLength": "70137",
                  "format": ".jpg"
                 }
@@ -6046,7 +6046,7 @@
            "objectID": "BA6FB0F3-55FE-774C-A33D-9B4DAA6DE1E6",
            "name": "Stefan Zweig, parado, con su hermano Alfred en Viena, c. 1900.jpg",
            "attachmentType": "1",
-           "location": "BA6FB0F3-55FE-774C-A33D-9B4DAA6DE1E6\\Stefan Zweig, parado, con su hermano Alfred en Viena, c. 1900.jpg",
+           "location": "BA6FB0F3-55FE-774C-A33D-9B4DAA6DE1E6/StefanZweigparadoconsuhermanoAlfredenVienac.1900.jpg",
            "dataLength": "26801",
            "format": ".jpg"
           }
@@ -6073,7 +6073,7 @@
              "objectID": "3F6B26DA-4807-F910-03B7-2B37BAACCF97",
              "name": "El primer libro de poemas de Zweig, Silberne Saiten, (Hilos de Plata) 1901.jpg",
              "attachmentType": "1",
-             "location": "3F6B26DA-4807-F910-03B7-2B37BAACCF97\\El primer libro de poemas de Zweig, Silberne Saiten, (Hilos de Plata) 1901.jpg",
+             "location": "3F6B26DA-4807-F910-03B7-2B37BAACCF97/ElprimerlibrodepoemasdeZweigSilberneSaiten(HilosdePlata)1901.jpg",
              "dataLength": "38290",
              "format": ".jpg"
             }
@@ -6100,7 +6100,7 @@
                "objectID": "F2317B51-A34D-3C3A-5C79-971679E39F03",
                "name": "Nota de Stefan Zweig en Franc&#233;s a uno de sus amigos Parisinos.jpg",
                "attachmentType": "1",
-               "location": "F2317B51-A34D-3C3A-5C79-971679E39F03\\Nota de Stefan Zweig en Franc&#233;s a uno de sus amigos Parisinos.jpg",
+               "location": "F2317B51-A34D-3C3A-5C79-971679E39F03/NotadeStefanZweigenFrancsaunodesusamigosParisinos.jpg",
                "dataLength": "66154",
                "format": ".jpg"
               },
@@ -6139,7 +6139,7 @@
                  "objectID": "50F6B590-8A6C-A11A-E704-EB7A6C61EF9A",
                  "name": "Afiche de la obra de teatro Jerem&#237;as de Zweig, el teatro Ohel, Palestina 1929,A. El-Hanani.jpg",
                  "attachmentType": "1",
-                 "location": "50F6B590-8A6C-A11A-E704-EB7A6C61EF9A\\Afiche de la obra de teatro Jerem&#237;as de Zweig, el teatro Ohel, Palestina 1929,A. El-Hanani.jpg",
+                 "location": "50F6B590-8A6C-A11A-E704-EB7A6C61EF9A/AfichedelaobradeteatroJeremasdeZweigelteatroOhelPalestina1929A.El-Hanani.jpg",
                  "dataLength": "14663",
                  "format": ".jpg"
                 },
@@ -6190,7 +6190,7 @@
                    "objectID": "BF444223-70EA-6FA3-A859-2978BACB205C",
                    "name": "Stefan Zweig con Romain Rolland, Villeneuve, Suiza, 1933.jpg",
                    "attachmentType": "1",
-                   "location": "BF444223-70EA-6FA3-A859-2978BACB205C\\Stefan Zweig con Romain Rolland, Villeneuve, Suiza, 1933.jpg",
+                   "location": "BF444223-70EA-6FA3-A859-2978BACB205C/StefanZweigconRomainRollandVilleneuveSuiza1933.jpg",
                    "dataLength": "22069",
                    "format": ".jpg"
                   },
@@ -6202,7 +6202,7 @@
                    "objectID": "BF444223-70EA-6FA3-A859-2978BACB205C",
                    "name": "Friderike y Stefan Zweig en 1925.jpg",
                    "attachmentType": "1",
-                   "location": "BF444223-70EA-6FA3-A859-2978BACB205C\\Friderike y Stefan Zweig en 1925.jpg",
+                   "location": "BF444223-70EA-6FA3-A859-2978BACB205C/FriderikeyStefanZweigen1925.jpg",
                    "dataLength": "71603",
                    "format": ".jpg"
                   }
@@ -6241,7 +6241,7 @@
                      "objectID": "70F1F07B-915B-F430-74FC-A0425393D6E4",
                      "name": "Nazis Quemando Libros, Berl&#237;n, 1933.jpg",
                      "attachmentType": "1",
-                     "location": "70F1F07B-915B-F430-74FC-A0425393D6E4\\Nazis Quemando Libros, Berl&#237;n, 1933.jpg",
+                     "location": "70F1F07B-915B-F430-74FC-A0425393D6E4/NazisQuemandoLibrosBerln1933.jpg",
                      "dataLength": "55333",
                      "format": ".jpg"
                     }
@@ -6268,7 +6268,7 @@
                        "objectID": "9EA7CA9F-D56A-8450-3B0E-311EE2186CA5",
                        "name": "Stefan y Lotte Zweig.jpg",
                        "attachmentType": "1",
-                       "location": "9EA7CA9F-D56A-8450-3B0E-311EE2186CA5\\Stefan y Lotte Zweig.jpg",
+                       "location": "9EA7CA9F-D56A-8450-3B0E-311EE2186CA5/StefanyLotteZweig.jpg",
                        "dataLength": "14651",
                        "format": ".jpg"
                       },
@@ -6280,7 +6280,7 @@
                        "objectID": "9EA7CA9F-D56A-8450-3B0E-311EE2186CA5",
                        "name": "Stefan Zweig con Joseph Roth, el novelista Jud&#237;o-Austr&#237;aco, Ostende, B&#233;lgica, 1936.jpg",
                        "attachmentType": "1",
-                       "location": "9EA7CA9F-D56A-8450-3B0E-311EE2186CA5\\Stefan Zweig con Joseph Roth, el novelista Jud&#237;o-Austr&#237;aco, Ostende, B&#233;lgica, 1936.jpg",
+                       "location": "9EA7CA9F-D56A-8450-3B0E-311EE2186CA5/StefanZweigconJosephRothelnovelistaJudo-AustracoOstendeBlgica1936.jpg",
                        "dataLength": "31528",
                        "format": ".jpg"
                       }
@@ -6319,7 +6319,7 @@
                          "objectID": "E65BAB7E-65B5-755B-87FC-9E5CCE203D0A",
                          "name": "Stefan Zweig en Nueva York, 1941.jpg",
                          "attachmentType": "1",
-                         "location": "E65BAB7E-65B5-755B-87FC-9E5CCE203D0A\\Stefan Zweig en Nueva York, 1941.jpg",
+                         "location": "E65BAB7E-65B5-755B-87FC-9E5CCE203D0A/StefanZweigenNuevaYork1941.jpg",
                          "dataLength": "48640",
                          "format": ".jpg"
                         }
@@ -6346,7 +6346,7 @@
                            "objectID": "129C5BB4-255B-050C-8511-93A446033B36",
                            "name": "La carta de suicidio de Stefan Zweig, BNI.jpg",
                            "attachmentType": "1",
-                           "location": "129C5BB4-255B-050C-8511-93A446033B36\\La carta de suicidio de Stefan Zweig, BNI.jpg",
+                           "location": "129C5BB4-255B-050C-8511-93A446033B36/LacartadesuicidiodeStefanZweigBNI.jpg",
                            "dataLength": "48578",
                            "format": ".jpg"
                           }
@@ -6423,7 +6423,7 @@
        "objectID": "EE550BDB-EFDD-6B93-AA1D-B5936F29BAFB",
        "name": "Walter Benjamin, BNI.jpg",
        "attachmentType": "1",
-       "location": "EE550BDB-EFDD-6B93-AA1D-B5936F29BAFB\\Walter Benjamin, BNI.jpg",
+       "location": "EE550BDB-EFDD-6B93-AA1D-B5936F29BAFB/WalterBenjaminBNI.jpg",
        "dataLength": "71830",
        "format": ".jpg"
       }
@@ -6448,7 +6448,7 @@
          "objectID": "0D46F88A-0E6D-309A-FCEF-E7D11C0DEC02",
          "name": "Gershom Scholem.png",
          "attachmentType": "1",
-         "location": "0D46F88A-0E6D-309A-FCEF-E7D11C0DEC02\\Gershom Scholem.png",
+         "location": "0D46F88A-0E6D-309A-FCEF-E7D11C0DEC02/GershomScholem.png",
          "dataLength": "53161",
          "format": ".png"
         },
@@ -6484,7 +6484,7 @@
          "objectID": "0D46F88A-0E6D-309A-FCEF-E7D11C0DEC02",
          "name": "Miembros de la Escuela de Frankfurt,  1964 por J. Shapiro, Heidelberg.png",
          "attachmentType": "1",
-         "location": "0D46F88A-0E6D-309A-FCEF-E7D11C0DEC02\\Miembros de la Escuela de Frankfurt,  1964 por J. Shapiro, Heidelberg.png",
+         "location": "0D46F88A-0E6D-309A-FCEF-E7D11C0DEC02/MiembrosdelaEscueladeFrankfurt1964porJ.ShapiroHeidelberg.png",
          "dataLength": "429327",
          "format": ".png"
         }
@@ -6522,7 +6522,7 @@
            "objectID": "522273B5-4B92-CDD7-9294-9F548B99B963",
            "name": "Walter Benjamin.jpg",
            "attachmentType": "1",
-           "location": "522273B5-4B92-CDD7-9294-9F548B99B963\\Walter Benjamin.jpg",
+           "location": "522273B5-4B92-CDD7-9294-9F548B99B963/WalterBenjamin.jpg",
            "dataLength": "28064",
            "format": ".jpg"
           }
@@ -6549,7 +6549,7 @@
              "objectID": "A2C82F85-76FE-26E0-C04C-6C8F88F64926",
              "name": "La disertaci&#243;n de Bejamin, El Concepto de la Cr&#237;tica del Arte en el Romanticismo Alem&#225;n.jpg",
              "attachmentType": "1",
-             "location": "A2C82F85-76FE-26E0-C04C-6C8F88F64926\\La disertaci&#243;n de Bejamin, El Concepto de la Cr&#237;tica del Arte en el Romanticismo Alem&#225;n.jpg",
+             "location": "A2C82F85-76FE-26E0-C04C-6C8F88F64926/LadisertacindeBejaminElConceptodelaCrticadelArteenelRomanticismoAlemn.jpg",
              "dataLength": "37049",
              "format": ".jpg"
             }
@@ -6576,7 +6576,7 @@
                "objectID": "448A68D1-326C-D903-A151-5FE65663F890",
                "name": "Gershom Scholem, 1925.jpg",
                "attachmentType": "1",
-               "location": "448A68D1-326C-D903-A151-5FE65663F890\\Gershom Scholem, 1925.jpg",
+               "location": "448A68D1-326C-D903-A151-5FE65663F890/GershomScholem1925.jpg",
                "dataLength": "24344",
                "format": ".jpg"
               },
@@ -6588,7 +6588,7 @@
                "objectID": "448A68D1-326C-D903-A151-5FE65663F890",
                "name": "Gershom Scholem.jpg",
                "attachmentType": "1",
-               "location": "448A68D1-326C-D903-A151-5FE65663F890\\Gershom Scholem.jpg",
+               "location": "448A68D1-326C-D903-A151-5FE65663F890/GershomScholem.jpg",
                "dataLength": "41806",
                "format": ".jpg"
               }
@@ -6615,7 +6615,7 @@
                  "objectID": "2D87E24D-E771-A01F-7AC8-6424F12BDB73",
                  "name": "Walter Benjamin, El Origen de la Drama Tr&#225;gica Alemana.jpg",
                  "attachmentType": "1",
-                 "location": "2D87E24D-E771-A01F-7AC8-6424F12BDB73\\Walter Benjamin, El Origen de la Drama Tr&#225;gica Alemana.jpg",
+                 "location": "2D87E24D-E771-A01F-7AC8-6424F12BDB73/WalterBenjaminElOrigendelaDramaTrgicaAlemana.jpg",
                  "dataLength": "31510",
                  "format": ".jpg"
                 }
@@ -6654,7 +6654,7 @@
                    "objectID": "97F1239D-149E-FD6A-7BF3-6C48E4B27E43",
                    "name": "Walter Benjamin - Placa conmemorativa, 10 rue Dombasle, 75015 Paris.jpg",
                    "attachmentType": "1",
-                   "location": "97F1239D-149E-FD6A-7BF3-6C48E4B27E43\\Walter Benjamin - Placa conmemorativa, 10 rue Dombasle, 75015 Paris.jpg",
+                   "location": "97F1239D-149E-FD6A-7BF3-6C48E4B27E43/WalterBenjamin-Placaconmemorativa10rueDombasle75015Paris.jpg",
                    "dataLength": "64260",
                    "format": ".jpg"
                   }
@@ -6732,7 +6732,7 @@
                        "objectID": "5A10788F-2F22-AEC1-F1C1-1D90B2AB0CD0",
                        "name": "La tumba de Walter Benjamin en Portbou.jpg",
                        "attachmentType": "1",
-                       "location": "5A10788F-2F22-AEC1-F1C1-1D90B2AB0CD0\\La tumba de Walter Benjamin en Portbou.jpg",
+                       "location": "5A10788F-2F22-AEC1-F1C1-1D90B2AB0CD0/LatumbadeWalterBenjaminenPortbou.jpg",
                        "dataLength": "21030",
                        "format": ".jpg"
                       }
@@ -6786,7 +6786,7 @@
          "objectID": "95934A56-2137-1032-C7F4-2BD7F29A375E",
          "name": "32 latas de sopa de Andy Warhol y un espectador.jpg",
          "attachmentType": "1",
-         "location": "95934A56-2137-1032-C7F4-2BD7F29A375E\\32 latas de sopa de Andy Warhol y un espectador.jpg",
+         "location": "95934A56-2137-1032-C7F4-2BD7F29A375E/32latasdesopadeAndyWarholyunespectador.jpg",
          "dataLength": "51093",
          "format": ".jpg"
         },
@@ -6798,7 +6798,7 @@
          "objectID": "95934A56-2137-1032-C7F4-2BD7F29A375E",
          "name": "Relaciones de origen y copia, La Mona Lisa.jpg",
          "attachmentType": "1",
-         "location": "95934A56-2137-1032-C7F4-2BD7F29A375E\\Relaciones de origen y copia, La Mona Lisa.jpg",
+         "location": "95934A56-2137-1032-C7F4-2BD7F29A375E/RelacionesdeorigenycopiaLaMonaLisa.jpg",
          "dataLength": "33415",
          "format": ".jpg"
         }
@@ -6824,7 +6824,7 @@
          "objectID": "FF8523E3-155F-6F3D-37FB-5E17940C6DAF",
          "name": "El cuaderno manuscrito de Benjamin con tapa de pergamino, BNI.jpg",
          "attachmentType": "1",
-         "location": "FF8523E3-155F-6F3D-37FB-5E17940C6DAF\\El cuaderno manuscrito de Benjamin con tapa de pergamino, BNI.jpg",
+         "location": "FF8523E3-155F-6F3D-37FB-5E17940C6DAF/ElcuadernomanuscritodeBenjamincontapadepergaminoBNI.jpg",
          "dataLength": "515055",
          "format": ".jpg"
         }
@@ -6849,7 +6849,7 @@
            "objectID": "C588E3AE-91EB-2A99-50B8-6520308382D6",
            "name": "Carta de Walter Benjamin a Gershom Scholem, Berl&#237;n 28.2.1933, p.2.jpg",
            "attachmentType": "1",
-           "location": "C588E3AE-91EB-2A99-50B8-6520308382D6\\Carta de Walter Benjamin a Gershom Scholem, Berl&#237;n 28.2.1933, p.2.jpg",
+           "location": "C588E3AE-91EB-2A99-50B8-6520308382D6/CartadeWalterBenjaminaGershomScholemBerln28.2.1933p.2.jpg",
            "dataLength": "157979",
            "format": ".jpg"
           },
@@ -6861,7 +6861,7 @@
            "objectID": "C588E3AE-91EB-2A99-50B8-6520308382D6",
            "name": "Carta de Walter Benjamin a Gershom Scholem, Berl&#237;n 28.2.1933, p.1.jpg",
            "attachmentType": "1",
-           "location": "C588E3AE-91EB-2A99-50B8-6520308382D6\\Carta de Walter Benjamin a Gershom Scholem, Berl&#237;n 28.2.1933, p.1.jpg",
+           "location": "C588E3AE-91EB-2A99-50B8-6520308382D6/CartadeWalterBenjaminaGershomScholemBerln28.2.1933p.1.jpg",
            "dataLength": "195305",
            "format": ".jpg"
           }
@@ -6886,7 +6886,7 @@
              "objectID": "ECB2D7AF-DF48-0A65-D929-5639449F580C",
              "name": "Carta de Walter Benjamin a Gershom Scholem, Par&#237;s, 20 March 1933, p.2, BNI.jpg",
              "attachmentType": "1",
-             "location": "ECB2D7AF-DF48-0A65-D929-5639449F580C\\Carta de Walter Benjamin a Gershom Scholem, Par&#237;s, 20 March 1933, p.2, BNI.jpg",
+             "location": "ECB2D7AF-DF48-0A65-D929-5639449F580C/CartadeWalterBenjaminaGershomScholemPars20March1933p.2BNI.jpg",
              "dataLength": "112705",
              "format": ".jpg"
             },
@@ -6898,7 +6898,7 @@
              "objectID": "ECB2D7AF-DF48-0A65-D929-5639449F580C",
              "name": "Carta de Walter Benjamin a Gershom Scholem, Par&#237;s, 20 March 1933, p.3, BNI.jpg",
              "attachmentType": "1",
-             "location": "ECB2D7AF-DF48-0A65-D929-5639449F580C\\Carta de Walter Benjamin a Gershom Scholem, Par&#237;s, 20 March 1933, p.3, BNI.jpg",
+             "location": "ECB2D7AF-DF48-0A65-D929-5639449F580C/CartadeWalterBenjaminaGershomScholemPars20March1933p.3BNI.jpg",
              "dataLength": "53783",
              "format": ".jpg"
             },
@@ -6910,7 +6910,7 @@
              "objectID": "ECB2D7AF-DF48-0A65-D929-5639449F580C",
              "name": "Carta de Walter Benjamin a Gershom Scholem, Par&#237;s, 20 March 1933, p.1, BNI.jpg",
              "attachmentType": "1",
-             "location": "ECB2D7AF-DF48-0A65-D929-5639449F580C\\Carta de Walter Benjamin a Gershom Scholem, Par&#237;s, 20 March 1933, p.1, BNI.jpg",
+             "location": "ECB2D7AF-DF48-0A65-D929-5639449F580C/CartadeWalterBenjaminaGershomScholemPars20March1933p.1BNI.jpg",
              "dataLength": "83942",
              "format": ".jpg"
             }
@@ -6940,7 +6940,7 @@
            "objectID": "1DD1B7AA-B6DC-8BF8-E629-916882ACB92A",
            "name": "El ensayo conmemorativo de Benjamin sobre Franz Kafka, BNI.jpg",
            "attachmentType": "1",
-           "location": "1DD1B7AA-B6DC-8BF8-E629-916882ACB92A\\El ensayo conmemorativo de Benjamin sobre Franz Kafka, BNI.jpg",
+           "location": "1DD1B7AA-B6DC-8BF8-E629-916882ACB92A/ElensayoconmemorativodeBenjaminsobreFranzKafkaBNI.jpg",
            "dataLength": "66630",
            "format": ".jpg"
           }
@@ -6966,7 +6966,7 @@
            "objectID": "773D5BCA-C739-7062-0261-B746CF4091BA",
            "name": "El Manuscrito del Trauerspielbuch de Benjamin, 1925, NLI.png",
            "attachmentType": "1",
-           "location": "773D5BCA-C739-7062-0261-B746CF4091BA\\El Manuscrito del Trauerspielbuch de Benjamin, 1925, NLI.png",
+           "location": "773D5BCA-C739-7062-0261-B746CF4091BA/ElManuscritodelTrauerspielbuchdeBenjamin1925NLI.png",
            "dataLength": "509629",
            "format": ".png"
           }
@@ -6992,7 +6992,7 @@
            "objectID": "07D1614D-6B22-3067-3DD4-4225322EB5C4",
            "name": "Copia de carta de las autoridades Espa&#241;olas a Horkheimer hecha por Scholem, parte 2, BNI.png",
            "attachmentType": "1",
-           "location": "07D1614D-6B22-3067-3DD4-4225322EB5C4\\Copia de carta de las autoridades Espa&#241;olas a Horkheimer hecha por Scholem, parte 2, BNI.png",
+           "location": "07D1614D-6B22-3067-3DD4-4225322EB5C4/CopiadecartadelasautoridadesEspaolasaHorkheimerhechaporScholemparte2BNI.png",
            "dataLength": "545972",
            "format": ".png"
           },
@@ -7004,7 +7004,7 @@
            "objectID": "07D1614D-6B22-3067-3DD4-4225322EB5C4",
            "name": "Copia de carta de las autoridades Espa&#241;olas a Horkheimer hecha por Scholem, part3 1, BNI.png",
            "attachmentType": "1",
-           "location": "07D1614D-6B22-3067-3DD4-4225322EB5C4\\Copia de carta de las autoridades Espa&#241;olas a Horkheimer hecha por Scholem, part3 1, BNI.png",
+           "location": "07D1614D-6B22-3067-3DD4-4225322EB5C4/CopiadecartadelasautoridadesEspaolasaHorkheimerhechaporScholempart31BNI.png",
            "dataLength": "493769",
            "format": ".png"
           }
@@ -7058,7 +7058,7 @@
        "objectID": "8321C673-6854-FED9-047D-8E432F85A344",
        "name": "Albert Ehrenstein, BNI.jpg",
        "attachmentType": "1",
-       "location": "8321C673-6854-FED9-047D-8E432F85A344\\Albert Ehrenstein, BNI.jpg",
+       "location": "8321C673-6854-FED9-047D-8E432F85A344/AlbertEhrensteinBNI.jpg",
        "dataLength": "43572",
        "format": ".jpg"
       },
@@ -7070,7 +7070,7 @@
        "objectID": "8321C673-6854-FED9-047D-8E432F85A344",
        "name": "Else Lasker-Sch&#252;ler tocando la flauta, BNI.jpg",
        "attachmentType": "1",
-       "location": "8321C673-6854-FED9-047D-8E432F85A344\\Else Lasker-Sch&#252;ler tocando la flauta, BNI.jpg",
+       "location": "8321C673-6854-FED9-047D-8E432F85A344/ElseLasker-SchlertocandolaflautaBNI.jpg",
        "dataLength": "141767",
        "format": ".jpg"
       },
@@ -7082,7 +7082,7 @@
        "objectID": "8321C673-6854-FED9-047D-8E432F85A344",
        "name": "Else Lasker-Sch&#252;ler, BNI.jpg",
        "attachmentType": "1",
-       "location": "8321C673-6854-FED9-047D-8E432F85A344\\Else Lasker-Sch&#252;ler, BNI.jpg",
+       "location": "8321C673-6854-FED9-047D-8E432F85A344/ElseLasker-SchlerBNI.jpg",
        "dataLength": "135591",
        "format": ".jpg"
       }
@@ -7112,7 +7112,7 @@
      "objectID": "A9033D67-7C48-B1E8-59A7-6F4E372E0EA7",
      "name": "Newton, Tratado sobre el origen de la religi&#243;n y su corrupci&#243;n, BNI.jpg",
      "attachmentType": "1",
-     "location": "A9033D67-7C48-B1E8-59A7-6F4E372E0EA7\\Newton, Tratado sobre el origen de la religi&#243;n y su corrupci&#243;n, BNI.jpg",
+     "location": "A9033D67-7C48-B1E8-59A7-6F4E372E0EA7/NewtonTratadosobreelorigendelareliginysucorrupcinBNI.jpg",
      "dataLength": "30805",
      "format": ".jpg"
     }
@@ -7145,7 +7145,7 @@
          "objectID": "6CBFE979-B4EF-E377-DEA7-2F096D47FC66",
          "name": "Newton, C&#225;lculos Apocal&#237;pticos sobre el a&#241;o 2060, BNI.jpg",
          "attachmentType": "1",
-         "location": "6CBFE979-B4EF-E377-DEA7-2F096D47FC66\\Newton, C&#225;lculos Apocal&#237;pticos sobre el a&#241;o 2060, BNI.jpg",
+         "location": "6CBFE979-B4EF-E377-DEA7-2F096D47FC66/NewtonClculosApocalpticossobreelao2060BNI.jpg",
          "dataLength": "86033",
          "format": ".jpg"
         }
@@ -7184,7 +7184,7 @@
            "objectID": "05C16366-E98F-8859-A0D8-AA8FE3251A80",
            "name": "Newton, Doce pronunciamientos sobre Dios, BNI.jpg",
            "attachmentType": "1",
-           "location": "05C16366-E98F-8859-A0D8-AA8FE3251A80\\Newton, Doce pronunciamientos sobre Dios, BNI.jpg",
+           "location": "05C16366-E98F-8859-A0D8-AA8FE3251A80/NewtonDocepronunciamientossobreDiosBNI.jpg",
            "dataLength": "140741",
            "format": ".jpg"
           }
@@ -7211,7 +7211,7 @@
              "objectID": "4130AC26-0B7C-306D-58D1-87B4DD7C00BD",
              "name": "Newton, Fragmentos sobre los reinos de las tribus Europeas, el Templo y la Historia de las Iglesias Jud&#237;as y Cristianas, BNI.jpg",
              "attachmentType": "1",
-             "location": "4130AC26-0B7C-306D-58D1-87B4DD7C00BD\\Newton, Fragmentos sobre los reinos de las tribus Europeas, el Templo y la Historia de las Iglesias Jud&#237;as y Cristianas, BNI.jpg",
+             "location": "4130AC26-0B7C-306D-58D1-87B4DD7C00BD/NewtonFragmentossobrelosreinosdelastribusEuropeaselTemploylaHistoriadelasIglesiasJudasyCristianasBNI.jpg",
              "dataLength": "225185",
              "format": ".jpg"
             }
@@ -7238,7 +7238,7 @@
                "objectID": "7CA511A6-0CBC-F6BA-55F8-D27239D657A5",
                "name": "Talmud, Venecia, Seder Nashim, 1523, P&#225;gina 1.jpg",
                "attachmentType": "1",
-               "location": "7CA511A6-0CBC-F6BA-55F8-D27239D657A5\\Talmud, Venecia, Seder Nashim, 1523, P&#225;gina 1.jpg",
+               "location": "7CA511A6-0CBC-F6BA-55F8-D27239D657A5/TalmudVeneciaSederNashim1523Pgina1.jpg",
                "dataLength": "146333",
                "format": ".jpg"
               }
@@ -7265,7 +7265,7 @@
                "objectID": "BB7FB86D-54E0-57DD-EA6F-71CD5EFAE26B",
                "name": "Newton, Mapa de la Quinta y la Sexta Trompeta, BNI.jpg",
                "attachmentType": "1",
-               "location": "BB7FB86D-54E0-57DD-EA6F-71CD5EFAE26B\\Newton, Mapa de la Quinta y la Sexta Trompeta, BNI.jpg",
+               "location": "BB7FB86D-54E0-57DD-EA6F-71CD5EFAE26B/NewtonMapadelaQuintaylaSextaTrompetaBNI.jpg",
                "dataLength": "179468",
                "format": ".jpg"
               }
@@ -7292,7 +7292,7 @@
                  "objectID": "A57F02ED-9DB6-892F-DB09-767958D3DFC7",
                  "name": "La carta de Newton a los mineros (borrador), BNI.jpg",
                  "attachmentType": "1",
-                 "location": "A57F02ED-9DB6-892F-DB09-767958D3DFC7\\La carta de Newton a los mineros (borrador), BNI.jpg",
+                 "location": "A57F02ED-9DB6-892F-DB09-767958D3DFC7/LacartadeNewtonalosmineros(borrador)BNI.jpg",
                  "dataLength": "119778",
                  "format": ".jpg"
                 }
@@ -7319,7 +7319,7 @@
                    "objectID": "63A1DFAA-E53C-BB5B-35AF-0FE5825914EC",
                    "name": "Las figuras hierogl&#237;ficas de Nicholas Flammel con explicaciones (principios de la d&#233;cada de 1680), BNI.jpg",
                    "attachmentType": "1",
-                   "location": "63A1DFAA-E53C-BB5B-35AF-0FE5825914EC\\Las figuras hierogl&#237;ficas de Nicholas Flammel con explicaciones (principios de la d&#233;cada de 1680), BNI.jpg",
+                   "location": "63A1DFAA-E53C-BB5B-35AF-0FE5825914EC/LasfigurashieroglficasdeNicholasFlammelconexplicaciones(principiosdeladcadade1680)BNI.jpg",
                    "dataLength": "134129",
                    "format": ".jpg"
                   }
@@ -7371,7 +7371,7 @@
          "objectID": "0A03EA07-2321-29CC-8455-B7C8B5DB90F6",
          "name": "La tumba de Isaac Newton, Westminster Abbey.jpg",
          "attachmentType": "1",
-         "location": "0A03EA07-2321-29CC-8455-B7C8B5DB90F6\\La tumba de Isaac Newton, Westminster Abbey.jpg",
+         "location": "0A03EA07-2321-29CC-8455-B7C8B5DB90F6/LatumbadeIsaacNewtonWestminsterAbbey.jpg",
          "dataLength": "121528",
          "format": ".jpg"
         }
@@ -7410,7 +7410,7 @@
            "objectID": "A3CB6E55-1059-5AE7-473A-103D04566C62",
            "name": "Isaac Newton Wallop,  5th Earl of Portsmouth, caricatura en Vanity Fair, 1876-07-01.jpg",
            "attachmentType": "1",
-           "location": "A3CB6E55-1059-5AE7-473A-103D04566C62\\Isaac Newton Wallop,  5th Earl of Portsmouth, caricatura en Vanity Fair, 1876-07-01.jpg",
+           "location": "A3CB6E55-1059-5AE7-473A-103D04566C62/IsaacNewtonWallop5thEarlofPortsmouthcaricaturaenVanityFair1876-07-01.jpg",
            "dataLength": "26959",
            "format": ".jpg"
           }
@@ -7437,7 +7437,7 @@
              "objectID": "6313E407-AF8A-E232-115C-C382A8911B76",
              "name": "La tapa del cat&#225;logo de la subasta de Sotheby, 1936.jpg",
              "attachmentType": "1",
-             "location": "6313E407-AF8A-E232-115C-C382A8911B76\\La tapa del cat&#225;logo de la subasta de Sotheby, 1936.jpg",
+             "location": "6313E407-AF8A-E232-115C-C382A8911B76/LatapadelcatlogodelasubastadeSotheby1936.jpg",
              "dataLength": "150539",
              "format": ".jpg"
             }
@@ -7464,7 +7464,7 @@
                "objectID": "364DED05-C7AF-5CE4-0EA2-15F442DC7192",
                "name": "Abraham Shalom Yahuda - retrato.jpg",
                "attachmentType": "1",
-               "location": "364DED05-C7AF-5CE4-0EA2-15F442DC7192\\Abraham Shalom Yahuda - retrato.jpg",
+               "location": "364DED05-C7AF-5CE4-0EA2-15F442DC7192/AbrahamShalomYahuda-retrato.jpg",
                "dataLength": "8082",
                "format": ".jpg"
               },
@@ -7476,7 +7476,7 @@
                "objectID": "364DED05-C7AF-5CE4-0EA2-15F442DC7192",
                "name": "John Maynard Keynes en su juventud.jpg",
                "attachmentType": "1",
-               "location": "364DED05-C7AF-5CE4-0EA2-15F442DC7192\\John Maynard Keynes en su juventud.jpg",
+               "location": "364DED05-C7AF-5CE4-0EA2-15F442DC7192/JohnMaynardKeynesensujuventud.jpg",
                "dataLength": "87044",
                "format": ".jpg"
               },
@@ -7488,7 +7488,7 @@
                "objectID": "364DED05-C7AF-5CE4-0EA2-15F442DC7192",
                "name": "John Maynard Keynes.jpg",
                "attachmentType": "1",
-               "location": "364DED05-C7AF-5CE4-0EA2-15F442DC7192\\John Maynard Keynes.jpg",
+               "location": "364DED05-C7AF-5CE4-0EA2-15F442DC7192/JohnMaynardKeynes.jpg",
                "dataLength": "17295",
                "format": ".jpg"
               }
@@ -7515,7 +7515,7 @@
                  "objectID": "5B1844AA-E868-D84F-B0F5-5FCFDBEA65DE",
                  "name": "Libro de Horas, siglo XV, Brujas, BNI.jpg",
                  "attachmentType": "1",
-                 "location": "5B1844AA-E868-D84F-B0F5-5FCFDBEA65DE\\Libro de Horas, siglo XV, Brujas, BNI.jpg",
+                 "location": "5B1844AA-E868-D84F-B0F5-5FCFDBEA65DE/LibrodeHorassigloXVBrujasBNI.jpg",
                  "dataLength": "262694",
                  "format": ".jpg"
                 },
@@ -7527,7 +7527,7 @@
                  "objectID": "5B1844AA-E868-D84F-B0F5-5FCFDBEA65DE",
                  "name": "Privilegio otorgado a los Jud&#237;os por el Rey Alfonso V de Arag&#243;n, Zaragoza 1429, BNI.jpg",
                  "attachmentType": "1",
-                 "location": "5B1844AA-E868-D84F-B0F5-5FCFDBEA65DE\\Privilegio otorgado a los Jud&#237;os por el Rey Alfonso V de Arag&#243;n, Zaragoza 1429, BNI.jpg",
+                 "location": "5B1844AA-E868-D84F-B0F5-5FCFDBEA65DE/PrivilegiootorgadoalosJudosporelReyAlfonsoVdeAragnZaragoza1429BNI.jpg",
                  "dataLength": "203947",
                  "format": ".jpg"
                 },
@@ -7539,7 +7539,7 @@
                  "objectID": "5B1844AA-E868-D84F-B0F5-5FCFDBEA65DE",
                  "name": "El Cor&#225;n de Shiraz, Ir&#225;n, principios del siglo XVI, BNI.jpg",
                  "attachmentType": "1",
-                 "location": "5B1844AA-E868-D84F-B0F5-5FCFDBEA65DE\\El Cor&#225;n de Shiraz, Ir&#225;n, principios del siglo XVI, BNI.jpg",
+                 "location": "5B1844AA-E868-D84F-B0F5-5FCFDBEA65DE/ElCorndeShirazIrnprincipiosdelsigloXVIBNI.jpg",
                  "dataLength": "327636",
                  "format": ".jpg"
                 }
@@ -7577,7 +7577,7 @@
        "objectID": "DFAB247D-78C0-81D1-C14B-B79DF943FAA7",
        "name": "Abraham Shalom Yahuda (1877-1951), BNI.png",
        "attachmentType": "1",
-       "location": "DFAB247D-78C0-81D1-C14B-B79DF943FAA7\\Abraham Shalom Yahuda (1877-1951), BNI.png",
+       "location": "DFAB247D-78C0-81D1-C14B-B79DF943FAA7/AbrahamShalomYahuda(1877-1951)BNI.png",
        "dataLength": "421814",
        "format": ".png"
       }
@@ -7614,7 +7614,7 @@
            "objectID": "42116843-CC5D-0E5E-5B09-0417EF55B8D8",
            "name": "Maim&#243;nides, Mishn&#233; Tor&#225;, 1300-1350, &apos;Mad&#225;&apos; (Ciencia), BNI.jpg",
            "attachmentType": "1",
-           "location": "42116843-CC5D-0E5E-5B09-0417EF55B8D8\\Maim&#243;nides, Mishn&#233; Tor&#225;, 1300-1350, &apos;Mad&#225;&apos; (Ciencia), BNI.jpg",
+           "location": "42116843-CC5D-0E5E-5B09-0417EF55B8D8/MaimnidesMishnTor1300-1350Mad(Ciencia)BNI.jpg",
            "dataLength": "400794",
            "format": ".jpg"
           },
@@ -7626,7 +7626,7 @@
            "objectID": "42116843-CC5D-0E5E-5B09-0417EF55B8D8",
            "name": "Maim&#243;nides, Mishn&#233; Tor&#225;, 1300-1350, BNI.jpg",
            "attachmentType": "1",
-           "location": "42116843-CC5D-0E5E-5B09-0417EF55B8D8\\Maim&#243;nides, Mishn&#233; Tor&#225;, 1300-1350, BNI.jpg",
+           "location": "42116843-CC5D-0E5E-5B09-0417EF55B8D8/MaimnidesMishnTor1300-1350BNI.jpg",
            "dataLength": "105213",
            "format": ".jpg"
           },
@@ -7638,7 +7638,7 @@
            "objectID": "42116843-CC5D-0E5E-5B09-0417EF55B8D8",
            "name": "Cantar de los Cantares, con traducci&#243;n y el comentario de Rashi, siglo XVIII, BNI.jpg",
            "attachmentType": "1",
-           "location": "42116843-CC5D-0E5E-5B09-0417EF55B8D8\\Cantar de los Cantares, con traducci&#243;n y el comentario de Rashi, siglo XVIII, BNI.jpg",
+           "location": "42116843-CC5D-0E5E-5B09-0417EF55B8D8/CantardelosCantarescontraduccinyelcomentariodeRashisigloXVIIIBNI.jpg",
            "dataLength": "381468",
            "format": ".jpg"
           },
@@ -7650,7 +7650,7 @@
            "objectID": "42116843-CC5D-0E5E-5B09-0417EF55B8D8",
            "name": "Maimonides, Mishn&#233; Tor&#225;, Maim&#243;nides, Jueces, copiado en 1433, BNI.jpg",
            "attachmentType": "1",
-           "location": "42116843-CC5D-0E5E-5B09-0417EF55B8D8\\Maimonides, Mishn&#233; Tor&#225;, Maim&#243;nides, Jueces, copiado en 1433, BNI.jpg",
+           "location": "42116843-CC5D-0E5E-5B09-0417EF55B8D8/MaimonidesMishnTorMaimnidesJuecescopiadoen1433BNI.jpg",
            "dataLength": "316242",
            "format": ".jpg"
           }
@@ -7677,7 +7677,7 @@
              "objectID": "D1D6FCC7-F64A-93B3-12D0-03E90BE4D3FA",
              "name": "Privilegio otorgados a los Jud&#237;os por el Rey Alfonso V de Arag&#243;n, Zaragoza 1429, BNI.jpg",
              "attachmentType": "1",
-             "location": "D1D6FCC7-F64A-93B3-12D0-03E90BE4D3FA\\Privilegio otorgados a los Jud&#237;os por el Rey Alfonso V de Arag&#243;n, Zaragoza 1429, BNI.jpg",
+             "location": "D1D6FCC7-F64A-93B3-12D0-03E90BE4D3FA/PrivilegiootorgadosalosJudosporelReyAlfonsoVdeAragnZaragoza1429BNI.jpg",
              "dataLength": "203947",
              "format": ".jpg"
             }
@@ -7704,7 +7704,7 @@
                "objectID": "30FBEE2C-024A-DDA0-31C4-340153E44CA9",
                "name": "Cor&#225;n, siglo IX, Qayrawan, BNI.jpg",
                "attachmentType": "1",
-               "location": "30FBEE2C-024A-DDA0-31C4-340153E44CA9\\Cor&#225;n, siglo IX, Qayrawan, BNI.jpg",
+               "location": "30FBEE2C-024A-DDA0-31C4-340153E44CA9/CornsigloIXQayrawanBNI.jpg",
                "dataLength": "308234",
                "format": ".jpg"
               },
@@ -7716,7 +7716,7 @@
                "objectID": "30FBEE2C-024A-DDA0-31C4-340153E44CA9",
                "name": "Muhammad al-Busiri, Al-Burdah (poema de la Manta), mediados del siglo XIV, BNI.jpg",
                "attachmentType": "1",
-               "location": "30FBEE2C-024A-DDA0-31C4-340153E44CA9\\Muhammad al-Busiri, Al-Burdah (poema de la Manta), mediados del siglo XIV, BNI.jpg",
+               "location": "30FBEE2C-024A-DDA0-31C4-340153E44CA9/Muhammadal-BusiriAl-Burdah(poemadelaManta)mediadosdelsigloXIVBNI.jpg",
                "dataLength": "426621",
                "format": ".jpg"
               },
@@ -7728,7 +7728,7 @@
                "objectID": "30FBEE2C-024A-DDA0-31C4-340153E44CA9",
                "name": "Un Cor&#225;n Andal&#250;z, siglo XII, BNI.jpg",
                "attachmentType": "1",
-               "location": "30FBEE2C-024A-DDA0-31C4-340153E44CA9\\Un Cor&#225;n Andal&#250;z, siglo XII, BNI.jpg",
+               "location": "30FBEE2C-024A-DDA0-31C4-340153E44CA9/UnCornAndalzsigloXIIBNI.jpg",
                "dataLength": "133625",
                "format": ".jpg"
               }
@@ -7755,7 +7755,7 @@
                  "objectID": "DD19038B-20EE-84D7-1A38-2A043EE50D32",
                  "name": "Libro de Horas, siglo XV, Brujas, BNI.jpg",
                  "attachmentType": "1",
-                 "location": "DD19038B-20EE-84D7-1A38-2A043EE50D32\\Libro de Horas, siglo XV, Brujas, BNI.jpg",
+                 "location": "DD19038B-20EE-84D7-1A38-2A043EE50D32/LibrodeHorassigloXVBrujasBNI.jpg",
                  "dataLength": "432242",
                  "format": ".jpg"
                 },
@@ -7767,7 +7767,7 @@
                  "objectID": "DD19038B-20EE-84D7-1A38-2A043EE50D32",
                  "name": "Ls carta de Napole&#243;n al  general Destaing durante la campa&#241;a en Egipto, 9.7.1799, BNI.jpg",
                  "attachmentType": "1",
-                 "location": "DD19038B-20EE-84D7-1A38-2A043EE50D32\\Ls carta de Napole&#243;n al  general Destaing durante la campa&#241;a en Egipto, 9.7.1799, BNI.jpg",
+                 "location": "DD19038B-20EE-84D7-1A38-2A043EE50D32/LscartadeNapolenalgeneralDestaingdurantelacampaaenEgipto9.7.1799BNI.jpg",
                  "dataLength": "485893",
                  "format": ".jpg"
                 },
@@ -7779,7 +7779,7 @@
                  "objectID": "DD19038B-20EE-84D7-1A38-2A043EE50D32",
                  "name": "Newton, Mapa de la Quinta y la Sexta Trompeta, BNI.jpg",
                  "attachmentType": "1",
-                 "location": "DD19038B-20EE-84D7-1A38-2A043EE50D32\\Newton, Mapa de la Quinta y la Sexta Trompeta, BNI.jpg",
+                 "location": "DD19038B-20EE-84D7-1A38-2A043EE50D32/NewtonMapadelaQuintaylaSextaTrompetaBNI.jpg",
                  "dataLength": "179468",
                  "format": ".jpg"
                 }
@@ -7815,7 +7815,7 @@
          "objectID": "E0173FCD-8591-E6E3-CF36-7AB44ACDA9E4",
          "name": "Sinagoga Santa Maria La Blanca, Toledo.jpg",
          "attachmentType": "1",
-         "location": "E0173FCD-8591-E6E3-CF36-7AB44ACDA9E4\\Sinagoga Santa Maria La Blanca, Toledo.jpg",
+         "location": "E0173FCD-8591-E6E3-CF36-7AB44ACDA9E4/SinagogaSantaMariaLaBlancaToledo.jpg",
          "dataLength": "71947",
          "format": ".jpg"
         }
@@ -7856,7 +7856,7 @@
              "objectID": "4F2ACC89-2B07-9DD2-B907-B404EB37E506",
              "name": "Yahuda, esperando una audiencia con el Rey Alfonso XIII, 15.1.1916, BNI.jpg",
              "attachmentType": "1",
-             "location": "4F2ACC89-2B07-9DD2-B907-B404EB37E506\\Yahuda, esperando una audiencia con el Rey Alfonso XIII, 15.1.1916, BNI.jpg",
+             "location": "4F2ACC89-2B07-9DD2-B907-B404EB37E506/YahudaesperandounaaudienciaconelReyAlfonsoXIII15.1.1916BNI.jpg",
              "dataLength": "500228",
              "format": ".jpg"
             }
@@ -7908,7 +7908,7 @@
      "objectID": "951EE7CF-B79F-21B4-D7ED-DE07FCD7CC10",
      "name": "La Biblioteca Nacional de Israel, Jerusal&#233;n.jpg",
      "attachmentType": "1",
-     "location": "951EE7CF-B79F-21B4-D7ED-DE07FCD7CC10\\La Biblioteca Nacional de Israel, Jerusal&#233;n.jpg",
+     "location": "951EE7CF-B79F-21B4-D7ED-DE07FCD7CC10/LaBibliotecaNacionaldeIsraelJerusaln.jpg",
      "dataLength": "78151",
      "format": ".jpg"
     },
@@ -7920,7 +7920,7 @@
      "objectID": "951EE7CF-B79F-21B4-D7ED-DE07FCD7CC10",
      "name": "El Ventanal de Ardon, NLI.jpg",
      "attachmentType": "1",
-     "location": "951EE7CF-B79F-21B4-D7ED-DE07FCD7CC10\\El Ventanal de Ardon, NLI.jpg",
+     "location": "951EE7CF-B79F-21B4-D7ED-DE07FCD7CC10/ElVentanaldeArdonNLI.jpg",
      "dataLength": "154231",
      "format": ".jpg"
     },
@@ -7965,7 +7965,7 @@
          "objectID": "99BCF440-FBE1-A1E7-1B2F-1E73F169FE87",
          "name": "Aut&#243;grafo de Maim&#243;nides, Seder Mo&apos;ed,  P&#225;gina 72, detalles, BNI.jpg",
          "attachmentType": "1",
-         "location": "99BCF440-FBE1-A1E7-1B2F-1E73F169FE87\\Aut&#243;grafo de Maim&#243;nides, Seder Mo&apos;ed,  P&#225;gina 72, detalles, BNI.jpg",
+         "location": "99BCF440-FBE1-A1E7-1B2F-1E73F169FE87/AutgrafodeMaimnidesSederMoedPgina72detallesBNI.jpg",
          "dataLength": "165770",
          "format": ".jpg"
         },
@@ -7977,7 +7977,7 @@
          "objectID": "99BCF440-FBE1-A1E7-1B2F-1E73F169FE87",
          "name": "Maimonides, Mishn&#233; Torah, 1300-1350, &apos;Ahava&apos; (Amor), detalle, BNI.jpg",
          "attachmentType": "1",
-         "location": "99BCF440-FBE1-A1E7-1B2F-1E73F169FE87\\Maimonides, Mishn&#233; Torah, 1300-1350, &apos;Ahava&apos; (Amor), detalle, BNI.jpg",
+         "location": "99BCF440-FBE1-A1E7-1B2F-1E73F169FE87/MaimonidesMishnTorah1300-1350Ahava(Amor)detalleBNI.jpg",
          "dataLength": "182522",
          "format": ".jpg"
         },
@@ -7989,7 +7989,7 @@
          "objectID": "99BCF440-FBE1-A1E7-1B2F-1E73F169FE87",
          "name": "Stefan Zweig&apos;s Letter to Martin Buber, 24.1.1917, p.1.jpg",
          "attachmentType": "1",
-         "location": "99BCF440-FBE1-A1E7-1B2F-1E73F169FE87\\Stefan Zweig&apos;s Letter to Martin Buber, 24.1.1917, p.1.jpg",
+         "location": "99BCF440-FBE1-A1E7-1B2F-1E73F169FE87/StefanZweigsLettertoMartinBuber24.1.1917p.1.jpg",
          "dataLength": "74857",
          "format": ".jpg"
         },
@@ -8001,7 +8001,7 @@
          "objectID": "99BCF440-FBE1-A1E7-1B2F-1E73F169FE87",
          "name": "El cuaderno de Hebreo de Kafka, c. 1917, BNI.jpg",
          "attachmentType": "1",
-         "location": "99BCF440-FBE1-A1E7-1B2F-1E73F169FE87\\El cuaderno de Hebreo de Kafka, c. 1917, BNI.jpg",
+         "location": "99BCF440-FBE1-A1E7-1B2F-1E73F169FE87/ElcuadernodeHebreodeKafkac.1917BNI.jpg",
          "dataLength": "51333",
          "format": ".jpg"
         },
@@ -8052,7 +8052,7 @@
            "objectID": "F371557E-6759-37C4-D798-E6BDDA6B2AF5",
            "name": "Schottlaender, &apos;Panorama des heiligen Landes&apos;, Breslau, circa 1900,  BNI.jpg",
            "attachmentType": "1",
-           "location": "F371557E-6759-37C4-D798-E6BDDA6B2AF5\\Schottlaender, &apos;Panorama des heiligen Landes&apos;, Breslau, circa 1900,  BNI.jpg",
+           "location": "F371557E-6759-37C4-D798-E6BDDA6B2AF5/SchottlaenderPanoramadesheiligenLandesBreslaucirca1900BNI.jpg",
            "dataLength": "256200",
            "format": ".jpg"
           },
@@ -8064,7 +8064,7 @@
            "objectID": "F371557E-6759-37C4-D798-E6BDDA6B2AF5",
            "name": "Adrichem, mapa de Jerusal&#233;n, Colonia, 1584,  BNI.jpg",
            "attachmentType": "1",
-           "location": "F371557E-6759-37C4-D798-E6BDDA6B2AF5\\Adrichem, mapa de Jerusal&#233;n, Colonia, 1584,  BNI.jpg",
+           "location": "F371557E-6759-37C4-D798-E6BDDA6B2AF5/AdrichemmapadeJerusalnColonia1584BNI.jpg",
            "dataLength": "303458",
            "format": ".jpg"
           },
@@ -8076,7 +8076,7 @@
            "objectID": "F371557E-6759-37C4-D798-E6BDDA6B2AF5",
            "name": "Celebrando la decisi&#243;n de la ONU de establecer un Estado Jud&#237;o en Palestina, Tel Aviv, 30.11.1947, BNI.jpg",
            "attachmentType": "1",
-           "location": "F371557E-6759-37C4-D798-E6BDDA6B2AF5\\Celebrando la decisi&#243;n de la ONU de establecer un Estado Jud&#237;o en Palestina, Tel Aviv, 30.11.1947, BNI.jpg",
+           "location": "F371557E-6759-37C4-D798-E6BDDA6B2AF5/CelebrandoladecisindelaONUdeestablecerunEstadoJudoenPalestinaTelAviv30.11.1947BNI.jpg",
            "dataLength": "83003",
            "format": ".jpg"
           },
@@ -8115,7 +8115,7 @@
              "objectID": "DCC59C4C-8581-A2D2-7E52-A08855BCDEAC",
              "name": "Jami, Regalo al Noble, escena en un jard&#237;n persa, BNI.jpg",
              "attachmentType": "1",
-             "location": "DCC59C4C-8581-A2D2-7E52-A08855BCDEAC\\Jami, Regalo al Noble, escena en un jard&#237;n persa, BNI.jpg",
+             "location": "DCC59C4C-8581-A2D2-7E52-A08855BCDEAC/JamiRegaloalNobleescenaenunjardnpersaBNI.jpg",
              "dataLength": "256144",
              "format": ".jpg"
             },
@@ -8127,7 +8127,7 @@
              "objectID": "DCC59C4C-8581-A2D2-7E52-A08855BCDEAC",
              "name": "Shukri Bey Biltisi, Selim Nameh (El Libro de Selim), manuscrito-1524, BNI.jpg",
              "attachmentType": "1",
-             "location": "DCC59C4C-8581-A2D2-7E52-A08855BCDEAC\\Shukri Bey Biltisi, Selim Nameh (El Libro de Selim), manuscrito-1524, BNI.jpg",
+             "location": "DCC59C4C-8581-A2D2-7E52-A08855BCDEAC/ShukriBeyBiltisiSelimNameh(ElLibrodeSelim)manuscrito-1524BNI.jpg",
              "dataLength": "179982",
              "format": ".jpg"
             },
@@ -8139,7 +8139,7 @@
              "objectID": "DCC59C4C-8581-A2D2-7E52-A08855BCDEAC",
              "name": "Un Cor&#225;n Andal&#250;si, siglo XII, BNI.jpg",
              "attachmentType": "1",
-             "location": "DCC59C4C-8581-A2D2-7E52-A08855BCDEAC\\Un Cor&#225;n Andal&#250;si, siglo XII, BNI.jpg",
+             "location": "DCC59C4C-8581-A2D2-7E52-A08855BCDEAC/UnCornAndalsisigloXIIBNI.jpg",
              "dataLength": "133625",
              "format": ".jpg"
             },
@@ -8178,7 +8178,7 @@
                "objectID": "FBB87542-8711-9658-C73F-D63EC0CD546E",
                "name": "Newton, Fragmentos sobre los reinos de las tribus Europeas, el Templo y la Historia de las Iglesias Jud&#237;as y Cristianas, BNI.jpg",
                "attachmentType": "1",
-               "location": "FBB87542-8711-9658-C73F-D63EC0CD546E\\Newton, Fragmentos sobre los reinos de las tribus Europeas, el Templo y la Historia de las Iglesias Jud&#237;as y Cristianas, BNI.jpg",
+               "location": "FBB87542-8711-9658-C73F-D63EC0CD546E/NewtonFragmentossobrelosreinosdelastribusEuropeaselTemploylaHistoriadelasIglesiasJudasyCristianasBNI.jpg",
                "dataLength": "225185",
                "format": ".jpg"
               },
@@ -8190,7 +8190,7 @@
                "objectID": "FBB87542-8711-9658-C73F-D63EC0CD546E",
                "name": "Libro de Horas, siglo XV, Brujas, BNI.jpg",
                "attachmentType": "1",
-               "location": "FBB87542-8711-9658-C73F-D63EC0CD546E\\Libro de Horas, siglo XV, Brujas, BNI.jpg",
+               "location": "FBB87542-8711-9658-C73F-D63EC0CD546E/LibrodeHorassigloXVBrujasBNI.jpg",
                "dataLength": "432242",
                "format": ".jpg"
               },
@@ -8202,7 +8202,7 @@
                "objectID": "FBB87542-8711-9658-C73F-D63EC0CD546E",
                "name": "Ls carta de Napole&#243;n al  general Destaing durante la campa&#241;a en Egipto, 9.7.1799, BNI.jpg",
                "attachmentType": "1",
-               "location": "FBB87542-8711-9658-C73F-D63EC0CD546E\\Ls carta de Napole&#243;n al  general Destaing durante la campa&#241;a en Egipto, 9.7.1799, BNI.jpg",
+               "location": "FBB87542-8711-9658-C73F-D63EC0CD546E/LscartadeNapolenalgeneralDestaingdurantelacampaaenEgipto9.7.1799BNI.jpg",
                "dataLength": "485893",
                "format": ".jpg"
               },
@@ -8250,7 +8250,7 @@
        "objectID": "BBCD57B0-3245-D3AC-45EB-9EB2C1BFD53B",
        "name": "El primer art&#237;culo llamando al establecimiento de una bilbioteca nacional Jud&#237;a, Joshua Heschel Levin, el diario Havazelet, 26.1.1872.jpg",
        "attachmentType": "1",
-       "location": "BBCD57B0-3245-D3AC-45EB-9EB2C1BFD53B\\El primer art&#237;culo llamando al establecimiento de una bilbioteca nacional Jud&#237;a, Joshua Heschel Levin, el diario Havazelet, 26.1.1872.jpg",
+       "location": "BBCD57B0-3245-D3AC-45EB-9EB2C1BFD53B/ElprimerartculollamandoalestablecimientodeunabilbiotecanacionalJudaJoshuaHeschelLevineldiarioHavazelet26.1.1872.jpg",
        "dataLength": "124849",
        "format": ".jpg"
       },
@@ -8262,7 +8262,7 @@
        "objectID": "BBCD57B0-3245-D3AC-45EB-9EB2C1BFD53B",
        "name": "Tarjeta de participante en el Primero Congreso Sionista, 1897.jpg",
        "attachmentType": "1",
-       "location": "BBCD57B0-3245-D3AC-45EB-9EB2C1BFD53B\\Tarjeta de participante en el Primero Congreso Sionista, 1897.jpg",
+       "location": "BBCD57B0-3245-D3AC-45EB-9EB2C1BFD53B/TarjetadeparticipanteenelPrimeroCongresoSionista1897.jpg",
        "dataLength": "38946",
        "format": ".jpg"
       },
@@ -8274,7 +8274,7 @@
        "objectID": "BBCD57B0-3245-D3AC-45EB-9EB2C1BFD53B",
        "name": "Bandera del Primer Congreso Sionista, 1897.jpg",
        "attachmentType": "1",
-       "location": "BBCD57B0-3245-D3AC-45EB-9EB2C1BFD53B\\Bandera del Primer Congreso Sionista, 1897.jpg",
+       "location": "BBCD57B0-3245-D3AC-45EB-9EB2C1BFD53B/BanderadelPrimerCongresoSionista1897.jpg",
        "dataLength": "21182",
        "format": ".jpg"
       }
@@ -8301,7 +8301,7 @@
          "objectID": "A18ECFA2-54E6-B8AC-CADA-10F771C5453E",
          "name": "Sala de lectura en Bet Neeman, la biblioteca Bet Midrash Abravanel, 1902 (foto de Zasok Basan).jpg",
          "attachmentType": "1",
-         "location": "A18ECFA2-54E6-B8AC-CADA-10F771C5453E\\Sala de lectura en Bet Neeman, la biblioteca Bet Midrash Abravanel, 1902 (foto de Zasok Basan).jpg",
+         "location": "A18ECFA2-54E6-B8AC-CADA-10F771C5453E/SaladelecturaenBetNeemanlabibliotecaBetMidrashAbravanel1902(fotodeZasokBasan).jpg",
          "dataLength": "605610",
          "format": ".jpg"
         },
@@ -8313,7 +8313,7 @@
          "objectID": "A18ECFA2-54E6-B8AC-CADA-10F771C5453E",
          "name": "Joseph Chasanowitz.jpg",
          "attachmentType": "1",
-         "location": "A18ECFA2-54E6-B8AC-CADA-10F771C5453E\\Joseph Chasanowitz.jpg",
+         "location": "A18ECFA2-54E6-B8AC-CADA-10F771C5453E/JosephChasanowitz.jpg",
          "dataLength": "53145",
          "format": ".jpg"
         }
@@ -8340,7 +8340,7 @@
            "objectID": "693D46A8-1A91-41DF-5FF3-A20010E8D386",
            "name": "La biblioteca Goldziher en Bet Neeman, 1927 (foto, Zadok Basan).jpg",
            "attachmentType": "1",
-           "location": "693D46A8-1A91-41DF-5FF3-A20010E8D386\\La biblioteca Goldziher en Bet Neeman, 1927 (foto, Zadok Basan).jpg",
+           "location": "693D46A8-1A91-41DF-5FF3-A20010E8D386/LabibliotecaGoldziherenBetNeeman1927(fotoZadokBasan).jpg",
            "dataLength": "108590",
            "format": ".jpg"
           },
@@ -8352,7 +8352,7 @@
            "objectID": "693D46A8-1A91-41DF-5FF3-A20010E8D386",
            "name": "Samuel Hugo Bergman.jpg",
            "attachmentType": "1",
-           "location": "693D46A8-1A91-41DF-5FF3-A20010E8D386\\Samuel Hugo Bergman.jpg",
+           "location": "693D46A8-1A91-41DF-5FF3-A20010E8D386/SamuelHugoBergman.jpg",
            "dataLength": "27640",
            "format": ".jpg"
           },
@@ -8364,7 +8364,7 @@
            "objectID": "693D46A8-1A91-41DF-5FF3-A20010E8D386",
            "name": "Bergman y el presidente Checo Masaryk en camino a visitar la Biblioteca Nacional, Jerusal&#233;n, 1927.jpg",
            "attachmentType": "1",
-           "location": "693D46A8-1A91-41DF-5FF3-A20010E8D386\\Bergman y el presidente Checo Masaryk en camino a visitar la Biblioteca Nacional, Jerusal&#233;n, 1927.jpg",
+           "location": "693D46A8-1A91-41DF-5FF3-A20010E8D386/BergmanyelpresidenteChecoMasarykencaminoavisitarlaBibliotecaNacionalJerusaln1927.jpg",
            "dataLength": "119190",
            "format": ".jpg"
           },
@@ -8376,7 +8376,7 @@
            "objectID": "693D46A8-1A91-41DF-5FF3-A20010E8D386",
            "name": "The library staff with Bergmann as director in the middle, around 1935, NLI.jpg",
            "attachmentType": "1",
-           "location": "693D46A8-1A91-41DF-5FF3-A20010E8D386\\The library staff with Bergmann as director in the middle, around 1935, NLI.jpg",
+           "location": "693D46A8-1A91-41DF-5FF3-A20010E8D386/ThelibrarystaffwithBergmannasdirectorinthemiddlearound1935NLI.jpg",
            "dataLength": "102100",
            "format": ".jpg"
           }
@@ -8403,7 +8403,7 @@
              "objectID": "56BF9C7F-8E83-080D-9541-6DD1DE77EB36",
              "name": "La inauguraci&#243;n de la Universidad Hebrea, Monte Scopus, 1925.jpg",
              "attachmentType": "1",
-             "location": "56BF9C7F-8E83-080D-9541-6DD1DE77EB36\\La inauguraci&#243;n de la Universidad Hebrea, Monte Scopus, 1925.jpg",
+             "location": "56BF9C7F-8E83-080D-9541-6DD1DE77EB36/LainauguracindelaUniversidadHebreaMonteScopus1925.jpg",
              "dataLength": "77197",
              "format": ".jpg"
             },
@@ -8415,7 +8415,7 @@
              "objectID": "56BF9C7F-8E83-080D-9541-6DD1DE77EB36",
              "name": "The Reading Room at Wolfson House, Mt. Scopus, 1930&apos;s-40&apos;s.jpg",
              "attachmentType": "1",
-             "location": "56BF9C7F-8E83-080D-9541-6DD1DE77EB36\\The Reading Room at Wolfson House, Mt. Scopus, 1930&apos;s-40&apos;s.jpg",
+             "location": "56BF9C7F-8E83-080D-9541-6DD1DE77EB36/TheReadingRoomatWolfsonHouseMt.Scopus1930s-40s.jpg",
              "dataLength": "65226",
              "format": ".jpg"
             },
@@ -8439,7 +8439,7 @@
              "objectID": "56BF9C7F-8E83-080D-9541-6DD1DE77EB36",
              "name": "The Reading Room at Wolfson House, redeemed after 20 years of isolation, July, 1967.jpg",
              "attachmentType": "1",
-             "location": "56BF9C7F-8E83-080D-9541-6DD1DE77EB36\\The Reading Room at Wolfson House, redeemed after 20 years of isolation, July, 1967.jpg",
+             "location": "56BF9C7F-8E83-080D-9541-6DD1DE77EB36/TheReadingRoomatWolfsonHouseredeemedafter20yearsofisolationJuly1967.jpg",
              "dataLength": "101989",
              "format": ".jpg"
             },
@@ -8451,7 +8451,7 @@
              "objectID": "56BF9C7F-8E83-080D-9541-6DD1DE77EB36",
              "name": "La entrada a la Biblioteca Nacional, 1960 (foto, Miriam Shamir).jpg",
              "attachmentType": "1",
-             "location": "56BF9C7F-8E83-080D-9541-6DD1DE77EB36\\La entrada a la Biblioteca Nacional, 1960 (foto, Miriam Shamir).jpg",
+             "location": "56BF9C7F-8E83-080D-9541-6DD1DE77EB36/LaentradaalaBibliotecaNacional1960(fotoMiriamShamir).jpg",
              "dataLength": "103880",
              "format": ".jpg"
             },
@@ -8463,7 +8463,7 @@
              "objectID": "56BF9C7F-8E83-080D-9541-6DD1DE77EB36",
              "name": "La mesa de circulaci&#243;n en el d&#237;a de la apertura de la BNI, 1.11.1960 , D. Haris, BNI.jpg",
              "attachmentType": "1",
-             "location": "56BF9C7F-8E83-080D-9541-6DD1DE77EB36\\La mesa de circulaci&#243;n en el d&#237;a de la apertura de la BNI, 1.11.1960 , D. Haris, BNI.jpg",
+             "location": "56BF9C7F-8E83-080D-9541-6DD1DE77EB36/LamesadecirculacineneldadelaaperturadelaBNI1.11.1960D.HarisBNI.jpg",
              "dataLength": "97543",
              "format": ".jpg"
             },
@@ -8475,7 +8475,7 @@
              "objectID": "56BF9C7F-8E83-080D-9541-6DD1DE77EB36",
              "name": "Transferring books inside the temporary reading rooms at Terra Santa building, 1960 (Photo, David Charis).jpg",
              "attachmentType": "1",
-             "location": "56BF9C7F-8E83-080D-9541-6DD1DE77EB36\\Transferring books inside the temporary reading rooms at Terra Santa building, 1960 (Photo, David Charis).jpg",
+             "location": "56BF9C7F-8E83-080D-9541-6DD1DE77EB36/TransferringbooksinsidethetemporaryreadingroomsatTerraSantabuilding1960(PhotoDavidCharis).jpg",
              "dataLength": "113933",
              "format": ".jpg"
             }
@@ -8502,7 +8502,7 @@
                "objectID": "8A76544D-B6F1-6F0D-9B37-00DE1FD41AA6",
                "name": "David Ben Gurion en su mesa de trabajo.jpg",
                "attachmentType": "1",
-               "location": "8A76544D-B6F1-6F0D-9B37-00DE1FD41AA6\\David Ben Gurion en su mesa de trabajo.jpg",
+               "location": "8A76544D-B6F1-6F0D-9B37-00DE1FD41AA6/DavidBenGurionensumesadetrabajo.jpg",
                "dataLength": "166431",
                "format": ".jpg"
               },
@@ -8514,7 +8514,7 @@
                "objectID": "8A76544D-B6F1-6F0D-9B37-00DE1FD41AA6",
                "name": "David Ben Gurion haciendo gimnasia en la playa.jpg",
                "attachmentType": "1",
-               "location": "8A76544D-B6F1-6F0D-9B37-00DE1FD41AA6\\David Ben Gurion haciendo gimnasia en la playa.jpg",
+               "location": "8A76544D-B6F1-6F0D-9B37-00DE1FD41AA6/DavidBenGurionhaciendogimnasiaenlaplaya.jpg",
                "dataLength": "24532",
                "format": ".jpg"
               },
@@ -8553,7 +8553,7 @@
                  "objectID": "EEA30DA2-550F-32C2-9BF6-3779D43507FE",
                  "name": "El campus moderno de la Universidad Hebrea en el Monte Scopus.jpg",
                  "attachmentType": "1",
-                 "location": "EEA30DA2-550F-32C2-9BF6-3779D43507FE\\El campus moderno de la Universidad Hebrea en el Monte Scopus.jpg",
+                 "location": "EEA30DA2-550F-32C2-9BF6-3779D43507FE/ElcampusmodernodelaUniversidadHebreaenelMonteScopus.jpg",
                  "dataLength": "123838",
                  "format": ".jpg"
                 },
@@ -8565,7 +8565,7 @@
                  "objectID": "EEA30DA2-550F-32C2-9BF6-3779D43507FE",
                  "name": "La Sala de Lectura General, Givat Ram, 1960s-1970s.jpg",
                  "attachmentType": "1",
-                 "location": "EEA30DA2-550F-32C2-9BF6-3779D43507FE\\La Sala de Lectura General, Givat Ram, 1960s-1970s.jpg",
+                 "location": "EEA30DA2-550F-32C2-9BF6-3779D43507FE/LaSaladeLecturaGeneralGivatRam1960s-1970s.jpg",
                  "dataLength": "79413",
                  "format": ".jpg"
                 }
@@ -8592,7 +8592,7 @@
                    "objectID": "FFAE2D71-526E-95F7-91CF-0F9BE7892C77",
                    "name": "El sitio futuro de la Biblioteca Nacional, a la derecha - la Knesset, el parlamento de Israel.jpg",
                    "attachmentType": "1",
-                   "location": "FFAE2D71-526E-95F7-91CF-0F9BE7892C77\\El sitio futuro de la Biblioteca Nacional, a la derecha - la Knesset, el parlamento de Israel.jpg",
+                   "location": "FFAE2D71-526E-95F7-91CF-0F9BE7892C77/ElsitiofuturodelaBibliotecaNacionalaladerecha-laKnessetelparlamentodeIsrael.jpg",
                    "dataLength": "145742",
                    "format": ".jpg"
                   },
@@ -8604,7 +8604,7 @@
                    "objectID": "FFAE2D71-526E-95F7-91CF-0F9BE7892C77",
                    "name": "Actividad cultural en la Biblioteca Nacional.jpg",
                    "attachmentType": "1",
-                   "location": "FFAE2D71-526E-95F7-91CF-0F9BE7892C77\\Actividad cultural en la Biblioteca Nacional.jpg",
+                   "location": "FFAE2D71-526E-95F7-91CF-0F9BE7892C77/ActividadculturalenlaBibliotecaNacional.jpg",
                    "dataLength": "205832",
                    "format": ".jpg"
                   },
@@ -8616,7 +8616,7 @@
                    "objectID": "FFAE2D71-526E-95F7-91CF-0F9BE7892C77",
                    "name": "El Primer Ministro Netanyahu y el Presidente del Estado de Israel Shimon Peres con el acta constitutiva de la Biblioteca Nacional, 2007.jpg",
                    "attachmentType": "1",
-                   "location": "FFAE2D71-526E-95F7-91CF-0F9BE7892C77\\El Primer Ministro Netanyahu y el Presidente del Estado de Israel Shimon Peres con el acta constitutiva de la Biblioteca Nacional, 2007.jpg",
+                   "location": "FFAE2D71-526E-95F7-91CF-0F9BE7892C77/ElPrimerMinistroNetanyahuyelPresidentedelEstadodeIsraelShimonPeresconelactaconstitutivadelaBibliotecaNacional2007.jpg",
                    "dataLength": "141925",
                    "format": ".jpg"
                   },
