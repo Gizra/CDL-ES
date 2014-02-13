@@ -4,6 +4,7 @@
 // Require libraries for the CDL task.
 var _ = require('underscore');
 var he = require('he');
+var entities = require('entities');
 
 // Directory reference:
 //   css: css
@@ -310,7 +311,23 @@ module.exports = function (grunt) {
           dot: true,
           cwd: 'brain/files',
           src: '**/*.{jpg,JPG,png,PNG,gif,jpeg,webp,tiff,mp3,wav,avi,mp4}',
-          dest: '<%= yeoman.app %>/pages'
+          dest: '<%= yeoman.app %>/pages',
+          rename: function(dest, src) {
+            var attachments = grunt.config.get('CDL.attachments'),
+              newFilename;
+
+            src = he.encode(src).replace(/,| |\'|[a-z|A-Z]&#x301;|[a-z]&#x303;|&#x27;|[a-z|A-Z]&#x308;|&#xC1;/g, '');
+
+            grunt.log.writeln(['filename: ', src ]);
+
+            if (typeof attachments[src] !== 'undefined') {
+              newFilename = attachments[src].guid + attachments[src].format;
+//              grunt.log.writeln([newFilename, src.split('/')[1], dest + src.replace(src.split('/')[1], newFilename)]);
+              return dest + '/' + src.replace(src.split('/')[1], newFilename);
+            }
+
+            return dest + '/' + src;
+          }
         }]
       }
     },
@@ -462,6 +479,7 @@ module.exports = function (grunt) {
       nodesLinks = [],
       nodesEntries = [],
       nodesAttachments = [],
+      nodesAttachmentsByFilename = [],
       firstNode,
       tree = {},
       brain;
@@ -563,7 +581,6 @@ module.exports = function (grunt) {
           return result;
         };
 
-
         return {
           /**
            * Return the guid of the root node.
@@ -649,10 +666,21 @@ module.exports = function (grunt) {
         entry.objectID = entry.EntryObjects.EntryObject.objectID;
       });
       nodesEntries = _.indexBy(nodesEntries, 'objectID');
+
+      nodesAttachmentsByFilename = nodesAttachments;
+      _.each(nodesAttachmentsByFilename, function(node) {
+        grunt.log.writeln(node.location);
+        node.location = he.decode(node.location).replace(/,| |\'|[\u00C0-\u00FC]/g, '').replace(/\\/g, '/');
+      });
+
       // Index attachments.
       nodesAttachments = _.groupBy(nodesAttachments, function(item) {
         return item.objectID;
       });
+
+      nodesAttachmentsByFilename = _.indexBy(nodesAttachmentsByFilename, 'location');
+
+      grunt.config.set('CDL.attachments', nodesAttachmentsByFilename);
 
       // Prepare the root of the tree.
       nodes = _.without(nodes, nodesIndexed[firstNode]);
@@ -1019,16 +1047,17 @@ module.exports = function (grunt) {
 
         // Attachments type file (media or images ).
         if (attachment.attachmentType === '1') {
-          if (attachment.format === '.jpg' || attachment.format === '.png') {
+          if (attachment.format === '.jpg' || attachment.format === '.png' || attachment.format === '.gif') {
             // Sanitize url.
             item.src = item.src.replace(/\\/, '/');
             // Normalize the extension format.
-            item.name = item.name.replace(/.PNG|.JPG/, attachment.format);
+            item.name = item.name.replace(/.PNG|.JPG|.GIF/, attachment.format);
             // Remove extension value from the name.
             item.name = item.name.replace(attachment.format, '');
             // URL Encoding.
             item.name = he.decode(item.name);
             item.src = he.decode(item.src, {isAttributeValue: true});
+            item.srcGuid = item.src.split('/')[0] + '/' + attachment.guid + attachment.format;
 
             attachmentsParsed.images.push(item);
           }

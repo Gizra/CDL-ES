@@ -25,7 +25,7 @@ layout: page
         <div class="gallery">
           {% for attachment in page.attachments.images %}
           <div class="item item-{{ forloop.index }}">
-            <img class="images-{{ forloop.index }}" src="{{ BASE_PATH }}/pages/{{ attachment.src }}" alt="{{ attachment.name }}"/>
+            <img class="images-{{ forloop.index }}" src="{{ BASE_PATH }}/pages/{{ attachment.srcGuid }}" alt="{{ attachment.name }}"/>
             <div class="caption caption-{{ forloop.index }}">{{ attachment.name }}</div>
           </div>
           {% endfor %}
@@ -81,7 +81,7 @@ layout: page
                 {% for attachment in sibling.attachments.images %}
 
                   <div class="item item-{{ forloop.index }}">
-                    <img class="images-{{ forloop.index }}" src="{{ BASE_PATH }}/pages/{{ attachment.src }}" alt="{{ attachment.name }}"/>
+                    <img class="images-{{ forloop.index }}" src="{{ BASE_PATH }}/pages/{{ attachment.srcGuid }}" alt="{{ attachment.name }}"/>
                     <div class="caption caption-{{ forloop.index }}">{{ attachment.name }}</div>
                   </div>
 

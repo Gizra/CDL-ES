@@ -32,7 +32,8 @@
     "underscore": "~1.5.2",
     "grunt-cli": "~0.1.11",
     "he": "~0.3.6",
-    "grunt-text-replace": "~0.3.10"
+    "grunt-text-replace": "~0.3.10",
+    "entities": "~0.3.0"
   },
   "engines": {
     "node": ">=0.8.0"
