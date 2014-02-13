@@ -4,6 +4,7 @@
 // Require libraries for the CDL task.
 var _ = require('underscore');
 var he = require('he');
+var entities = require('entities');
 
 // Directory reference:
 //   css: css
@@ -315,12 +316,13 @@ module.exports = function (grunt) {
             var attachments = grunt.config.get('CDL.attachments'),
               newFilename;
 
-            // src = src.replace(/,| |\'|[\u00E0-\u00FC]/g, '');
-            grunt.log.writeln('filename:', he.encode(src));
+            src = he.encode(src).replace(/,| |\'|[a-z|A-Z]&#x301;|[a-z]&#x303;|&#x27;|[a-z|A-Z]&#x308;|&#xC1;/g, '');
+
+            grunt.log.writeln(['filename: ', src ]);
 
             if (typeof attachments[src] !== 'undefined') {
               newFilename = attachments[src].guid + attachments[src].format;
-              grunt.log.writeln([newFilename, src.split('/')[1], dest + src.replace(src.split('/')[1], newFilename)]);
+//              grunt.log.writeln([newFilename, src.split('/')[1], dest + src.replace(src.split('/')[1], newFilename)]);
               return dest + '/' + src.replace(src.split('/')[1], newFilename);
             }
 
@@ -667,8 +669,8 @@ module.exports = function (grunt) {
 
       nodesAttachmentsByFilename = nodesAttachments;
       _.each(nodesAttachmentsByFilename, function(node) {
-//        node.location = he.decode(node.location).replace(/,| |\'|[\u00E0-\u00FC]/g, '').replace(/\\/, '/');
-        node.location = node.location.replace(/\\/, '/');
+        grunt.log.writeln(node.location);
+        node.location = he.decode(node.location).replace(/,| |\'|[\u00C0-\u00FC]/g, '').replace(/\\/g, '/');
       });
 
       // Index attachments.
@@ -679,8 +681,6 @@ module.exports = function (grunt) {
       nodesAttachmentsByFilename = _.indexBy(nodesAttachmentsByFilename, 'location');
 
       grunt.config.set('CDL.attachments', nodesAttachmentsByFilename);
-      grunt.log.writeln(JSON.stringify(nodesAttachmentsByFilename));
-
 
       // Prepare the root of the tree.
       nodes = _.without(nodes, nodesIndexed[firstNode]);
@@ -1047,11 +1047,11 @@ module.exports = function (grunt) {
 
         // Attachments type file (media or images ).
         if (attachment.attachmentType === '1') {
-          if (attachment.format === '.jpg' || attachment.format === '.png') {
+          if (attachment.format === '.jpg' || attachment.format === '.png' || attachment.format === '.gif') {
             // Sanitize url.
             item.src = item.src.replace(/\\/, '/');
             // Normalize the extension format.
-            item.name = item.name.replace(/.PNG|.JPG/, attachment.format);
+            item.name = item.name.replace(/.PNG|.JPG|.GIF/, attachment.format);
             // Remove extension value from the name.
             item.name = item.name.replace(attachment.format, '');
             // URL Encoding.
