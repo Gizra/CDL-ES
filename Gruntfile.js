@@ -315,14 +315,16 @@ module.exports = function (grunt) {
             var attachments = grunt.config.get('CDL.attachments'),
               newFilename;
 
-            newFilename = src;
+            // src = src.replace(/,| |\'|[\u00E0-\u00FC]/g, '');
+            grunt.log.writeln('filename:', he.encode(src));
+
             if (typeof attachments[src] !== 'undefined') {
               newFilename = attachments[src].guid + attachments[src].format;
               grunt.log.writeln([newFilename, src.split('/')[1], dest + src.replace(src.split('/')[1], newFilename)]);
+              return dest + '/' + src.replace(src.split('/')[1], newFilename);
             }
 
-
-            return dest + '/' + src.replace(src.split('/')[1], newFilename);
+            return dest + '/' + src;
           }
         }]
       }
@@ -665,7 +667,8 @@ module.exports = function (grunt) {
 
       nodesAttachmentsByFilename = nodesAttachments;
       _.each(nodesAttachmentsByFilename, function(node) {
-        node.location = he.decode(node.location).replace(/\\/, '/');
+//        node.location = he.decode(node.location).replace(/,| |\'|[\u00E0-\u00FC]/g, '').replace(/\\/, '/');
+        node.location = node.location.replace(/\\/, '/');
       });
 
       // Index attachments.
@@ -676,7 +679,6 @@ module.exports = function (grunt) {
       nodesAttachmentsByFilename = _.indexBy(nodesAttachmentsByFilename, 'location');
 
       grunt.config.set('CDL.attachments', nodesAttachmentsByFilename);
-
       grunt.log.writeln(JSON.stringify(nodesAttachmentsByFilename));
 
 
@@ -1055,6 +1057,7 @@ module.exports = function (grunt) {
             // URL Encoding.
             item.name = he.decode(item.name);
             item.src = he.decode(item.src, {isAttributeValue: true});
+            item.srcGuid = item.src.split('/')[0] + '/' + attachment.guid + attachment.format;
 
             attachmentsParsed.images.push(item);
           }
