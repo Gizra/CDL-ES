@@ -298,7 +298,7 @@ module.exports = function (grunt) {
           expand: true,
           dot: true,
           cwd: '<%= yeoman.app %>',
-          src: 'CNAME.dns',
+          src: 'CNAME',
           dest: '<%= yeoman.dist %>',
           rename: function(dest, src) {
             return dest + '/' + src.split(/\./).reverse().pop();
