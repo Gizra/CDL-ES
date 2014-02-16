@@ -290,10 +290,19 @@ module.exports = function (grunt) {
             //'favicon.ico',
             //'apple-touch*.png'
             'data/**/*',
-            'pages/**/*.{jpg,JPG,PNG,png,gif,jpeg,webp,tiff,mp3,wav,avi,mp4}',
-            'CNAME'
+            'pages/**/*.{jpg,JPG,PNG,png,gif,jpeg,webp,tiff,mp3,wav,avi,mp4}'
           ],
           dest: '<%= yeoman.dist %>'
+        },
+        {
+          expand: true,
+          dot: true,
+          cwd: '<%= yeoman.app %>',
+          src: 'CNAME.dns',
+          dest: '<%= yeoman.dist %>',
+          rename: function(dest, src) {
+            return dest + '/' + src.split(/\./).reverse().pop();
+          }
         }]
       },
       // Copy CSS into .tmp directory for Autoprefixer processing
