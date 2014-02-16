@@ -290,7 +290,8 @@ module.exports = function (grunt) {
             //'favicon.ico',
             //'apple-touch*.png'
             'data/**/*',
-            'pages/**/*.{jpg,JPG,PNG,png,gif,jpeg,webp,tiff,mp3,wav,avi,mp4}'
+            'pages/**/*.{jpg,JPG,PNG,png,gif,jpeg,webp,tiff,mp3,wav,avi,mp4}',
+            'CNAME'
           ],
           dest: '<%= yeoman.dist %>'
         }]
