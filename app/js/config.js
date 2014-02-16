@@ -86,7 +86,7 @@
           x: 600,
           y: -150,
           styleNode: 'translation',
-          url: 'http://gizra.github.io/CDL'
+          url: 'http://nlideposit.fundaciongsr.com/'
         }
       }
     };
