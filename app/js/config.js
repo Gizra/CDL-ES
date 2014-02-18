@@ -18,8 +18,12 @@
      *   transitions: Define duration in miliseconds of the transitions, for each kind of elements.
      */
     this.chart = {
+      canvas: {
+        width: 900,
+        height: 600
+      },
       initial: {
-        x: function(width) { return -width * -0.03;},
+        x: function(width) { return -width * -0.01;},
         y: function(height) { return height * 0.35;},
         minZoom: 0.60,
         maxZoom: 5,
