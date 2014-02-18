@@ -5,7 +5,7 @@
   {
    "guid": "403D55C8-4B15-4985-CB9F-6A8D5646BE79",
    "name": "El diario de Elimelech Basch",
-   "data": "<p><span><span><span>Elimelech Basch pertenecía a la comunidad judía de Tiachiv en la parte oriental de Hungría (hoy en día, Ucrania occidental). La zona fue invadida por los nazis en marzo de 1944. Entre 1942 y 1944, Basch escribió un diario, en excelente hebreo, que describe la situación de la comunidad judía en Tiachiv. Durante este tiempo, los judíos sufrieron dos regímenes opresivos, tanto el húngaro como el nazi, oscilando entre la esperanza y la desesperación.</span></span></span><span><span></span></span></p>\n<p><span><span><span>Durante la fiesta judía de Shavuót, en mayo de 1944, todos los judíos de Tiachiv fueron deportados a Auschwitz. De la familia Basch – los padres y sus ocho hijos – solamente sobrevivió una persona.</span></span></span><span><span></span></span></p>\n<p><span><span>&#160;</span></span></p>\n<p><b><span><span><span>Imagen: </span></span></span></b><span><span><span>la familia Basch a principios de la década de 1930. En la foto se destaca la única hija que sobrevivió al Holocausto, la Sra. Perhiya Senderovich (de nacimiento Bluma Blanca Basch), quien vive actualmente en Israel.</span></span></span></p>\n",
+   "data": "<p><span><span><span>Elimelech Basch pertenecía a la comunidad judía de Tiachiv en la parte oriental de Hungría (hoy en día, Ucrania occidental). La zona fue invadida por los nazis en marzo de 1944. Entre 1942 y 1944, Basch escribió un diario, en excelente hebreo, que describe la situación de la comunidad judía en Tiachiv. Durante este tiempo, los judíos sufrieron dos regímenes opresivos, tanto el húngaro como el nazi, oscilando entre la esperanza y la desesperación.</span></span></span></p>\n<p><span><span><span>Durante la fiesta judía de Shavuót, en mayo de 1944, todos los judíos de Tiachiv fueron deportados a Auschwitz. De la familia Basch – los padres y sus ocho hijos – solamente sobrevivió una persona.</span></span></span></p>\n<p>&#160;</p>\n<p><b><span><span><span>Imagen: </span></span></span></b><span><span><span>la familia Basch a principios de la década de 1930. En la foto se destaca la única hija que sobrevivió al Holocausto, la Sra. Perhiya Senderovich (de nacimiento Bluma Blanca Basch), quien vive actualmente en Israel.</span></span></span></p>\n",
    "attachments": [
     {
      "guid": "6824D349-5AC3-0224-F28F-47ABC3F8750E",
@@ -37,7 +37,7 @@
    "children": [
     {
      "guid": "016140EA-7FBC-4959-0C2E-4C0F883530AD",
-     "name": ":_: La lengua hebrea",
+     "name": "La lengua hebrea",
      "data": "<p><span><span><span>El hebreo es la lengua antigua que el pueblo de Israel hablaba y escribía ya a comienzos del primer milenio a. de C. Es la lengua del Antiguo Testamento y de otros textos del pueblo judío. Aunque a partir del período del Segundo Templo los judíos comenzaron a hablar también arameo, griego y luego otras lenguas, el hebreo siguió siendo la lengua de las Escrituras y de la oración, y se llamaba \"La Lengua Sagrada\".</span></span></span><span><span></span></span></p>\n<p><span><span><span>Los judíos siguieron estudiando, leyendo y escribiendo en hebreo durante los últimos dos milenios, aunque no era su lengua hablada, ya que era su antigua lengua sagrada.</span></span></span><span><span></span></span></p>\n<p dir=\"LTR\"><span><span>&#160;</span></span></p>\n<p dir=\"LTR\"><span><span>Fotos: El Mahzor de Worms (libro de rezos para días festivos), Alemania, siglo XIII, BNI. El libro de rezos fue usado por la comunidad&#160;de Worms hasta su destrucción en el Kristallnacht en Noviembre de 1938. Fue rescatado por el arquivista de la ciudad quien lo escondió en la catedral. Luego fue transferido a la BNI, en 1957.</span></span></p>\n<p>&#160;</p>\n",
      "attachments": [
       {
@@ -125,17 +125,16 @@
        "format": ".jpg"
       }
      ],
-     "type": "bastard",
-     "bastardName": "La lengua hebrea",
+     "type": "default",
      "parent": {
       "guid": "403D55C8-4B15-4985-CB9F-6A8D5646BE79",
       "name": "El diario de Elimelech Basch"
      },
-     "hasChronologicalChildren": false,
+     "hasChronologicalChildren": true,
      "children": [
       {
        "guid": "F8A8EC39-68D8-ECCF-6F51-12C17F60061D",
-       "name": "Una lengua nacional",
+       "name": ":1: Una lengua nacional",
        "data": "<p><span><span><span>Durante la segunda mitad del siglo XIX, cuando surgieron los movimientos nacionalistas en Europa, el Movimiento Sionista judío era uno de ellos. La recuperación de la lengua hebrea fue uno de sus objetivos. Esto explica por qué Elimelech Basch escribió el diario en esta lengua.</span></span></span></p>\n<p><span><span><span>Hoy en día el hebreo es la lengua oficial del Estado de Israel y el principal idioma hablado en el país.</span></span></span></p>\n<p>&#160;</p>\n<p>Fotografía: <i>Hatikva</i>, el Himno Nacional del Estado de Israel, letra de Naphtali Herz Imber, autógrafo, 1907-9, La Biblioteca Nacional de Israel.</p>\n<p>&#160;</p>\n",
        "attachments": [
         {
@@ -163,7 +162,9 @@
          "format": ".jpg"
         }
        ],
-       "type": "default",
+       "type": "chronological",
+       "chronologicalId": "1",
+       "chronologicalName": "Una lengua nacional",
        "parent": {
         "guid": "016140EA-7FBC-4959-0C2E-4C0F883530AD",
         "name": "La lengua hebrea"
@@ -178,7 +179,7 @@
     {
      "guid": "CB8A2990-88AF-CFC3-80F0-4AAB42999E55",
      "name": ":1: La comunidad judía de Tiachiv",
-     "data": "<p><span><span>Según el último censo anterior a la ocupación alemana, elaborado en enero de 1941, en Tiachiv había 2.150 habitantes judíos. Representaban el 20% de la población total. Muchos de los judíos eran comerciantes, otros eran artesanos, agricultores y granjeros. Como la mayoría de las comunidades judías en Europa Oriental, la judía de Tiachiv era una comunidad ortodoxa.</span></span></p>\n",
+     "data": "<p><span><span>Según el último censo anterior a la ocupación alemana, elaborado en enero de 1941, en Tiachiv había 2.150 habitantes judíos. Representaban el 20% de la población total. Muchos de los judíos eran comerciantes, otros eran artesanos, agricultores y granjeros. Como la mayoría de las comunidades judías en Europa Oriental, la judía de Tiachiv era una comunidad ortodoxa.</span></span></p>\n<p>&#160;</p>\n<p><span><span>video de YouTube: Película rara mostrando la vida Judía en el Shtetl antes del Holocausto.</span></span></p>\n",
      "attachments": [
       {
        "guid": "C92C5E27-C25D-913A-DB76-286994F26B28",
@@ -340,7 +341,7 @@
         {
          "guid": "5F686845-0FE0-05B2-DA4E-F175EF995458",
          "name": ":_: El Holocausto",
-         "data": "<p><span><span><span>Una de las características más distintivas del régimen nazi fue su ideología, que sostenía la supremacía de la raza aria y el rechazo y odio absolutos hacia los judíos y otros grupos. En 1942 en la conferencia de Wannsee, los nazis decidieron aplicar un plan denominado \"La Solución Final de la Cuestión Judía\". A continuación, los judíos de Europa fueron asesinados sistemáticamente en campos de exterminio como parte de la Solución Final. En algunos de los campos se construyeron cámaras de gas permanentes para llevar a cabo el exterminio.</span></span></span><span><span></span></span></p>\n<p><span><span><span>En 1945 seis millones de judíos, la mayoría de los judíos de Europa, habían sido asesinados.</span></span></span><span><span></span></span></p>\n<p><span><span><span>Para leer más acerca del Holocausto, siga el enlace a la página web de Yad Vashem.</span></span></span></p>\n",
+         "data": "<p><span><span><span>Una de las características más distintivas del régimen nazi fue su ideología, que sostenía la supremacía de la raza aria y el rechazo y odio absolutos hacia los judíos y otros grupos. En 1942 en la conferencia de Wannsee, los nazis decidieron aplicar un plan denominado \"La Solución Final de la Cuestión Judía\". A continuación, los judíos de Europa fueron asesinados sistemáticamente en campos de exterminio como parte de la Solución Final. En algunos de los campos se construyeron cámaras de gas permanentes para llevar a cabo el exterminio.</span></span></span></p>\n<p><span><span><span>En 1945 seis millones de judíos, la mayoría de los judíos de Europa, habían sido asesinados.</span></span></span></p>\n<p><span><span><span>Para leer más acerca del Holocausto, siga el enlace a la página web de Yad Vashem.</span></span></span></p>\n<p>&#160;</p>\n<p>video de YouTube: Gemelas sobrevivientes describen su llegada a Auschwitz (en Hebreo con subtítulos en Inglés).</p>\n",
          "attachments": [
           {
            "guid": "18E5543C-EB3B-769C-C5DB-42BF93AD0043",
@@ -539,7 +540,7 @@
           {
            "guid": "93AE1102-D348-2B9E-B61C-C98672633826",
            "name": ":4:  La deportación a los campos de exterminio",
-           "data": "<p><span><span><span>Elimelech Basch, su esposa Miriam y sus ocho hijos fueron deportados a Auschwitz entre el 22 y el 26 de Mayo de 1944. Elimelech (46 años), Miriam (40 años), Isaac (18), Mordejai (14), Herschl (12), Yisrael (10), Moshe (8), Shlomo (6) y la pequeña Esther, de cuatro años de edad, fueron asesinados en el campo de concentración. Bluma, la hija mayor, tenía entonces unos veinte años, y fue la única que sobrevivió al infierno de Auschwitz. Hasta el día de hoy no ha querido contar sus experiencias en</span></span><s><span><span> </span></span></s><span><span>el campo de concentración durante la guerra. Ni siquiera a su familia más cercana.</span></span></span><span><span></span></span></p>\n<p><span><span><span>Vídeo: Las deportaciones del mes de mayo de 1944, cuando la familia Basch fue enviada a los campos de exterminio.</span></span></span><span><span></span></span></p>\n<p><span><span><span>Las fotos se tomaron en mayo y junio de 1944 por dos miembros de las SS cuya misión era tomar fotos de identidad y huellas a los prisioneros del campo.</span></span></span><span><span></span></span></p>\n<p dir=\"LTR\">&#160;</p>\n",
+           "data": "<p><span><span><span>Elimelech Basch, su esposa Miriam y sus ocho hijos fueron deportados a Auschwitz entre el 22 y el 26 de Mayo de 1944. Elimelech (46 años), Miriam (40 años), Isaac (18), Mordejai (14), Herschl (12), Yisrael (10), Moshe (8), Shlomo (6) y la pequeña Esther, de cuatro años de edad, fueron asesinados en el campo de concentración. Bluma, la hija mayor, tenía entonces unos veinte años, y fue la única que sobrevivió al infierno de Auschwitz. Hasta el día de hoy no ha querido contar sus experiencias en</span></span><s><span><span> </span></span></s><span><span>el campo de concentración durante la guerra. Ni siquiera a su familia más cercana.</span></span></span></p>\n<p>&#160;</p>\n<p><span><span><span>video de TouTube:&#160;EL Álbum de Auschwitz, prueba visual del exterminio de los Judíos en Auschwitz-Birkenau (en Inglés), las deportaciones del mes de mayo de 1944, cuando la familia Basch fue enviada a los campos de exterminio.</span></span></span></p>\n<p><span><span><span>Las fotos se tomaron en mayo y junio de 1944 por dos miembros de las SS cuya misión era tomar fotos de identidad y huellas a los prisioneros del campo.</span></span></span></p>\n<p>&#160;</p>\n<p>&#160;</p>\n<p dir=\"LTR\">&#160;</p>\n",
            "attachments": [
             {
              "guid": "B63977C9-5EBE-86FD-D57A-A2F2D7F9CA7B",
@@ -699,7 +700,7 @@
   },
   {
    "guid": "FB8F983C-DEC9-E871-658F-868ABD5B1FC3",
-   "name": "Un rollo de la Torá de España",
+   "name": "La Torá española",
    "data": "<p><span><span>Esta la historia del viaje fascinante de un rollo de la Torá. El texto fue escrito en España en el siglo XIV o XV. Luego fue llevado a la isla de Rodas por los judíos expulsados de España. Durante la ocupación Nazi fue escondido en una mezquita musulmana. Finalmente fue traído a la Biblioteca Nacional en Jerusalém por descendientes de la comunidad de Rodas, en 1999.</span></span></p>\n",
    "attachments": [
     {
@@ -751,7 +752,7 @@
      "type": "default",
      "parent": {
       "guid": "FB8F983C-DEC9-E871-658F-868ABD5B1FC3",
-      "name": "Un rollo de la Torá de España"
+      "name": "La Torá española"
      },
      "hasChronologicalChildren": true,
      "children": [
@@ -850,7 +851,7 @@
           {
            "guid": "EB4FD149-5DEF-8C54-818E-9F93C286A13E",
            "name": ":3: El viaje de la Torá de Edel",
-           "data": "<p><span><span><span>La familia Adini-Edel donó a la Biblioteca Nacional de Israel el rollo que aparece aquí.</span></span></span><span><span></span></span></p>\n<p><span><span><span>A diferencia de los rollos de Torá usados normalmente en las sinagogas, este es un rollo en miniatura, escrito en caligrafía micrográfica.</span></span></span><span><span></span></span></p>\n<p><span><span><span>Se cree que el rollo o bien perteneció o fue escrito por el rabino Yehuda Edel (1757-1828), un conocido estudioso judío de Europa Oriental. Por su actividad como predicador, el Rabino Edel viajaba continuamente, por lo que necesitaba una versión compacta de la Torá que pudiera acompañarlo en sus viajes. Tras ser donado a la Biblioteca, se descubrió que uno de sus descendientes trabaja allí y es uno de los mayores expertos en manuscritos.</span></span></span></p>\n",
+           "data": "<p><span><span><span>La familia Adini-Edel donó a la Biblioteca Nacional de Israel el rollo que aparece aquí.</span></span></span></p>\n<p><span><span><span>A diferencia de los rollos de Torá usados normalmente en las sinagogas, este es un rollo en miniatura, escrito en caligrafía micrográfica.</span></span></span></p>\n<p><span><span><span>Se cree que el rollo o bien perteneció o fue escrito por el rabino Yehuda Edel (1757-1828), un conocido estudioso judío de Europa Oriental. Por su actividad como predicador, el Rabino Edel viajaba continuamente, por lo que necesitaba una versión compacta de la Torá que pudiera acompañarlo en sus viajes. Tras ser donado a la Biblioteca, se descubrió que uno de sus descendientes trabaja allí y es uno de los mayores expertos en manuscritos.</span></span></span></p>\n<p>&#160;</p>\n<p>video de TouTube: Richler cuenta la historia del descubrimiento (en Inglés)</p>\n",
            "attachments": [
             {
              "guid": "78C680E0-B5C3-86B8-B490-BF0DB718CA6C",
@@ -927,30 +928,6 @@
        "format": ".jpg"
       },
       {
-       "guid": "B5602FB6-8829-FC0C-CE90-F5AAD00D497D",
-       "AttachmentEntries": {
-        "attachmentEntryID": "0A0BCD88-E392-7B35-25D7-FB01D35BF976"
-       },
-       "objectID": "83ED5D28-8062-92A0-A3EB-4C70BAB53875",
-       "name": "Rollo de la Tor&#225; de Espa&#241;a con manta, BNI.jpg.jpg",
-       "attachmentType": "1",
-       "location": "83ED5D28-8062-92A0-A3EB-4C70BAB53875/RollodelaTordeEspaaconmantaBNI.jpg.jpg",
-       "dataLength": "93884",
-       "format": ".jpg"
-      },
-      {
-       "guid": "7FE8A57D-F306-F660-BBA9-A1FC591041C7",
-       "AttachmentEntries": {
-        "attachmentEntryID": "0A0BCD88-E392-7B35-25D7-FB01D35BF976"
-       },
-       "objectID": "83ED5D28-8062-92A0-A3EB-4C70BAB53875",
-       "name": "Rollo de la Tor&#225; de Espa&#241;a con manta, el rodillo, BNI.jpg.jpg",
-       "attachmentType": "1",
-       "location": "83ED5D28-8062-92A0-A3EB-4C70BAB53875/RollodelaTordeEspaaconmantaelrodilloBNI.jpg.jpg",
-       "dataLength": "83463",
-       "format": ".jpg"
-      },
-      {
        "guid": "EE8FE1D5-F5A1-10C4-BDE5-8F7AA4921A44",
        "AttachmentEntries": {
         "attachmentEntryID": "0A0BCD88-E392-7B35-25D7-FB01D35BF976"
@@ -966,7 +943,7 @@
      "type": "default",
      "parent": {
       "guid": "FB8F983C-DEC9-E871-658F-868ABD5B1FC3",
-      "name": "Un rollo de la Torá de España"
+      "name": "La Torá española"
      },
      "hasChronologicalChildren": true,
      "children": [
@@ -1005,9 +982,9 @@
           "attachmentEntryID": "A5E164D2-BB03-9F11-A454-39C5AE38EE45"
          },
          "objectID": "9DE4306F-1BA6-883F-87D0-E57A0AC68CD9",
-         "name": "Mapa de la migraci&#243;n de los Jud&#237;os Espa&#241;oles.jpg",
+         "name": "Mapa de la migraci&#243;n de los Jud&#237;os Sefard&#237;es.jpg",
          "attachmentType": "1",
-         "location": "9DE4306F-1BA6-883F-87D0-E57A0AC68CD9/MapadelamigracindelosJudosEspaoles.jpg",
+         "location": "9DE4306F-1BA6-883F-87D0-E57A0AC68CD9/MapadelamigracindelosJudosSefardes.jpg",
          "dataLength": "134188",
          "format": ".jpg"
         }
@@ -1037,18 +1014,6 @@
            "location": "http://www.synagogues360.org/synagogues.php?ident=greece_005",
            "dataLength": "0",
            "format": ".php"
-          },
-          {
-           "guid": "E33D26AE-B75A-3C96-D12A-DBB72A3D3146",
-           "AttachmentEntries": {
-            "attachmentEntryID": "1785573B-CAE8-13E2-E34F-C1214E06D8D3"
-           },
-           "objectID": "A4FB7080-C969-0ECA-6223-F8DFD4ACB047",
-           "name": "La sinagoga de Kah&#225;l Shalom.jpg",
-           "attachmentType": "1",
-           "location": "A4FB7080-C969-0ECA-6223-F8DFD4ACB047/LasinagogadeKahlShalom.jpg",
-           "dataLength": "10172",
-           "format": ".jpg"
           },
           {
            "guid": "55491C88-679D-24E1-CCA4-B8C579E76FF4",
@@ -1111,20 +1076,8 @@
           {
            "guid": "DC714013-3F75-D6D6-147E-175C6A4DE4B7",
            "name": ":3: La ocupación nazi",
-           "data": "<p><span><span><span>La comunidad de Kahál-Shalom utilizó la Torá durante más de cuatrocientos años, hasta que la isla fue ocupada por los nazis. La mayoría de los judíos fueron deportados a Auschwitz y asesinados. De los 2.000 miembros de la comunidad judía de la isla, 1.673 fueron deportados. Solamente sobrevivieron 151 de ellos.</span></span></span><span><span></span></span></p>\n<p><span><span><span>El rollo de la Torá se salvó gracias a las buenas relaciones entre la comunidad judía y la musulmana. También ayudó un vínculo familiar fascinante: la Torá fue entregada al muftí de Rodas, Süleyman Kasiloğlou, pocos días antes de la deportación de los judíos, el 25 de julio de 1944. El suegro de Kasiloğlou era judío, lo que podría explicar por qué gozaba de la confianza de la comunidad judía que le confió su posesión más preciada. Kasiloğlou escondió la Torá bajo el púlpito de la mezquita de Morad Reis.</span></span></span><span><span></span></span></p>\n<p><span><span><span>El rollo permaneció abierto por el fragmento que se leyó en la sinagoga el sábado 15 de julio de 1944, en la sección&#160; \"Parashát Pinhas\". Esta parte del rollo sufrió serios daños causados por la humedad.</span></span></span></p>\n",
+           "data": "<p><span><span><span>La comunidad de Kahál-Shalom utilizó la Torá durante más de cuatrocientos años, hasta que la isla fue ocupada por los nazis. La mayoría de los judíos fueron deportados a Auschwitz y asesinados. De los 2.000 miembros de la comunidad judía de la isla, 1.673 fueron deportados. Solamente sobrevivieron 151 de ellos.</span></span></span></p>\n<p><span><span><span>El rollo de la Torá se salvó gracias a las buenas relaciones entre la comunidad judía y la musulmana. También ayudó un vínculo familiar fascinante: la Torá fue entregada al muftí de Rodas, Süleyman Kasiloğlou, pocos días antes de la deportación de los judíos, el 25 de julio de 1944. El suegro de Kasiloğlou era judío, lo que podría explicar por qué gozaba de la confianza de la comunidad judía que le confió su posesión más preciada. Kasiloğlou escondió la Torá bajo el púlpito de la mezquita de Morad Reis.</span></span></span></p>\n<p><span><span><span>El rollo permaneció abierto por el fragmento que se leyó en la sinagoga el sábado 15 de julio de 1944, en la sección&#160; \"Parashát Pinhas\". Esta parte del rollo sufrió serios daños causados por la humedad.</span></span></span></p>\n",
            "attachments": [
-            {
-             "guid": "1CF387C8-E5DB-45D2-1E1A-2FF2483C29ED",
-             "AttachmentEntries": {
-              "attachmentEntryID": "B2B09E27-08E5-4742-5C13-8C51DFD00CBD"
-             },
-             "objectID": "DC714013-3F75-D6D6-147E-175C6A4DE4B7",
-             "name": "La Sinagoga Kah&#225;l Shalom, lista de v&#237;ctimas de los Nazis.jpg",
-             "attachmentType": "1",
-             "location": "DC714013-3F75-D6D6-147E-175C6A4DE4B7/LaSinagogaKahlShalomlistadevctimasdelosNazis.jpg",
-             "dataLength": "21110",
-             "format": ".jpg"
-            },
             {
              "guid": "8AE2F924-8A2D-8061-0AA7-A09EEDA95890",
              "AttachmentEntries": {
@@ -1148,6 +1101,18 @@
              "location": "DC714013-3F75-D6D6-147E-175C6A4DE4B7/ElpupitredelamezquitaMoradReis.jpg",
              "dataLength": "229317",
              "format": ".jpg"
+            },
+            {
+             "guid": "11F672B0-8A37-B8D1-1E83-356F2C33874F",
+             "AttachmentEntries": {
+              "attachmentEntryID": "B2B09E27-08E5-4742-5C13-8C51DFD00CBD"
+             },
+             "objectID": "DC714013-3F75-D6D6-147E-175C6A4DE4B7",
+             "name": "La Sinagoga Kah&#225;l Shalom, lista de v&#237;ctimas de los Nazis.jpg",
+             "attachmentType": "1",
+             "location": "DC714013-3F75-D6D6-147E-175C6A4DE4B7/LaSinagogaKahlShalomlistadevctimasdelosNazis.jpg",
+             "dataLength": "21110",
+             "format": ".jpg"
             }
            ],
            "type": "chronological",
@@ -1162,7 +1127,7 @@
             {
              "guid": "C686E53C-0F9C-5637-78E5-A508AE770632",
              "name": ":4: Última parada: la Biblioteca Nacional",
-             "data": "<p><span><span><span>Después de la guerra, el rollo fue devuelto a los pocos supervivientes de la comunidad. Moshé Sauriano, su presidente honorario, se lo entregó a la familia Ben Atar para que lo depositara en la Biblioteca Nacional en memoria de los judíos asesinados en Rodas.</span></span></span></p>\n",
+             "data": "<p><span><span><span>Después de la guerra, el rollo fue devuelto a los pocos supervivientes de la comunidad. Moshé Sauriano, su presidente honorario, se lo entregó a la familia Ben Atar para que lo depositara en la Biblioteca Nacional en memoria de los judíos asesinados en Rodas.</span></span></span></p>\n<p>&#160;</p>\n<p>video de TouTube: Entrevista con las hermanas Benatar (en Francés y Hebreo).</p>\n",
              "attachments": [
               {
                "guid": "5592D347-866B-3590-B646-ECDCCCFE1C9E",
@@ -1245,14 +1210,14 @@
      "type": "default",
      "parent": {
       "guid": "FB8F983C-DEC9-E871-658F-868ABD5B1FC3",
-      "name": "Un rollo de la Torá de España"
+      "name": "La Torá española"
      },
      "hasChronologicalChildren": true,
      "children": [
       {
        "guid": "BEEF4DB1-AC8B-667A-BAE5-E0FAF2C9F03C",
        "name": ":1:  La Lectura de la Torá",
-       "data": "<p>La lectura de la Torá comienza con el primer capítulo del Génesis, el primer sábado después de las fiestas principales del año nuevo judío, y se lee durante todo un año. Cada sinagoga tiene al menos un rollo de la Torá, que se guarda en un armario sagrado llamado arca. El arca se cubre con una cortina bordada llamada <i>parójet</i> o se protege con puertas.</p>\n",
+       "data": "<p>La lectura de la Torá comienza con el primer capítulo del Génesis, el primer sábado después de las fiestas principales del año nuevo judío, y se lee durante todo un año. Cada sinagoga tiene al menos un rollo de la Torá, que se guarda en un armario sagrado llamado arca. El arca se cubre con una cortina bordada llamada <i>parójet</i> o se protege con puertas.</p>\n<p>&#160;</p>\n<p>video de YouTube: Yacov Fuchs leyendo la Torá, BNI. &#160;</p>\n",
        "attachments": [
         {
          "guid": "CCBA8FDF-D88D-7412-656D-1C5E2A8BEC99",
@@ -1260,7 +1225,7 @@
           "attachmentEntryID": "A8758087-8889-E1D9-E474-4FF1C1175B8C"
          },
          "objectID": "BEEF4DB1-AC8B-667A-BAE5-E0FAF2C9F03C",
-         "name": "Yaakov Fux leyendo la Tor&#225;, BNI",
+         "name": "Yacov Fuchs leyendo la Tor&#225;, BNI",
          "attachmentType": "3",
          "location": "http://youtu.be/kQDgTgOVRTo",
          "dataLength": "0",
@@ -1505,23 +1470,23 @@
     },
     {
      "guid": "D4C41630-D4E6-107B-C285-E728DB90E00B",
-     "name": "Mapas de Tierra Santa en la Colección Laor",
-     "_name": "Mapas de Tierra Santa en la Colecci&#243;n Laor"
+     "name": "Mapas de Tierra Santa",
+     "_name": "Mapas de Tierra Santa"
     },
     {
      "guid": "0A4643E2-FE0F-B2CE-3595-29CCBCE54838",
-     "name": "La colección Islámica de la BNI",
-     "_name": "La colecci&#243;n Isl&#225;mica de la BNI"
+     "name": "La colección Islámica",
+     "_name": "La colecci&#243;n Isl&#225;mica"
     },
     {
      "guid": "E07DE180-4F9F-F5EF-5597-F1B13CA9F5B3",
-     "name": "El comentario de Maimónides sobre la Mishná",
-     "_name": "El comentario de Maim&#243;nides sobre la Mishn&#225;"
+     "name": "El comentario sobre la Mishná de Maimónides",
+     "_name": "El comentario sobre la Mishn&#225; de Maim&#243;nides"
     },
     {
      "guid": "127359C4-ED56-148C-0494-212AB1F43A86",
-     "name": "El manuscrito cabalístico de Lonzano",
-     "_name": "El manuscrito cabal&#237;stico de Lonzano"
+     "name": "La Cábala según Menahem de Lonzano",
+     "_name": "La C&#225;bala seg&#250;n Menahem de Lonzano"
     },
     {
      "guid": "009AFF8A-7D15-F90B-EBDE-1B572F9D7ED5",
@@ -1530,8 +1495,8 @@
     },
     {
      "guid": "A9033D67-7C48-B1E8-59A7-6F4E372E0EA7",
-     "name": "Los escritos teológicos de Newton",
-     "_name": "Los escritos teol&#243;gicos de Newton"
+     "name": "Escritos teológicos de Newton",
+     "_name": "Escritos teol&#243;gicos de Newton"
     },
     {
      "guid": "951EE7CF-B79F-21B4-D7ED-DE07FCD7CC10",
@@ -1542,7 +1507,7 @@
   },
   {
    "guid": "D4C41630-D4E6-107B-C285-E728DB90E00B",
-   "name": "Mapas de Tierra Santa en la Colección Laor",
+   "name": "Mapas de Tierra Santa",
    "data": "<p><span>Desde la Antigüedad, Tierra Santa ha sido un centro de atracción para judíos, cristianos y musulmanes. A lo largo de los siglos, judíos y cristianos han peregrinado a Tierra Santa, imaginado escenas y episodios de las Escrituras y soñado con ella desde la distancia. Muchos de ellos nos han dejado descripciones y estudios de Tierra Santa, así como paisajes y dibujos. La Colección de Mapas <i>Eran Laor</i> de la Biblioteca Nacional de Israel contiene cerca de 1.500 mapas de Jerusalén y de Tierra Santa que van desde los albores de la imprenta en el siglo XV hasta la actualidad.</span></p>\n<p>&#160;</p>\n",
    "attachments": [
     {
@@ -1630,7 +1595,7 @@
      "type": "default",
      "parent": {
       "guid": "D4C41630-D4E6-107B-C285-E728DB90E00B",
-      "name": "Mapas de Tierra Santa en la Colección Laor"
+      "name": "Mapas de Tierra Santa"
      },
      "hasChronologicalChildren": false,
      "children": [
@@ -1783,7 +1748,7 @@
      "type": "default",
      "parent": {
       "guid": "D4C41630-D4E6-107B-C285-E728DB90E00B",
-      "name": "Mapas de Tierra Santa en la Colección Laor"
+      "name": "Mapas de Tierra Santa"
      },
      "hasChronologicalChildren": false,
      "children": [
@@ -2707,23 +2672,23 @@
     },
     {
      "guid": "FB8F983C-DEC9-E871-658F-868ABD5B1FC3",
-     "name": "Un rollo de la Torá de España",
-     "_name": "Un rollo de la Torá de España"
+     "name": "La Torá española",
+     "_name": "La Torá española"
     },
     {
      "guid": "0A4643E2-FE0F-B2CE-3595-29CCBCE54838",
-     "name": "La colección Islámica de la BNI",
-     "_name": "La colecci&#243;n Isl&#225;mica de la BNI"
+     "name": "La colección Islámica",
+     "_name": "La colecci&#243;n Isl&#225;mica"
     },
     {
      "guid": "E07DE180-4F9F-F5EF-5597-F1B13CA9F5B3",
-     "name": "El comentario de Maimónides sobre la Mishná",
-     "_name": "El comentario de Maim&#243;nides sobre la Mishn&#225;"
+     "name": "El comentario sobre la Mishná de Maimónides",
+     "_name": "El comentario sobre la Mishn&#225; de Maim&#243;nides"
     },
     {
      "guid": "127359C4-ED56-148C-0494-212AB1F43A86",
-     "name": "El manuscrito cabalístico de Lonzano",
-     "_name": "El manuscrito cabal&#237;stico de Lonzano"
+     "name": "La Cábala según Menahem de Lonzano",
+     "_name": "La C&#225;bala seg&#250;n Menahem de Lonzano"
     },
     {
      "guid": "009AFF8A-7D15-F90B-EBDE-1B572F9D7ED5",
@@ -2732,8 +2697,8 @@
     },
     {
      "guid": "A9033D67-7C48-B1E8-59A7-6F4E372E0EA7",
-     "name": "Los escritos teológicos de Newton",
-     "_name": "Los escritos teol&#243;gicos de Newton"
+     "name": "Escritos teológicos de Newton",
+     "_name": "Escritos teol&#243;gicos de Newton"
     },
     {
      "guid": "951EE7CF-B79F-21B4-D7ED-DE07FCD7CC10",
@@ -2744,7 +2709,7 @@
   },
   {
    "guid": "0A4643E2-FE0F-B2CE-3595-29CCBCE54838",
-   "name": "La colección Islámica de la BNI",
+   "name": "La colección Islámica",
    "data": "<p><span>La Biblioteca Nacional de Israel posee una colección de prestigio internacional sobre Islam y Oriente Medio, que refleja el legado cultural de la minoría más numerosa de Israel así como de la cultura predominante en Oriente Medio. Además, las tradiciones literarias del árabe y del persa forman parte de la memoria colectiva judía, ya que fueron las lenguas más habladas por gran parte del pueblo judío hasta la edad contemporánea.</span><span><br />\n</span><span>La Biblioteca posee más de 2.400 manuscritos en árabe, pero también en persa y en turco otomano. El conjunto más destacado pertenece a la colección Yahuda, con 1.184 delicados manuscritos, que incluyen todas las disciplinas religiosas islámicas importantes, además de otros pertenecientes a la Literatura, la Medicina, las Matemáticas y las Ciencias Naturales. Entre los cientos de manuscritos iluminados de la colección hay más de cien ejemplares del Corán provenientes de diversos lugares, incluyendo la España del siglo XII. Además hay numerosos textos miniados que muestran escenas de las grandes obras de la literatura épica árabe y persa, como <i>El libro de los Reyes</i> (<i>Shahnameh)</i> e historias de amor muy apreciadas como <i>Layla y Majnún</i>.</span></p>\n",
    "attachments": [
     {
@@ -2771,7 +2736,7 @@
      "type": "default",
      "parent": {
       "guid": "0A4643E2-FE0F-B2CE-3595-29CCBCE54838",
-      "name": "La colección Islámica de la BNI"
+      "name": "La colección Islámica"
      },
      "hasChronologicalChildren": true,
      "children": [
@@ -2858,7 +2823,7 @@
      "type": "default",
      "parent": {
       "guid": "0A4643E2-FE0F-B2CE-3595-29CCBCE54838",
-      "name": "La colección Islámica de la BNI"
+      "name": "La colección Islámica"
      },
      "hasChronologicalChildren": false,
      "children": [],
@@ -2911,7 +2876,7 @@
      "type": "default",
      "parent": {
       "guid": "0A4643E2-FE0F-B2CE-3595-29CCBCE54838",
-      "name": "La colección Islámica de la BNI"
+      "name": "La colección Islámica"
      },
      "hasChronologicalChildren": false,
      "children": [],
@@ -2951,7 +2916,7 @@
      "type": "default",
      "parent": {
       "guid": "0A4643E2-FE0F-B2CE-3595-29CCBCE54838",
-      "name": "La colección Islámica de la BNI"
+      "name": "La colección Islámica"
      },
      "hasChronologicalChildren": true,
      "children": [
@@ -3038,7 +3003,7 @@
      "type": "default",
      "parent": {
       "guid": "0A4643E2-FE0F-B2CE-3595-29CCBCE54838",
-      "name": "La colección Islámica de la BNI"
+      "name": "La colección Islámica"
      },
      "hasChronologicalChildren": true,
      "children": [
@@ -3046,92 +3011,7 @@
        "guid": "79B40A33-627E-2A53-5707-5A3C129A9EE6",
        "name": "Una colección exquisita de manuscritos",
        "data": "",
-       "attachments": [
-        {
-         "guid": "F0FCF1F7-D844-77A5-FA8B-FBFC6C76F45F",
-         "AttachmentEntries": {
-          "attachmentEntryID": "65017C08-0E8E-329F-B9CE-DD1DD14B4E79"
-         },
-         "objectID": "79B40A33-627E-2A53-5707-5A3C129A9EE6",
-         "name": "Maim&#243;nides, Mishn&#233; Tor&#225;, 1300-1350, BNI.jpg",
-         "attachmentType": "1",
-         "location": "79B40A33-627E-2A53-5707-5A3C129A9EE6/MaimnidesMishnTor1300-1350BNI.jpg",
-         "dataLength": "93660",
-         "format": ".jpg"
-        },
-        {
-         "guid": "5E62E44B-861F-22A0-669B-5E94D17AC08A",
-         "AttachmentEntries": {
-          "attachmentEntryID": "65017C08-0E8E-329F-B9CE-DD1DD14B4E79"
-         },
-         "objectID": "79B40A33-627E-2A53-5707-5A3C129A9EE6",
-         "name": "Maim&#243;nides, Mishn&#233; Tor&#225;, 1300-1350, &apos;Mad&#225;&apos; (Ciencia), BNI.jpg",
-         "attachmentType": "1",
-         "location": "79B40A33-627E-2A53-5707-5A3C129A9EE6/MaimnidesMishnTor1300-1350Mad(Ciencia)BNI.jpg",
-         "dataLength": "259437",
-         "format": ".jpg"
-        },
-        {
-         "guid": "986F3B3F-384C-8C10-29A7-FF3C81C7BDBB",
-         "AttachmentEntries": {
-          "attachmentEntryID": "65017C08-0E8E-329F-B9CE-DD1DD14B4E79"
-         },
-         "objectID": "79B40A33-627E-2A53-5707-5A3C129A9EE6",
-         "name": "Cor&#225;n, siglo IX, Qayrawan.jpg",
-         "attachmentType": "1",
-         "location": "79B40A33-627E-2A53-5707-5A3C129A9EE6/CornsigloIXQayrawan.jpg",
-         "dataLength": "82432",
-         "format": ".jpg"
-        },
-        {
-         "guid": "E62484A7-AAE4-92D0-345C-55E73C871383",
-         "AttachmentEntries": {
-          "attachmentEntryID": "65017C08-0E8E-329F-B9CE-DD1DD14B4E79"
-         },
-         "objectID": "79B40A33-627E-2A53-5707-5A3C129A9EE6",
-         "name": "Libro de Horas, siglo XV, Brujas, BNI .jpg",
-         "attachmentType": "1",
-         "location": "79B40A33-627E-2A53-5707-5A3C129A9EE6/LibrodeHorassigloXVBrujasBNI.jpg",
-         "dataLength": "262694",
-         "format": ".jpg"
-        },
-        {
-         "guid": "7A0B2475-D8D7-69C2-C38A-4D0CEDB7C7AA",
-         "AttachmentEntries": {
-          "attachmentEntryID": "65017C08-0E8E-329F-B9CE-DD1DD14B4E79"
-         },
-         "objectID": "79B40A33-627E-2A53-5707-5A3C129A9EE6",
-         "name": "Muhammad al-Busiri, Al-Burdah (poema del Manto), mediados del siglo XIV, BNI.jpg",
-         "attachmentType": "1",
-         "location": "79B40A33-627E-2A53-5707-5A3C129A9EE6/Muhammadal-BusiriAl-Burdah(poemadelManto)mediadosdelsigloXIVBNI.jpg",
-         "dataLength": "170656",
-         "format": ".jpg"
-        },
-        {
-         "guid": "13F2E6C4-2E49-CDAB-69A4-DBA06EA4C29A",
-         "AttachmentEntries": {
-          "attachmentEntryID": "65017C08-0E8E-329F-B9CE-DD1DD14B4E79"
-         },
-         "objectID": "79B40A33-627E-2A53-5707-5A3C129A9EE6",
-         "name": "La carta de Napole&#243;n al General Destaing durante la campa&#241;a en Egipto, 9.7.1799 .jpg",
-         "attachmentType": "1",
-         "location": "79B40A33-627E-2A53-5707-5A3C129A9EE6/LacartadeNapolenalGeneralDestaingdurantelacampaaenEgipto9.7.1799.jpg",
-         "dataLength": "137508",
-         "format": ".jpg"
-        },
-        {
-         "guid": "2DF17969-884F-7414-EC2F-4A714D26ED45",
-         "AttachmentEntries": {
-          "attachmentEntryID": "65017C08-0E8E-329F-B9CE-DD1DD14B4E79"
-         },
-         "objectID": "79B40A33-627E-2A53-5707-5A3C129A9EE6",
-         "name": "Privilegio otorgado a los Jud&#237;os por el Rey Alfonso V de Arag&#243;n, Zaragoza 1429, BNI.jpg",
-         "attachmentType": "1",
-         "location": "79B40A33-627E-2A53-5707-5A3C129A9EE6/PrivilegiootorgadoalosJudosporelReyAlfonsoVdeAragnZaragoza1429BNI.jpg",
-         "dataLength": "203947",
-         "format": ".jpg"
-        }
-       ],
+       "attachments": [],
        "type": "default",
        "parent": {
         "guid": "E9D2870A-9528-B9CE-9EE5-E667565D0126",
@@ -3462,7 +3342,7 @@
      "type": "default",
      "parent": {
       "guid": "0A4643E2-FE0F-B2CE-3595-29CCBCE54838",
-      "name": "La colección Islámica de la BNI"
+      "name": "La colección Islámica"
      },
      "hasChronologicalChildren": true,
      "children": [
@@ -3504,9 +3384,9 @@
             "attachmentEntryID": "AFB6C635-748B-1F5F-7C6F-EA0ED4FE39A4"
            },
            "objectID": "CB984E7E-BE68-951B-69B3-EA7F108D345E",
-           "name": "El Cor&#225;n de Shiraz, la oraci&#243;n cubierta en oro.jpg",
+           "name": "El Cor&#225;n de Shiraz, la oraci&#243;n final con el nombre de Al&#237;, cubierto en oro.jpg",
            "attachmentType": "1",
-           "location": "CB984E7E-BE68-951B-69B3-EA7F108D345E/ElCorndeShirazlaoracincubiertaenoro.jpg",
+           "location": "CB984E7E-BE68-951B-69B3-EA7F108D345E/ElCorndeShirazlaoracinfinalconelnombredeAlcubiertoenoro.jpg",
            "dataLength": "204482",
            "format": ".jpg"
           }
@@ -3627,23 +3507,23 @@
     },
     {
      "guid": "FB8F983C-DEC9-E871-658F-868ABD5B1FC3",
-     "name": "Un rollo de la Torá de España",
-     "_name": "Un rollo de la Torá de España"
+     "name": "La Torá española",
+     "_name": "La Torá española"
     },
     {
      "guid": "D4C41630-D4E6-107B-C285-E728DB90E00B",
-     "name": "Mapas de Tierra Santa en la Colección Laor",
-     "_name": "Mapas de Tierra Santa en la Colección Laor"
+     "name": "Mapas de Tierra Santa",
+     "_name": "Mapas de Tierra Santa"
     },
     {
      "guid": "E07DE180-4F9F-F5EF-5597-F1B13CA9F5B3",
-     "name": "El comentario de Maimónides sobre la Mishná",
-     "_name": "El comentario de Maim&#243;nides sobre la Mishn&#225;"
+     "name": "El comentario sobre la Mishná de Maimónides",
+     "_name": "El comentario sobre la Mishn&#225; de Maim&#243;nides"
     },
     {
      "guid": "127359C4-ED56-148C-0494-212AB1F43A86",
-     "name": "El manuscrito cabalístico de Lonzano",
-     "_name": "El manuscrito cabal&#237;stico de Lonzano"
+     "name": "La Cábala según Menahem de Lonzano",
+     "_name": "La C&#225;bala seg&#250;n Menahem de Lonzano"
     },
     {
      "guid": "009AFF8A-7D15-F90B-EBDE-1B572F9D7ED5",
@@ -3652,8 +3532,8 @@
     },
     {
      "guid": "A9033D67-7C48-B1E8-59A7-6F4E372E0EA7",
-     "name": "Los escritos teológicos de Newton",
-     "_name": "Los escritos teol&#243;gicos de Newton"
+     "name": "Escritos teológicos de Newton",
+     "_name": "Escritos teol&#243;gicos de Newton"
     },
     {
      "guid": "951EE7CF-B79F-21B4-D7ED-DE07FCD7CC10",
@@ -3664,7 +3544,7 @@
   },
   {
    "guid": "E07DE180-4F9F-F5EF-5597-F1B13CA9F5B3",
-   "name": "El comentario de Maimónides sobre la Mishná",
+   "name": "El comentario sobre la Mishná de Maimónides",
    "data": "<p><span><span>Maimónides (Córdoba, 1138 - El Cairo, 1204) es uno de los mayores intelectuales judíos de la historia.</span></span></p>\n<p><span><span>Fue sobre todo un gran intérprete de la Ley Judía (la </span></span><i><span><span>Halajá</span></span></i><span><span>), creando códigos legislativos novedosos, comentarios y opiniones legales de gran alcance, mientras servía como líder de numerosas comunidades judías. Pero también fue un influyente filósofo y médico, famoso en los círculos judíos, musulmanes y cristianos de su época. Maimónides procuraba constantemente conciliar su saber filosófico y científico con la Ley Judía y la Teología.</span></span></p>\n<p><span><span>Por la amplitud de su intelecto y su gran influencia entre judíos y no judíos, a Maimónides se le conoce en la tradición judía como</span></span><b><span><span> El Gran Águila</span></span></b><span><span>.</span></span></p>\n<p><span><span>Su biografía es representativa del destino de los judíos españoles en su tiempo: nacido en Córdoba, donde absorbió la ciencia y la cultura islámicas, huyó de los almohades a Marruecos y luego a Fustat (El Cairo) en Egipto, donde gozó de la protección de la corte ayubí.</span></span></p>\n",
    "attachments": [
     {
@@ -3716,7 +3596,7 @@
      "type": "default",
      "parent": {
       "guid": "E07DE180-4F9F-F5EF-5597-F1B13CA9F5B3",
-      "name": "El comentario de Maimónides sobre la Mishná"
+      "name": "El comentario sobre la Mishná de Maimónides"
      },
      "hasChronologicalChildren": false,
      "children": [
@@ -4037,8 +3917,8 @@
      "brothers": [
       {
        "guid": "B45441E4-0097-0317-6BDB-FD5F59E44DDA",
-       "name": "Una vida extraordinaria",
-       "_name": "Una vida extraordinaria"
+       "name": "Una vida Insólita",
+       "_name": "Una vida Ins&#243;lita"
       },
       {
        "guid": "D426D901-F0FB-99E7-6E57-289CFFFBDD64",
@@ -4049,8 +3929,8 @@
     },
     {
      "guid": "B45441E4-0097-0317-6BDB-FD5F59E44DDA",
-     "name": "Una vida extraordinaria",
-     "data": "<p><span>La intensa vida de Maimónides comienza en el mundo multicultural cordobés y termina en la corte real en El Cairo.</span></p>\n<p><span>&#160;</span></p>\n<p><span>Fotografía: una medalla oficial del Estado de Israel, conmemorando el 800 aniversario de Maimónides, con las diferentes estaciones de la trayectoria de Maimónides en la cuenca del Mediterráneo.</span></p>\n",
+     "name": "Una vida Insólita",
+     "data": "<p><span>La intensa vida de Maimónides comienza en el mundo multicultural cordobés y termina en la corte real en El Cairo.</span></p>\n<p>&#160;</p>\n<p><span>Fotografía: una medalla oficial del Estado de Israel, conmemorando el 800 aniversario de Maimónides, con las diferentes estaciones de la trayectoria de Maimónides en la cuenca del Mediterráneo.</span></p>\n",
      "attachments": [
       {
        "guid": "104C8820-F472-012C-F568-E981854DBF8E",
@@ -4068,7 +3948,7 @@
      "type": "default",
      "parent": {
       "guid": "E07DE180-4F9F-F5EF-5597-F1B13CA9F5B3",
-      "name": "El comentario de Maimónides sobre la Mishná"
+      "name": "El comentario sobre la Mishná de Maimónides"
      },
      "hasChronologicalChildren": true,
      "children": [
@@ -4095,7 +3975,7 @@
        "chronologicalName": "Maimónides en Córdoba",
        "parent": {
         "guid": "B45441E4-0097-0317-6BDB-FD5F59E44DDA",
-        "name": "Una vida extraordinaria"
+        "name": "Una vida Insólita"
        },
        "hasChronologicalChildren": false,
        "children": [
@@ -4158,7 +4038,7 @@
          "chronologicalName": "Experto en la Ley Judía, Matemáticas, Filosofía, Teología y Medicina",
          "parent": {
           "guid": "B45441E4-0097-0317-6BDB-FD5F59E44DDA",
-          "name": "Una vida extraordinaria"
+          "name": "Una vida Insólita"
          },
          "hasChronologicalChildren": false,
          "children": [
@@ -4185,7 +4065,7 @@
            "chronologicalName": "El medio intelectual y las influencias",
            "parent": {
             "guid": "B45441E4-0097-0317-6BDB-FD5F59E44DDA",
-            "name": "Una vida extraordinaria"
+            "name": "Una vida Insólita"
            },
            "hasChronologicalChildren": false,
            "children": [
@@ -4212,7 +4092,7 @@
              "chronologicalName": "Su familia obligada a dejar Córdoba",
              "parent": {
               "guid": "B45441E4-0097-0317-6BDB-FD5F59E44DDA",
-              "name": "Una vida extraordinaria"
+              "name": "Una vida Insólita"
              },
              "hasChronologicalChildren": false,
              "children": [
@@ -4251,7 +4131,7 @@
                "chronologicalName": "1160-1165. Marruecos. La conversión forzosa",
                "parent": {
                 "guid": "B45441E4-0097-0317-6BDB-FD5F59E44DDA",
-                "name": "Una vida extraordinaria"
+                "name": "Una vida Insólita"
                },
                "hasChronologicalChildren": false,
                "children": [
@@ -4278,7 +4158,7 @@
                  "chronologicalName": "Peregrinación a Tierra Santa",
                  "parent": {
                   "guid": "B45441E4-0097-0317-6BDB-FD5F59E44DDA",
-                  "name": "Una vida extraordinaria"
+                  "name": "Una vida Insólita"
                  },
                  "hasChronologicalChildren": false,
                  "children": [
@@ -4317,7 +4197,7 @@
                    "chronologicalName": "La familia se muda a Fustat",
                    "parent": {
                     "guid": "B45441E4-0097-0317-6BDB-FD5F59E44DDA",
-                    "name": "Una vida extraordinaria"
+                    "name": "Una vida Insólita"
                    },
                    "hasChronologicalChildren": false,
                    "children": [
@@ -4344,7 +4224,7 @@
                      "chronologicalName": "Maimónides médico de la corte de los ayubís",
                      "parent": {
                       "guid": "B45441E4-0097-0317-6BDB-FD5F59E44DDA",
-                      "name": "Una vida extraordinaria"
+                      "name": "Una vida Insólita"
                      },
                      "hasChronologicalChildren": false,
                      "children": [
@@ -4407,7 +4287,7 @@
                        "chronologicalName": "Líder de la comunidad judía",
                        "parent": {
                         "guid": "B45441E4-0097-0317-6BDB-FD5F59E44DDA",
-                        "name": "Una vida extraordinaria"
+                        "name": "Una vida Insólita"
                        },
                        "hasChronologicalChildren": false,
                        "children": [
@@ -4446,7 +4326,7 @@
                          "chronologicalName": "Su muerte",
                          "parent": {
                           "guid": "B45441E4-0097-0317-6BDB-FD5F59E44DDA",
-                          "name": "Una vida extraordinaria"
+                          "name": "Una vida Insólita"
                          },
                          "hasChronologicalChildren": false,
                          "children": [],
@@ -4503,7 +4383,7 @@
      "type": "default",
      "parent": {
       "guid": "E07DE180-4F9F-F5EF-5597-F1B13CA9F5B3",
-      "name": "El comentario de Maimónides sobre la Mishná"
+      "name": "El comentario sobre la Mishná de Maimónides"
      },
      "hasChronologicalChildren": true,
      "children": [
@@ -4656,23 +4536,23 @@
     },
     {
      "guid": "FB8F983C-DEC9-E871-658F-868ABD5B1FC3",
-     "name": "Un rollo de la Torá de España",
-     "_name": "Un rollo de la Torá de España"
+     "name": "La Torá española",
+     "_name": "La Torá española"
     },
     {
      "guid": "D4C41630-D4E6-107B-C285-E728DB90E00B",
-     "name": "Mapas de Tierra Santa en la Colección Laor",
-     "_name": "Mapas de Tierra Santa en la Colección Laor"
+     "name": "Mapas de Tierra Santa",
+     "_name": "Mapas de Tierra Santa"
     },
     {
      "guid": "0A4643E2-FE0F-B2CE-3595-29CCBCE54838",
-     "name": "La colección Islámica de la BNI",
-     "_name": "La colección Islámica de la BNI"
+     "name": "La colección Islámica",
+     "_name": "La colección Islámica"
     },
     {
      "guid": "127359C4-ED56-148C-0494-212AB1F43A86",
-     "name": "El manuscrito cabalístico de Lonzano",
-     "_name": "El manuscrito cabal&#237;stico de Lonzano"
+     "name": "La Cábala según Menahem de Lonzano",
+     "_name": "La C&#225;bala seg&#250;n Menahem de Lonzano"
     },
     {
      "guid": "009AFF8A-7D15-F90B-EBDE-1B572F9D7ED5",
@@ -4681,8 +4561,8 @@
     },
     {
      "guid": "A9033D67-7C48-B1E8-59A7-6F4E372E0EA7",
-     "name": "Los escritos teológicos de Newton",
-     "_name": "Los escritos teol&#243;gicos de Newton"
+     "name": "Escritos teológicos de Newton",
+     "_name": "Escritos teol&#243;gicos de Newton"
     },
     {
      "guid": "951EE7CF-B79F-21B4-D7ED-DE07FCD7CC10",
@@ -4693,7 +4573,7 @@
   },
   {
    "guid": "127359C4-ED56-148C-0494-212AB1F43A86",
-   "name": "El manuscrito cabalístico de Lonzano",
+   "name": "La Cábala según Menahem de Lonzano",
    "data": "<p><span><span><span>En 2010 se descubrió, en un desván de la ciudad de Bnei-Brak en Israel, un singular manuscrito que contiene una rara colección de lecciones de la Cábala, algunas de ellas desconocidas hasta el día de hoy. De gran importancia para la interpretación de la Cábala Luriánica, fue escrito por el rabino Menahem de Lonzano en 1610, exactamente cuatrocientos años antes de su descubrimiento. De Lonzano, un importante estudioso de peculiar personalidad, anotó las lecciones de dos famosos discípulos del rabino Isaac Luria (1534-1572), la figura más importante del movimiento de la Cábala de Safed (en la Tierra de Israel), pocas décadas después de que hubieran sido pronunciadas.</span></span></span></p>\n",
    "attachments": [
     {
@@ -4732,7 +4612,7 @@
      "type": "default",
      "parent": {
       "guid": "127359C4-ED56-148C-0494-212AB1F43A86",
-      "name": "El manuscrito cabalístico de Lonzano"
+      "name": "La Cábala según Menahem de Lonzano"
      },
      "hasChronologicalChildren": true,
      "children": [
@@ -4837,7 +4717,7 @@
     {
      "guid": "9D6F504D-AC12-E7CA-54E4-0C5AB510A1D3",
      "name": ":_: ¿Qué es la Jasidút?",
-     "data": "<p><span><span><span>La Jasidút es un movimiento popular del judaísmo influido por las ideas de la Cábala. La Jasidút destaca la habilidad innata de toda persona de alcanzar la comunión con Dios a través de la oración y otras actividades rituales.</span></span></span><span><span></span></span></p>\n<p><span><span><span>Comienza con un pequeño grupo reunido en torno al carismático rabino conocido como Baal Shem Tov (\"Señor del Buen Nombre\") (c. 1700-1760). Esta corriente conquistó la mayoría de las comunidades judías en Europa del Este.</span></span></span><span><span></span></span></p>\n<p><span><span><span>Los jasidím, como se les conoce, son fácilmente reconocibles por sus peculiares vestimentas, y algunos de sus líderes, conocidos como </span></span><i><span><span>Rebbes</span></span></i><span><span>, se han hecho famosos, por ejemplo el rabino Menahem Mendel Schneerson (1902-1994) del grupo Lubavitch (</span></span><i><span><span>Chabad</span></span></i><span><span>), al que sus seguidores incluso veneran como el Mesías.</span></span></span><span><span></span></span></p>\n<p>&#160;</p>\n",
+     "data": "<p><span><span><span>La Jasidút es un movimiento popular del judaísmo influido por las ideas de la Cábala. La Jasidút destaca la habilidad innata de toda persona de alcanzar la comunión con Dios a través de la oración y otras actividades rituales.</span></span></span></p>\n<p><span><span><span>Comienza con un pequeño grupo reunido en torno al carismático rabino conocido como Baal Shem Tov (\"Señor del Buen Nombre\") (c. 1700-1760). Esta corriente conquistó la mayoría de las comunidades judías en Europa del Este.</span></span></span></p>\n<p><span><span><span>Los jasidím, como se les conoce, son fácilmente reconocibles por sus peculiares vestimentas, y algunos de sus líderes, conocidos como </span></span><i><span><span>Rebbes</span></span></i><span><span>, se han hecho famosos, por ejemplo el rabino Menahem Mendel Schneerson (1902-1994) del grupo Lubavitch (</span></span><i><span><span>Chabad</span></span></i><span><span>), al que sus seguidores incluso veneran como el Mesías.</span></span></span></p>\n<p>&#160;</p>\n<p><span><span><span>videos de YouTube:&#160;</span></span></span></p>\n<p><span><span><span>1. El Señor de la Danza.</span></span></span></p>\n<p><span><span><span>2. Película de Habad Lubavitch sobre el Rebbe (en Inglés).&#160;</span></span></span></p>\n<p>&#160;</p>\n",
      "attachments": [
       {
        "guid": "8221A2DE-D863-7007-6806-E2FA2E7BF555",
@@ -4881,9 +4761,9 @@
         "attachmentEntryID": "32AD713D-C6E7-7BB7-242E-400497165E85"
        },
        "objectID": "9D6F504D-AC12-E7CA-54E4-0C5AB510A1D3",
-       "name": "Cantando el _Nig&#250;n_.jpg",
+       "name": "Cantando el Nig&#250;n.jpg",
        "attachmentType": "1",
-       "location": "9D6F504D-AC12-E7CA-54E4-0C5AB510A1D3/Cantandoel_Nign_.jpg",
+       "location": "9D6F504D-AC12-E7CA-54E4-0C5AB510A1D3/CantandoelNign.jpg",
        "dataLength": "7185",
        "format": ".jpg"
       },
@@ -4904,7 +4784,7 @@
      "bastardName": "¿Qué es la Jasidút?",
      "parent": {
       "guid": "127359C4-ED56-148C-0494-212AB1F43A86",
-      "name": "El manuscrito cabalístico de Lonzano"
+      "name": "La Cábala según Menahem de Lonzano"
      },
      "hasChronologicalChildren": false,
      "children": [],
@@ -4944,7 +4824,7 @@
      "type": "default",
      "parent": {
       "guid": "127359C4-ED56-148C-0494-212AB1F43A86",
-      "name": "El manuscrito cabalístico de Lonzano"
+      "name": "La Cábala según Menahem de Lonzano"
      },
      "hasChronologicalChildren": true,
      "children": [
@@ -5021,9 +4901,9 @@
         "attachmentEntryID": "BDB12AA9-7746-EA8A-00E0-59A26A3385FF"
        },
        "objectID": "7660CE39-5432-7D03-DF5C-1645E15FBAF7",
-       "name": "Traducci&#243;n al Lat&#237;n de un texto cabal&#237;stico, Shaarei Ora de Gicatilla.jpg",
+       "name": "Traducci&#243;n al Lat&#237;n de un texto cabal&#237;stico, Shaarei Ora de Gikatilla.jpg",
        "attachmentType": "1",
-       "location": "7660CE39-5432-7D03-DF5C-1645E15FBAF7/TraduccinalLatndeuntextocabalsticoShaareiOradeGicatilla.jpg",
+       "location": "7660CE39-5432-7D03-DF5C-1645E15FBAF7/TraduccinalLatndeuntextocabalsticoShaareiOradeGikatilla.jpg",
        "dataLength": "430796",
        "format": ".jpg"
       }
@@ -5031,7 +4911,7 @@
      "type": "default",
      "parent": {
       "guid": "127359C4-ED56-148C-0494-212AB1F43A86",
-      "name": "El manuscrito cabalístico de Lonzano"
+      "name": "La Cábala según Menahem de Lonzano"
      },
      "hasChronologicalChildren": true,
      "children": [
@@ -5130,18 +5010,6 @@
                "attachmentType": "1",
                "location": "66ACABEC-39A0-5CE7-4B93-07D4D1822C41/UnacalleenlaciudadviejadeSafed.jpg",
                "dataLength": "241100",
-               "format": ".jpg"
-              },
-              {
-               "guid": "2907D76E-E736-4912-999D-1285016245D0",
-               "AttachmentEntries": {
-                "attachmentEntryID": "45FC7F94-2118-6282-D8E5-58782F69B1F5"
-               },
-               "objectID": "66ACABEC-39A0-5CE7-4B93-07D4D1822C41",
-               "name": "El libro Kerekh Qatan (peque&#241;o tomo) por Haim Vital, copia  1714, BNI.jpg",
-               "attachmentType": "1",
-               "location": "66ACABEC-39A0-5CE7-4B93-07D4D1822C41/EllibroKerekhQatan(pequeotomo)porHaimVitalcopia1714BNI.jpg",
-               "dataLength": "109810",
                "format": ".jpg"
               },
               {
@@ -5248,7 +5116,7 @@
      "type": "default",
      "parent": {
       "guid": "127359C4-ED56-148C-0494-212AB1F43A86",
-      "name": "El manuscrito cabalístico de Lonzano"
+      "name": "La Cábala según Menahem de Lonzano"
      },
      "hasChronologicalChildren": true,
      "children": [
@@ -5334,7 +5202,7 @@
      "type": "default",
      "parent": {
       "guid": "127359C4-ED56-148C-0494-212AB1F43A86",
-      "name": "El manuscrito cabalístico de Lonzano"
+      "name": "La Cábala según Menahem de Lonzano"
      },
      "hasChronologicalChildren": true,
      "children": [
@@ -5445,23 +5313,23 @@
     },
     {
      "guid": "FB8F983C-DEC9-E871-658F-868ABD5B1FC3",
-     "name": "Un rollo de la Torá de España",
-     "_name": "Un rollo de la Torá de España"
+     "name": "La Torá española",
+     "_name": "La Torá española"
     },
     {
      "guid": "D4C41630-D4E6-107B-C285-E728DB90E00B",
-     "name": "Mapas de Tierra Santa en la Colección Laor",
-     "_name": "Mapas de Tierra Santa en la Colección Laor"
+     "name": "Mapas de Tierra Santa",
+     "_name": "Mapas de Tierra Santa"
     },
     {
      "guid": "0A4643E2-FE0F-B2CE-3595-29CCBCE54838",
-     "name": "La colección Islámica de la BNI",
-     "_name": "La colección Islámica de la BNI"
+     "name": "La colección Islámica",
+     "_name": "La colección Islámica"
     },
     {
      "guid": "E07DE180-4F9F-F5EF-5597-F1B13CA9F5B3",
-     "name": "El comentario de Maimónides sobre la Mishná",
-     "_name": "El comentario de Maimónides sobre la Mishná"
+     "name": "El comentario sobre la Mishná de Maimónides",
+     "_name": "El comentario sobre la Mishná de Maimónides"
     },
     {
      "guid": "009AFF8A-7D15-F90B-EBDE-1B572F9D7ED5",
@@ -5470,8 +5338,8 @@
     },
     {
      "guid": "A9033D67-7C48-B1E8-59A7-6F4E372E0EA7",
-     "name": "Los escritos teológicos de Newton",
-     "_name": "Los escritos teol&#243;gicos de Newton"
+     "name": "Escritos teológicos de Newton",
+     "_name": "Escritos teol&#243;gicos de Newton"
     },
     {
      "guid": "951EE7CF-B79F-21B4-D7ED-DE07FCD7CC10",
@@ -5483,7 +5351,7 @@
   {
    "guid": "009AFF8A-7D15-F90B-EBDE-1B572F9D7ED5",
    "name": "Zweig, Benjamin y Kafka",
-   "data": "<p><span><span><span>Gradualmente, a partir del primer cuarto del siglo XIX hasta el principio de la era Nazi, los Judíos en el mundo de habla alemana vivieron un proceso de transformación que los llevó de la exclusión a la aceptación. Mientras que hasta principios del siglo XIX Judíos que querían participar en estas sociedades tenían generalmente que convertirse al Cristianismo, un cambio marcado tuvo lugar a partir de 1848, cuando muchas de las limitaciones fueron anuladas. Los Judíos se mostraron especialmente hábiles en aprovechar estas oportunidades para avanzar a través de la educación. Esta es la tendencia que les permitió a Kafka, Zweig y Benjamin cursar estudios universitarios e hizo que la idea de Benjamin de obtener un puesto universitario fuera factible. Los Judíos se habían transformado en los líderes intelectuales del mundo de habla alemana.</span></span></span></p>\n",
+   "data": "<p><span><span><span>Gradualmente, a partir del primer cuarto del siglo XIX hasta el principio de la era Nazi, los Judíos en el mundo de habla alemana vivieron un proceso de transformación que los llevó de la exclusión a la aceptación. Mientras que hasta principios del siglo XIX Judíos que querían participar en estas sociedades tenían generalmente que convertirse al Cristianismo, un cambio marcado tuvo lugar a partir de 1848, cuando muchas de las limitaciones fueron anuladas. Los Judíos se mostraron especialmente hábiles en aprovechar estas oportunidades para avanzar a través de la educación. Esta es la tendencia que les permitió a Kafka, Zweig y Benjamin cursar estudios universitarios e hizo que la idea de Benjamin de obtener un puesto universitario fuera factible. Los Judíos se habían transformado en los líderes intelectuales del mundo de habla alemana.</span></span></span></p>\n<p>&#160;</p>\n<p><span><span><span>videos de YouTube:&#160;</span></span></span></p>\n<p><span><span><span>1. Soldados Judíos en el ejército Austro-Húngaro (en Inglés).</span></span></span></p>\n<p><span><span><span>2. Viena 1900, Tranvía.</span></span></span></p>\n<p><span><span><span>3. Berlín 1900 a colores.&#160;</span></span></span></p>\n",
    "attachments": [
     {
      "guid": "497A2F2C-77A3-5591-D65B-1AE6427770D9",
@@ -5974,96 +5842,42 @@
            "hasChronologicalChildren": false,
            "children": [
             {
-             "guid": "A511D2A0-4CF8-6EAA-4E6E-FC7CD0EDBCE9",
-             "name": ":3: Kafka en casa de Bergmann",
-             "data": "<p>En el verano de 1923 Kafka escribió a Bergmann sobre su propósito de visitar Palestina. En una carta fechada en agosto de 1923, Bergmann le escribió a su esposa Else las siguientes frases:</p>\n<p>\"Sobre Kafka: claro que estaría muy contento de tenerle aquí, pero te ruego que no asumas esta carga ni se la impongas a nuestra casa. La habitación en el sótano está ocupada por Lea (la sirvienta), y dudo que sea adecuada para vivir, especialmente cuando se trata de Franz. Ni siquiera Lea quería esa habitación […] Mientras mamá esté aquí no tenemos ninguna habitación libre. Aunque se vaya –quién sabe cuándo sucederá– todavía tendríamos el problema de ocuparnos de Franz. Una cosa es ayudarle todo lo posible cuando está viviendo en el extranjero, y una cosa distinta es invitarlo a nuestra casa y asumir la responsabilidad y el cuidado. ¡Esto acabará siendo a costa de nuestros hijos! […] Sabes que quiero mucho a Franz y me gustaría que se quedara, pero te pido que no te comprometas ni lo ilusiones\".</p>\n",
+             "guid": "F8764905-77D6-2F1F-C4A6-0376797AED4A",
+             "name": "Samuel Hugo Bergmann (1883-1975)",
+             "data": "<p>S. H. Bergmann fue un filósofo e intelectual. Bergmann y Kafka crecieron juntos en Praga y aunque estudiaron juntos y fueron amigos entrañables, Bergmann era un sionista convencido y su origen judío era un elemento central de su identidad. Emigró a Palestina en 1920 donde fue nombrado Director de la Biblioteca Nacional, puesto que ocupó hasta 1935. Bergmann fue también profesor de Filosofía en la Universidad Hebrea, donde llegaría a ser rector. Junto a Martin Buber, Gershom Scholem y otros, Bergmann pertenecía al <i>Brit Shalom</i>, \"Pacto de Paz\", una organización que apoyaba la convivencia entre judíos y árabes en un solo Estado.</p>\n",
              "attachments": [
               {
-               "guid": "ED5294B1-4E75-5467-2AE9-13753E9EE00C",
+               "guid": "CA8321E9-35D2-933D-5C6C-D04EC6F99920",
                "AttachmentEntries": {
-                "attachmentEntryID": "AE702611-1D8E-9363-7DB0-607A1EA5B340"
+                "attachmentEntryID": "A416F113-8E38-227C-8EF8-A9576F8C2482"
                },
-               "objectID": "A511D2A0-4CF8-6EAA-4E6E-FC7CD0EDBCE9",
-               "name": "Hugo Bergmann a su esposa Else, p.1, BNI.jpg",
+               "objectID": "F8764905-77D6-2F1F-C4A6-0376797AED4A",
+               "name": "Shmuel Hugo Bergman.jpg",
                "attachmentType": "1",
-               "location": "A511D2A0-4CF8-6EAA-4E6E-FC7CD0EDBCE9/HugoBergmannasuesposaElsep.1BNI.jpg",
-               "dataLength": "149811",
+               "location": "F8764905-77D6-2F1F-C4A6-0376797AED4A/ShmuelHugoBergman.jpg",
+               "dataLength": "27640",
                "format": ".jpg"
               },
               {
-               "guid": "945BBA1D-C6CB-8DA3-E7A6-FBBE72C454D0",
+               "guid": "92A66D62-C800-237C-D3A4-F3F9CB1BE495",
                "AttachmentEntries": {
-                "attachmentEntryID": "AE702611-1D8E-9363-7DB0-607A1EA5B340"
+                "attachmentEntryID": "A416F113-8E38-227C-8EF8-A9576F8C2482"
                },
-               "objectID": "A511D2A0-4CF8-6EAA-4E6E-FC7CD0EDBCE9",
-               "name": "Hugo Bergmann a su esposa Else, p.2, BNI.jpg",
+               "objectID": "F8764905-77D6-2F1F-C4A6-0376797AED4A",
+               "name": "Bergman y el presidente Checo Masaryk yendo a visitar la Biblioteca Nacional, Jerusal&#233;n, 1927.jpg",
                "attachmentType": "1",
-               "location": "A511D2A0-4CF8-6EAA-4E6E-FC7CD0EDBCE9/HugoBergmannasuesposaElsep.2BNI.jpg",
-               "dataLength": "146864",
-               "format": ".jpg"
-              },
-              {
-               "guid": "E8F4F76A-32F0-EBA7-D116-9A15B8977C09",
-               "AttachmentEntries": {
-                "attachmentEntryID": "AE702611-1D8E-9363-7DB0-607A1EA5B340"
-               },
-               "objectID": "A511D2A0-4CF8-6EAA-4E6E-FC7CD0EDBCE9",
-               "name": "Hugo Bergmann a su esposa Else, p.3, BNI.jpg",
-               "attachmentType": "1",
-               "location": "A511D2A0-4CF8-6EAA-4E6E-FC7CD0EDBCE9/HugoBergmannasuesposaElsep.3BNI.jpg",
-               "dataLength": "165778",
+               "location": "F8764905-77D6-2F1F-C4A6-0376797AED4A/BergmanyelpresidenteChecoMasarykyendoavisitarlaBibliotecaNacionalJerusaln1927.jpg",
+               "dataLength": "119190",
                "format": ".jpg"
               }
              ],
-             "type": "chronological",
-             "chronologicalId": "3",
-             "chronologicalName": "Kafka en casa de Bergmann",
+             "type": "default",
              "parent": {
               "guid": "DF00CA57-F915-CDD6-7365-1491D0609B78",
               "name": "Kafka y el judaísmo"
              },
              "hasChronologicalChildren": false,
-             "children": [
-              {
-               "guid": "F8764905-77D6-2F1F-C4A6-0376797AED4A",
-               "name": "Samuel Hugo Bergmann (1883-1975)",
-               "data": "<p>S. H. Bergmann fue un filósofo e intelectual. Bergmann y Kafka crecieron juntos en Praga y aunque estudiaron juntos y fueron amigos entrañables, Bergmann era un sionista convencido y su origen judío era un elemento central de su identidad. Emigró a Palestina en 1920 donde fue nombrado Director de la Biblioteca Nacional, puesto que ocupó hasta 1935. Bergmann fue también profesor de Filosofía en la Universidad Hebrea, donde llegaría a ser rector. Junto a Martin Buber, Gershom Scholem y otros, Bergmann pertenecía al <i>Brit Shalom</i>, \"Pacto de Paz\", una organización que apoyaba la convivencia entre judíos y árabes en un solo Estado.</p>\n",
-               "attachments": [
-                {
-                 "guid": "CA8321E9-35D2-933D-5C6C-D04EC6F99920",
-                 "AttachmentEntries": {
-                  "attachmentEntryID": "A416F113-8E38-227C-8EF8-A9576F8C2482"
-                 },
-                 "objectID": "F8764905-77D6-2F1F-C4A6-0376797AED4A",
-                 "name": "Shmuel Hugo Bergman.jpg",
-                 "attachmentType": "1",
-                 "location": "F8764905-77D6-2F1F-C4A6-0376797AED4A/ShmuelHugoBergman.jpg",
-                 "dataLength": "27640",
-                 "format": ".jpg"
-                },
-                {
-                 "guid": "92A66D62-C800-237C-D3A4-F3F9CB1BE495",
-                 "AttachmentEntries": {
-                  "attachmentEntryID": "A416F113-8E38-227C-8EF8-A9576F8C2482"
-                 },
-                 "objectID": "F8764905-77D6-2F1F-C4A6-0376797AED4A",
-                 "name": "Bergman y el presidente Checo Masaryk yendo a visitar la Biblioteca Nacional, Jerusal&#233;n, 1927.jpg",
-                 "attachmentType": "1",
-                 "location": "F8764905-77D6-2F1F-C4A6-0376797AED4A/BergmanyelpresidenteChecoMasarykyendoavisitarlaBibliotecaNacionalJerusaln1927.jpg",
-                 "dataLength": "119190",
-                 "format": ".jpg"
-                }
-               ],
-               "type": "default",
-               "parent": {
-                "guid": "DF00CA57-F915-CDD6-7365-1491D0609B78",
-                "name": "Kafka y el judaísmo"
-               },
-               "hasChronologicalChildren": false,
-               "children": [],
-               "brothers": []
-              }
-             ],
+             "children": [],
              "brothers": []
             }
            ],
@@ -6171,6 +5985,11 @@
            "_name": "El mundo de ayer"
           },
           {
+           "guid": "01E77DF3-5CC2-78A4-BBE6-E910C492636C",
+           "name": "30 de Noviembre 1933",
+           "_name": "La carta de Zweig a Kayser: 30 de Noviembre 1933"
+          },
+          {
            "guid": "8C71E338-7233-5876-B3D8-8B072725E49F",
            "name": "Los primeros pasos como escritor – Zweig y Herzl",
            "_name": "Los primeros pasos como escritor &#8211; Zweig y Herzl"
@@ -6248,6 +6067,71 @@
            "guid": "4FB68FFB-D884-EE6A-4A8B-2AF40CD10E3B",
            "name": "La carta de suicidio de Zweig",
            "_name": "La carta de suicidio de Zweig"
+          },
+          {
+           "guid": "01E77DF3-5CC2-78A4-BBE6-E910C492636C",
+           "name": "30 de Noviembre 1933",
+           "_name": "La carta de Zweig a Kayser: 30 de Noviembre 1933"
+          },
+          {
+           "guid": "8C71E338-7233-5876-B3D8-8B072725E49F",
+           "name": "Los primeros pasos como escritor – Zweig y Herzl",
+           "_name": "Los primeros pasos como escritor &#8211; Zweig y Herzl"
+          },
+          {
+           "guid": "464AAD88-DF79-75FE-4CAE-3B36EF5DDECB",
+           "name": "La carta de Zweig a Martin Buber sobre judaísmo y sionismo",
+           "_name": "La carta de Zweig a Martin Buber sobre juda&#237;smo y sionismo"
+          }
+         ]
+        },
+        {
+         "guid": "01E77DF3-5CC2-78A4-BBE6-E910C492636C",
+         "name": "La carta de Zweig a Kayser: 30 de Noviembre 1933",
+         "data": "<p dir=\"LTR\">Antes de 1933, Rudolf Kayser era el editor principal del <i>Neue Rundschau</i>, la revista literaria de más influencia publicada por el grupo editorial S. Fischer. Kayser mantenía contactos con muchos autores en Alemán, entre los cuales Stefan Zweig. En esta carta, escrita en Londres, Zweig se refiere a sus planes de dejar de cooperar con Fischer, que luego de la toma del poder por los Nazis, estaba por cancelar todos los contratos con autores Judíos. Además, menciona el hecho que se ve obligado a abandonar su casa y sus colecciones, y que tiene que comenzar una nueva vida, cansado tal como está. Zweig menciona el gran éxito de la biografía de María Antonieta y su monografía sobre Erasmo de Rotterdam, cuyo destino Zweig consideraba semejante al suyo: un intelectual débil en tiempos difíciles.</p>\n<p dir=\"LTR\">&#160;</p>\n<p dir=\"RTL\">.</p>\n<p dir=\"RTL\">30.11.1933</p>\n<p dir=\"LTR\"><span>Querido Dr. Kayser,</span></p>\n<p dir=\"LTR\"><span>Su carta me emocionó profundamente. Me llegó en un momento terrible. Como usted, me he estado apegando al \"camino intermedio\" y no he publicado ni una sola frase para evadir mi conflicto interno.. (Sin embargo) no me fue permitido, ya que el Börsenblatt publicó mi carta a Insel sin el título, y desde entonces se me considera un traidor entre los emigrantes. Como un acto de venganza uno de los extremistas publicó una carta privada que escribí, y ahora circulan chismes sobre mí – Thomas Mann se encontró en una situación semejante pero su éxito probó que tenía razón. Pronto [me encontraré] sin patria. No puedo quedarme en Salzburg, una pequeña ciudad de lo más Antisemita, cerca de la frontera alemana, sin estar marcadamente limitado: y así, estoy perdiendo mi hogar, mis libros, mis colecciones, y tengo que comenzar una vida completamente nueva, cansado tal como estoy. Lo único [positivo] es que mi situación económica es segura en el futuro cercano. <i>María Antonieta</i> me ha dado la independencia de no tener que ganar dinero durante un año o dos, y dado todo lo que estoy perdiendo por las circunstancias, es beneficioso no tener preocupaciones económicas aberrantes. Mucho peor es [la situación] de otros – fui traicionado por amigos por una pequeña sensación en los periódicos, y otros me han decepcionado - ¿habré tratado esto correctamente? El dicho más sabio es este: lo que un Judío hace hoy en día es siempre malo. Mi consuelo es un pequeño libro sobre Erasmo, la tragedia de un hombre frágil y débil que se encuentra [atascado] en el medio y es derrotado por los fanáticos: al hacerlo, de alguna manera arrojo el destino interior al espejo.</span></p>\n<p dir=\"LTR\"><span>He estado algún tiempo acá en Londres (voy a escribir une <i>Mary Stuart</i>) y la vida es amena. La indiferencia de la gente, que me solía molestar, me agrada ahora: las personas no se preocupan por el prójimo. Estoy pensando seriamente en la posibilidad de mudarme aquí si llega a ser necesario, pero comprendo plenamente su retraimiento: aquí tampoco uno no es tomado en serio y probablemente en ningún otro lugar. Si regreso, quizás pueda hacer algo por su <i>Spinoza</i> y por su nuevo libro – he estado pensando en usted a menudo. A través del silencio nos entendemos de la mejor manera.</span></p>\n<p dir=\"LTR\"><span>Mi dirección es nuevamente Salzburg (pero espero que no por mucho tiempo. Ya no puedo aguantar sus caras llenas de odio). Bienaventurados las personas indiferentes aquí que pueden gozar de gatos, fútbol y whiskey: nosotros mismos somos complicados de sobra. Mis mejores deseos y coraje y coraje!</span></p>\n<p dir=\"LTR\"><span>Muy cordialmente</span></p>\n<p dir=\"LTR\"><span>Stefan Zweig</span></p>\n",
+         "attachments": [
+          {
+           "guid": "15216BE8-C206-F0EF-EAB9-A50895A1A9D2",
+           "AttachmentEntries": {
+            "attachmentEntryID": "575819C1-13EF-C083-1FDD-72083FD32601"
+           },
+           "objectID": "01E77DF3-5CC2-78A4-BBE6-E910C492636C",
+           "name": "Carta de Zweig a Kayser, p. 1, BNI.jpg",
+           "attachmentType": "1",
+           "location": "01E77DF3-5CC2-78A4-BBE6-E910C492636C/CartadeZweigaKayserp.1BNI.jpg",
+           "dataLength": "451131",
+           "format": ".jpg"
+          },
+          {
+           "guid": "30E28629-260B-6064-5177-976D931D0D72",
+           "AttachmentEntries": {
+            "attachmentEntryID": "575819C1-13EF-C083-1FDD-72083FD32601"
+           },
+           "objectID": "01E77DF3-5CC2-78A4-BBE6-E910C492636C",
+           "name": "Carta de Zweig a Kayser, p. 2, BNI.jpg",
+           "attachmentType": "1",
+           "location": "01E77DF3-5CC2-78A4-BBE6-E910C492636C/CartadeZweigaKayserp.2BNI.jpg",
+           "dataLength": "438653",
+           "format": ".jpg"
+          }
+         ],
+         "type": "default",
+         "parent": {
+          "guid": "D6C48A53-A866-3508-8FCC-68CED1AA200F",
+          "name": "Los documentos de Zweig en la BNI"
+         },
+         "hasChronologicalChildren": false,
+         "children": [],
+         "brothers": [
+          {
+           "guid": "4FB68FFB-D884-EE6A-4A8B-2AF40CD10E3B",
+           "name": "La carta de suicidio de Zweig",
+           "_name": "La carta de suicidio de Zweig"
+          },
+          {
+           "guid": "043D9139-9007-60EF-7560-FCE81E7D244D",
+           "name": "El mundo de ayer",
+           "_name": "El mundo de ayer"
           },
           {
            "guid": "8C71E338-7233-5876-B3D8-8B072725E49F",
@@ -6385,6 +6269,11 @@
            "guid": "043D9139-9007-60EF-7560-FCE81E7D244D",
            "name": "El mundo de ayer",
            "_name": "El mundo de ayer"
+          },
+          {
+           "guid": "01E77DF3-5CC2-78A4-BBE6-E910C492636C",
+           "name": "30 de Noviembre 1933",
+           "_name": "La carta de Zweig a Kayser: 30 de Noviembre 1933"
           },
           {
            "guid": "464AAD88-DF79-75FE-4CAE-3B36EF5DDECB",
@@ -6715,7 +6604,7 @@
               {
                "guid": "50F6B590-8A6C-A11A-E704-EB7A6C61EF9A",
                "name": ":4: Stefan Zweig en la Primera Guerra Mundial",
-               "data": "<p><span><span><span>Al estallar la Primera Guerra Mundial, Zweig, que era un patriota austríaco, escribió artículos en su apoyo. Zweig se incorporó al servicio militar y sirvió en los Archivos Austríacos del Ministerio de Guerra. Habiendo sido testigo de los horrores del conflicto, sufrió un gran cambio y escribió el drama </span></span><i><span><span>Jeremías</span></span></i><span><span>, donde expresaba una posición marcadamente crítica con la contienda. La obra fue celebrada por su amigo el escritor Thomas Mann. Zweig adoptó una postura pacifista, como lo hizo otro de sus amigos, el novelista francés Romain Rolland. Zweig se mudó a Suiza hasta el final de la guerra y siguió siendo un pacifista toda su vida, apoyando la idea de una Europa unida.</span></span></span></p>\n",
+               "data": "<p><span><span><span>Al estallar la Primera Guerra Mundial, Zweig, que era un patriota austríaco, escribió artículos en su apoyo. Zweig se incorporó al servicio militar y sirvió en los Archivos Austríacos del Ministerio de Guerra. Habiendo sido testigo de los horrores del conflicto, sufrió un gran cambio y escribió el drama </span></span><i><span><span>Jeremías</span></span></i><span><span>, donde expresaba una posición marcadamente crítica con la contienda. La obra fue celebrada por su amigo el escritor Thomas Mann. Zweig adoptó una postura pacifista, como lo hizo otro de sus amigos, el novelista francés Romain Rolland. Zweig se mudó a Suiza hasta el final de la guerra y siguió siendo un pacifista toda su vida, apoyando la idea de una Europa unida.</span></span></span></p>\n<p>&#160;</p>\n<p><span><span><span>video de YouTube: La Primera Guerra Mundial.</span></span></span></p>\n",
                "attachments": [
                 {
                  "guid": "309A4B84-25F1-5E6C-4540-58DF114D8BD3",
@@ -6805,7 +6694,7 @@
                   {
                    "guid": "70F1F07B-915B-F430-74FC-A0425393D6E4",
                    "name": ":6: Los nazis llegan al poder",
-                   "data": "<p><span><span><span>Cuando Hitler llega al poder en 1933, los libros de Zweig son condenados y luego prohibidos. El fascismo también ganaba terreno en Austria y cuando la policía fue a registrar la casa de Zweig, la abandonó para no volver jamás. En 1938 se divorció y se marchó a vivir a Londres. Más tarde escribió que durante esa época sentía pesadas nubes cerniéndose sobre él. Zweig dispersó sus documentos y vendió su colección de manuscritos.</span></span></span></p>\n",
+                   "data": "<p><span><span><span>Cuando Hitler llega al poder en 1933, los libros de Zweig son condenados y luego prohibidos. El fascismo también ganaba terreno en Austria y cuando la policía fue a registrar la casa de Zweig, la abandonó para no volver jamás. En 1938 se divorció y se marchó a vivir a Londres. Más tarde escribió que durante esa época sentía pesadas nubes cerniéndose sobre él. Zweig dispersó sus documentos y vendió su colección de manuscritos.</span></span></span></p>\n<p>&#160;</p>\n<p><span><span><span>video de YouTube: Los nazis llegan al poder (en Inglés).</span></span></span></p>\n",
                    "attachments": [
                     {
                      "guid": "F6B8DBDC-8275-4567-8611-0034DF6FA78A",
@@ -6949,7 +6838,7 @@
                           {
                            "guid": "00CAB613-4C62-F66B-6D7C-36493C9FC1A7",
                            "name": ":10: La casa en Petrópolis",
-                           "data": "<p><span><span><span>La casa de los Zweig en Brasil se convirtió más tarde en un museo y hoy se la conoce como Casa Stefan Zweig.</span></span></span></p>\n",
+                           "data": "<p><span><span><span>La casa de los Zweig en Brasil se convirtió más tarde en un museo y hoy se la conoce como Casa Stefan Zweig.</span></span></span></p>\n<p>&#160;</p>\n<p><span><span><span>video de YouTube: La Última Casa de Stefan Zweig (en Inglés).</span></span></span></p>\n",
                            "attachments": [
                             {
                              "guid": "B2BCE876-AD67-D09B-94BB-31B273DC1817",
@@ -7047,7 +6936,7 @@
       {
        "guid": "0D46F88A-0E6D-309A-FCEF-E7D11C0DEC02",
        "name": "Un filósofo y crítico",
-       "data": "<p><span><span><span>La filosofía de Benjamin tiene varias fuentes: la Estética, la teoría marxista, la filosofía de Theodore Adorno y la Escuela de Frankfurt, además de la influencia del misticismo judío tal como lo conoció a través de las obras de Gershom Scholem. Hoy en día, Walter Benjamin es considerado un crítico decisivo de las tendencias intelectuales del siglo XX en Occidente, un pensador que vio el proletariado como la fuerza central en el ámbito histórico y cultural, que comprendió el significado de la ciudad en percepciones modernistas y la nueva experiencia humana, y que creyó con firmeza en la importancia de la traducción como acto cultural.</span></span></span><span><span></span></span></p>\n<p><span><span>&#160;</span></span></p>\n<p><span><span><span>Fotografía de la Escuela de Frankfurt: Horkheimer (adelante, izquierda), Adorno (adelante, derecha) y Habermas (al fondo, derecha).</span></span></span></p>\n",
+       "data": "<p><span><span><span>La filosofía de Benjamin tiene varias fuentes: la Estética, la teoría marxista, la filosofía de Theodore Adorno y la Escuela de Frankfurt, además de la influencia del misticismo judío tal como lo conoció a través de las obras de Gershom Scholem. Hoy en día, Walter Benjamin es considerado un crítico decisivo de las tendencias intelectuales del siglo XX en Occidente, un pensador que vio el proletariado como la fuerza central en el ámbito histórico y cultural, que comprendió el significado de la ciudad en percepciones modernistas y la nueva experiencia humana, y que creyó con firmeza en la importancia de la traducción como acto cultural.</span></span></span></p>\n<p>&#160;</p>\n<p><span><span><span>Fotografía de la Escuela de Frankfurt: Horkheimer (adelante, izquierda), Adorno (adelante, derecha) y Habermas (al fondo, derecha).</span></span></span></p>\n<p><span><span><span>video de YouTube: Las Arcadas de París (en Inglés).</span></span></span></p>\n",
        "attachments": [
         {
          "guid": "EB726725-1E9A-045D-6C6E-86E3B2ED7FBB",
@@ -7398,7 +7287,7 @@
       {
        "guid": "95934A56-2137-1032-C7F4-2BD7F29A375E",
        "name": "Precursor del siglo XXI",
-       "data": "<p><span><span><span>Walter Benjamin prestó mucha atención a la fotografía, viéndola como un nuevo medio que tiene la capacidad de redefinir la distancia tanto entre personas como entre estas y los objetos. Cuestiones de proximidad y distancia, de integración y alienación, de la transferencia de conceptos y percepciones entre personas y culturas, y el impacto de la perspectiva histórica subjetiva en la creatividad literaria, así como en el mundo en general, además de la tensión entre la eternidad y el apocalipsis o la sociedad refinada ante las fuerzas primarias de violencia y destrucción, todos estos temas hacen que Walter Benjamin sea un pensador sumamente relevante para el comienzo del siglo XXI.</span></span></span></p>\n",
+       "data": "<p><span><span><span>Walter Benjamin prestó mucha atención a la fotografía, viéndola como un nuevo medio que tiene la capacidad de redefinir la distancia tanto entre personas como entre estas y los objetos. Cuestiones de proximidad y distancia, de integración y alienación, de la transferencia de conceptos y percepciones entre personas y culturas, y el impacto de la perspectiva histórica subjetiva en la creatividad literaria, así como en el mundo en general, además de la tensión entre la eternidad y el apocalipsis o la sociedad refinada ante las fuerzas primarias de violencia y destrucción, todos estos temas hacen que Walter Benjamin sea un pensador sumamente relevante para el comienzo del siglo XXI.</span></span></span></p>\n<p>&#160;</p>\n<p><span><span><span>video de YouTube: La Obra de Arte en la Era de la Reproducción Mecánica, Walter Benjamin, sección XV, (en Inglés).&#160;</span></span></span></p>\n",
        "attachments": [
         {
          "guid": "93BD157E-3C48-E682-783F-8595C77D6906",
@@ -7669,31 +7558,19 @@
         {
          "guid": "07D1614D-6B22-3067-3DD4-4225322EB5C4",
          "name": "Informe de las autoridades españolas acerca del destino de Benjamin",
-         "data": "<p><span><span><span>Esta carta, encontrada en los archivos de la Biblioteca Nacional de Israel, fue enviada por la Comisaría de Investigación y Vigilancia en Figueras a Max Horkheimer, un colega y amigo de Benjamin en Nueva York, que le había conseguido un visado de entrada a EE.UU. Sin duda, la carta fue escrita respondiendo a las preguntas de Horkheimer acerca del destino de su amigo, que tenía que llegar a Nueva York vía España y Portugal. La carta obviamente trata de exonerar a las autoridades españolas de cualquier responsabilidad por el destino de Benjamin, asegurando que su muerte se debió a su deplorable estado físico. La carta no contiene ninguna mención a que las autoridades españolas estaban a punto de deportarle a Francia ni al hecho de que probablemente se hubiera suicidado.</span></span></span><span><span></span></span></p>\n<p><span><span>&#160;</span></span></p>\n<p><span><span><span>Dirección General de Seguridad.</span></span></span><span><span></span></span></p>\n<p><span><span><span>COMISARÍA DE INVESTIGACIÓN Y VIGILANCIA DE LA FRONTERA ORIENTAL.</span></span></span><span><span></span></span></p>\n<p><span><span><span>FIGUERAS (Gerona) España.</span></span></span><span><span></span></span></p>\n<p><span><span><span>Comisario Jefe</span></span></span><span><span></span></span></p>\n<p><span><span><span>30 de octubre de 1940</span></span></span><span><span></span></span></p>\n<p><span><span><span>Sr. Don MAX HORKHEIMER</span></span></span><span><span></span></span></p>\n<p><span><span><span>Nueva York</span></span></span><span><span></span></span></p>\n<p><span><span>&#160;</span></span></p>\n<p><span><span><span>Muy señor Mio: En contestación a su carta 11 actual referente al Doctor en Filosofía Don BENJAMIN WALTER, particípole que éste señor entró en España por Port-Bou, por la montaña el 25 de septiembre último a las 20 horas con una autorización de Entradaparalos expedida por el Consulado Americano en Marsella y visado español de tránsito para Portugal; manifestando dicho señor que había salido de Francia clandestinamente por carecer de autorización y que venía andando desde Banyuls (Francia) y que había cogido una insolación y se encontraba bastante enfermo. En vista de ello, pasó a hospedarse a un Hotel e inmediatamente fué visitado por un Médico de Port-Bou, cuyo facultativo certificó que dicho Sr. Walter padecía una congestión cerebral y catarro bronquial que le obliga a guardar cama. El mismo Medico anterior, certifica que don Benjamin Walter ha fallecido a las 22 horas del día 26 del mismo mes a consecuencia de una hemorragia cerebral. Dicho señor no presto ninguna declaración.</span></span></span><span><span></span></span></p>\n<p><span><span><span>Como puede V. ver por lo del certificado médico, no se trata de suicidio, sino de muerte natural.</span></span></span><span><span></span></span></p>\n<p><span><span><span>En dicha desgracia intervino el Juzgado Municipal de Port-Bou, haciéndose cargo del equipaje del Sr. Walter consistente en una cartera de piel de las usadas por los hombres de negocios; un reloj usado de caballero; una pipa; seis fotografías; una radiografía; unos lentes; Varias cartas; periódicos y algunos pocos papeles mas que se ignora su contenido, como también alguna cantidad en dinero, de la que deducidos los gastos ocasionados, quedan actualmente 273 pesetas.</span></span></span><span><span></span></span></p>\n<p><span><span><span>Todo lo anteriormente reseñado se encuentra en el Juzgado de Instrucción de Figueras, a disposición de sus herederos; por lo tanto puede V. dirigirse a dicho Juzgado interesando la forma de recuperar dichos objetos y demás datos que le interese. Figueras pertenece a ésta provincia y está próximo a Port-Bou.</span></span></span><span><span></span></span></p>\n<p><span><span><span>Queda de V. affmo. S.S.</span></span></span><span><span></span></span></p>\n<p><span><span><span>P.A.</span></span></span></p>\n",
+         "data": "<p><span><span><span>Esta carta, encontrada en los archivos de la Biblioteca Nacional de Israel, fue enviada por la Comisaría de Investigación y Vigilancia en Figueras a Max Horkheimer, un colega y amigo de Benjamin en Nueva York, que le había conseguido un visado de entrada a EE.UU. Sin duda, la carta fue escrita respondiendo a las preguntas de Horkheimer acerca del destino de su amigo, que tenía que llegar a Nueva York vía España y Portugal. La carta obviamente trata de exonerar a las autoridades españolas de cualquier responsabilidad por el destino de Benjamin, asegurando que su muerte se debió a su deplorable estado físico. La carta no contiene ninguna mención a que las autoridades españolas estaban a punto de deportarle a Francia ni al hecho de que probablemente se hubiera suicidado.</span></span></span></p>\n<p>&#160;</p>\n<p><span><span><span>Dirección General de Seguridad.</span></span></span></p>\n<p><span><span><span>COMISARÍA DE INVESTIGACIÓN Y VIGILANCIA DE LA FRONTERA ORIENTAL.</span></span></span></p>\n<p><span><span><span>FIGUERAS (Gerona) España.</span></span></span></p>\n<p><span><span><span>Comisario Jefe</span></span></span></p>\n<p><span><span><span>30 de octubre de 1940</span></span></span></p>\n<p><span><span><span>Sr. Don MAX HORKHEIMER</span></span></span></p>\n<p><span><span><span>Nueva York</span></span></span></p>\n<p>&#160;</p>\n<p><span><span><span>Muy señor Mio: En contestación a su carta 11 actual referente al Doctor en Filosofía Don BENJAMIN WALTER, particípole que éste señor entró en España por Port-Bou, por la montaña el 25 de septiembre último a las 20 horas con una autorización de Entradaparalos expedida por el Consulado Americano en Marsella y visado español de tránsito para Portugal; manifestando dicho señor que había salido de Francia clandestinamente por carecer de autorización y que venía andando desde Banyuls (Francia) y que había cogido una insolación y se encontraba bastante enfermo. En vista de ello, pasó a hospedarse a un Hotel e inmediatamente fué visitado por un Médico de Port-Bou, cuyo facultativo certificó que dicho Sr. Walter padecía una congestión cerebral y catarro bronquial que le obliga a guardar cama. El mismo Medico anterior, certifica que don Benjamin Walter ha fallecido a las 22 horas del día 26 del mismo mes a consecuencia de una hemorragia cerebral. Dicho señor no presto ninguna declaración.</span></span></span></p>\n<p><span><span><span>Como puede V. ver por lo del certificado médico, no se trata de suicidio, sino de muerte natural.</span></span></span></p>\n<p><span><span><span>En dicha desgracia intervino el Juzgado Municipal de Port-Bou, haciéndose cargo del equipaje del Sr. Walter consistente en una cartera de piel de las usadas por los hombres de negocios; un reloj usado de caballero; una pipa; seis fotografías; una radiografía; unos lentes; Varias cartas; periódicos y algunos pocos papeles mas que se ignora su contenido, como también alguna cantidad en dinero, de la que deducidos los gastos ocasionados, quedan actualmente 273 pesetas.</span></span></span></p>\n<p><span><span><span>Todo lo anteriormente reseñado se encuentra en el Juzgado de Instrucción de Figueras, a disposición de sus herederos; por lo tanto puede V. dirigirse a dicho Juzgado interesando la forma de recuperar dichos objetos y demás datos que le interese. Figueras pertenece a ésta provincia y está próximo a Port-Bou.</span></span></span></p>\n<p><span><span><span>Queda de V. affmo. S.S.</span></span></span></p>\n<p><span><span><span>P.A.</span></span></span></p>\n",
          "attachments": [
           {
-           "guid": "23E2F134-6E25-E093-F533-595523937D2E",
+           "guid": "449429ED-EBEB-B48F-9EDA-585017F57FD6",
            "AttachmentEntries": {
             "attachmentEntryID": "1DA4D945-9A0E-DA18-E1FF-FFF890B23976"
            },
            "objectID": "07D1614D-6B22-3067-3DD4-4225322EB5C4",
-           "name": "Copia de carta de las autoridades Espa&#241;olas a Horkheimer hecha por Scholem, parte 2, BNI.png",
+           "name": "Copia de carta de las autoridades Espa&#241;olas a Horkheimer hecha por Scholem, BNI.jpg",
            "attachmentType": "1",
-           "location": "07D1614D-6B22-3067-3DD4-4225322EB5C4/CopiadecartadelasautoridadesEspaolasaHorkheimerhechaporScholemparte2BNI.png",
-           "dataLength": "545972",
-           "format": ".png"
-          },
-          {
-           "guid": "879E3BA5-589F-2DF2-C898-9CD19FF4E66B",
-           "AttachmentEntries": {
-            "attachmentEntryID": "1DA4D945-9A0E-DA18-E1FF-FFF890B23976"
-           },
-           "objectID": "07D1614D-6B22-3067-3DD4-4225322EB5C4",
-           "name": "Copia de carta de las autoridades Espa&#241;olas a Horkheimer hecha por Scholem, part3 1, BNI.png",
-           "attachmentType": "1",
-           "location": "07D1614D-6B22-3067-3DD4-4225322EB5C4/CopiadecartadelasautoridadesEspaolasaHorkheimerhechaporScholempart31BNI.png",
-           "dataLength": "493769",
-           "format": ".png"
+           "location": "07D1614D-6B22-3067-3DD4-4225322EB5C4/CopiadecartadelasautoridadesEspaolasaHorkheimerhechaporScholemBNI.jpg",
+           "dataLength": "273968",
+           "format": ".jpg"
           }
          ],
          "type": "default",
@@ -7836,7 +7713,7 @@
   },
   {
    "guid": "A9033D67-7C48-B1E8-59A7-6F4E372E0EA7",
-   "name": "Los escritos teológicos de Newton",
+   "name": "Escritos teológicos de Newton",
    "data": "<p><span>El matemático y físico Isaac Newton (1642-1727) fue una figura central de la Revolución Científica.</span></p>\n<p><span>La Biblioteca Nacional de Israel conserva en sus colecciones 7.500 documentos escritos por Newton de su puño y letra que muestran un aspecto poco conocido de su personalidad: además de científico, Newton era un fervoroso creyente cristiano, aunque poco convencional, especialmente interesado en las Escrituras. Creía que conocer los textos en profundidad le permitiría descubrir los secretos del Fin de los Tiempos, y calcular la fecha de la Segunda Venida de Cristo y del Apocalipsis. Especial importancia tiene el gran interés de Newton por fuentes judías, así como su opinión acerca de la función de los judíos en el proceso de salvación.</span></p>\n",
    "attachments": [
     {
@@ -7863,7 +7740,7 @@
      "type": "default",
      "parent": {
       "guid": "A9033D67-7C48-B1E8-59A7-6F4E372E0EA7",
-      "name": "Los escritos teológicos de Newton"
+      "name": "Escritos teológicos de Newton"
      },
      "hasChronologicalChildren": true,
      "children": [
@@ -7897,7 +7774,7 @@
         {
          "guid": "05C16366-E98F-8859-A0D8-AA8FE3251A80",
          "name": ":2: Newton el heterodoxo",
-         "data": "<p><span>Los extensos estudios que Newton realizó en el campo de la doctrina cristiana lo llevaron a la conclusión de que el dogma de la Trinidad era una corrupción de la doctrina bíblica original. Newton creía que la verdadera enseñanza de las Escrituras se basaba en un único ser divino, Dios Padre, mientras que Cristo era el hijo de Dios, carente de padre terrenal.</span></p>\n<p><span>Newton tuvo que ocultar sus creencias, pues sus contemporáneos las habrían considerado heréticas. Sin embargo, él creía que profesaba la fe verdadera.</span></p>\n<p><span>[Sobre la imagen:]</span></p>\n<p><span>Par. 1 – La [palabra] Dios no se encuentra en ninguna parte de las Escrituras significando más que las tres personas a la vez.</span></p>\n<p><span>Par. 3 – Cada vez que se dice en las Escrituras que hay un único Dios, se refiere al Padre</span></p>\n<p>&#160;</p>\n",
+         "data": "<p><span>Los extensos estudios que Newton realizó en el campo de la doctrina cristiana lo llevaron a la conclusión de que el dogma de la Trinidad era una corrupción de la doctrina bíblica original. Newton creía que la verdadera enseñanza de las Escrituras se basaba en un único ser divino, Dios Padre, mientras que Cristo era el hijo de Dios, carente de padre terrenal.</span></p>\n<p><span>Newton tuvo que ocultar sus creencias, pues sus contemporáneos las habrían considerado heréticas. Sin embargo, él creía que profesaba la fe verdadera.</span></p>\n<p><span>[Sobre la imagen:]</span></p>\n<p><span>Par. 1 – La [palabra] Dios no se encuentra en ninguna parte de las Escrituras significando más que las tres personas a la vez.</span></p>\n<p><span>Par. 3 – Cada vez que se dice en las Escrituras que hay un único Dios, se refiere al Padre</span></p>\n<p>&#160;</p>\n<p>video de YouTube:&#160;Isaac Newton rechaza la Trinidad (en Inglés).</p>\n",
          "attachments": [
           {
            "guid": "FA7282D2-54E2-7295-509E-755A910D0D89",
@@ -8097,7 +7974,7 @@
      "type": "default",
      "parent": {
       "guid": "A9033D67-7C48-B1E8-59A7-6F4E372E0EA7",
-      "name": "Los escritos teológicos de Newton"
+      "name": "Escritos teológicos de Newton"
      },
      "hasChronologicalChildren": true,
      "children": [
@@ -8334,7 +8211,7 @@
      "type": "default",
      "parent": {
       "guid": "A9033D67-7C48-B1E8-59A7-6F4E372E0EA7",
-      "name": "Los escritos teológicos de Newton"
+      "name": "Escritos teológicos de Newton"
      },
      "hasChronologicalChildren": true,
      "children": [
@@ -8661,28 +8538,28 @@
     },
     {
      "guid": "FB8F983C-DEC9-E871-658F-868ABD5B1FC3",
-     "name": "Un rollo de la Torá de España",
-     "_name": "Un rollo de la Torá de España"
+     "name": "La Torá española",
+     "_name": "La Torá española"
     },
     {
      "guid": "D4C41630-D4E6-107B-C285-E728DB90E00B",
-     "name": "Mapas de Tierra Santa en la Colección Laor",
-     "_name": "Mapas de Tierra Santa en la Colección Laor"
+     "name": "Mapas de Tierra Santa",
+     "_name": "Mapas de Tierra Santa"
     },
     {
      "guid": "0A4643E2-FE0F-B2CE-3595-29CCBCE54838",
-     "name": "La colección Islámica de la BNI",
-     "_name": "La colección Islámica de la BNI"
+     "name": "La colección Islámica",
+     "_name": "La colección Islámica"
     },
     {
      "guid": "E07DE180-4F9F-F5EF-5597-F1B13CA9F5B3",
-     "name": "El comentario de Maimónides sobre la Mishná",
-     "_name": "El comentario de Maimónides sobre la Mishná"
+     "name": "El comentario sobre la Mishná de Maimónides",
+     "_name": "El comentario sobre la Mishná de Maimónides"
     },
     {
      "guid": "127359C4-ED56-148C-0494-212AB1F43A86",
-     "name": "El manuscrito cabalístico de Lonzano",
-     "_name": "El manuscrito cabalístico de Lonzano"
+     "name": "La Cábala según Menahem de Lonzano",
+     "_name": "La Cábala según Menahem de Lonzano"
     },
     {
      "guid": "009AFF8A-7D15-F90B-EBDE-1B572F9D7ED5",
@@ -8699,7 +8576,7 @@
   {
    "guid": "951EE7CF-B79F-21B4-D7ED-DE07FCD7CC10",
    "name": "La Biblioteca Nacional de Israel",
-   "data": "<p><span><span><span>La Biblioteca Nacional de Israel es el depósito del legado espiritual Judío. Conserva la memoria de la cultura Judía y del Pueblo Judío a través de la historia, desde su principio hasta el actual Estado de Israel.</span></span></span><span><span></span></span></p>\n<p><span><span><span>Como tal, la Biblioteca se empeña constantemente en coleccionar todos los materiales, del pasado como del presente, que tienen que ver con el Pueblo Judío y la Tierra de Israel.</span></span></span></p>\n",
+   "data": "<p><span><span><span>La Biblioteca Nacional de Israel es el depósito del legado espiritual Judío. Conserva la memoria de la cultura Judía y del Pueblo Judío a través de la historia, desde su principio hasta el actual Estado de Israel.</span></span></span></p>\n<p><span><span><span>Como tal, la Biblioteca se empeña constantemente en coleccionar todos los materiales, del pasado como del presente, que tienen que ver con el Pueblo Judío y la Tierra de Israel.</span></span></span></p>\n",
    "attachments": [
     {
      "guid": "6FA65F56-86DE-38F2-A5F1-860216C9AAEE",
@@ -8707,9 +8584,9 @@
       "attachmentEntryID": "30A9BA18-060F-BF58-FA11-48D08F170810"
      },
      "objectID": "951EE7CF-B79F-21B4-D7ED-DE07FCD7CC10",
-     "name": "La Biblioteca Nacional de Israel, Jerusal&#233;n.jpg",
+     "name": "La Biblioteca Nacional de Israel, Jerusal&#233;n (foto, Asaf Pinchuk).jpg",
      "attachmentType": "1",
-     "location": "951EE7CF-B79F-21B4-D7ED-DE07FCD7CC10/LaBibliotecaNacionaldeIsraelJerusaln.jpg",
+     "location": "951EE7CF-B79F-21B4-D7ED-DE07FCD7CC10/LaBibliotecaNacionaldeIsraelJerusaln(fotoAsafPinchuk).jpg",
      "dataLength": "78151",
      "format": ".jpg"
     },
@@ -8759,60 +8636,12 @@
        "data": "<p><span>La colección de Judaica es una de las más importantes del mundo. Contiene una gran cantidad de materiales sobre el Judaísmo, los Judíos, la Cultura Judía tal como se refleja en escritos, en música y en el arte.</span></p>\n",
        "attachments": [
         {
-         "guid": "AF3CBC17-032A-A35F-D6DB-EA30709B9A6C",
-         "AttachmentEntries": {
-          "attachmentEntryID": "1FC045DC-525E-F4B6-3131-DD71C6068132"
-         },
-         "objectID": "99BCF440-FBE1-A1E7-1B2F-1E73F169FE87",
-         "name": "Aut&#243;grafo de Maim&#243;nides, Seder Mo&apos;ed,  P&#225;gina 72, detalles, BNI.jpg",
-         "attachmentType": "1",
-         "location": "99BCF440-FBE1-A1E7-1B2F-1E73F169FE87/AutgrafodeMaimnidesSederMoedPgina72detallesBNI.jpg",
-         "dataLength": "165770",
-         "format": ".jpg"
-        },
-        {
-         "guid": "1EF72042-5905-EFA0-E3F7-225AB0BABF51",
-         "AttachmentEntries": {
-          "attachmentEntryID": "1FC045DC-525E-F4B6-3131-DD71C6068132"
-         },
-         "objectID": "99BCF440-FBE1-A1E7-1B2F-1E73F169FE87",
-         "name": "Maimonides, Mishn&#233; Torah, 1300-1350, &apos;Ahava&apos; (Amor), detalle, BNI.jpg",
-         "attachmentType": "1",
-         "location": "99BCF440-FBE1-A1E7-1B2F-1E73F169FE87/MaimonidesMishnTorah1300-1350Ahava(Amor)detalleBNI.jpg",
-         "dataLength": "182522",
-         "format": ".jpg"
-        },
-        {
-         "guid": "8B38EA48-0D1C-8FA0-BBC3-789D356AF878",
-         "AttachmentEntries": {
-          "attachmentEntryID": "1FC045DC-525E-F4B6-3131-DD71C6068132"
-         },
-         "objectID": "99BCF440-FBE1-A1E7-1B2F-1E73F169FE87",
-         "name": "Stefan Zweig&apos;s Letter to Martin Buber, 24.1.1917, p.1.jpg",
-         "attachmentType": "1",
-         "location": "99BCF440-FBE1-A1E7-1B2F-1E73F169FE87/StefanZweigsLettertoMartinBuber24.1.1917p.1.jpg",
-         "dataLength": "74857",
-         "format": ".jpg"
-        },
-        {
-         "guid": "21828987-441F-A2CB-D39D-4BEB229C92AD",
-         "AttachmentEntries": {
-          "attachmentEntryID": "1FC045DC-525E-F4B6-3131-DD71C6068132"
-         },
-         "objectID": "99BCF440-FBE1-A1E7-1B2F-1E73F169FE87",
-         "name": "El cuaderno de Hebreo de Kafka, c. 1917, BNI.jpg",
-         "attachmentType": "1",
-         "location": "99BCF440-FBE1-A1E7-1B2F-1E73F169FE87/ElcuadernodeHebreodeKafkac.1917BNI.jpg",
-         "dataLength": "51333",
-         "format": ".jpg"
-        },
-        {
          "guid": "D1FCCAA3-B47F-D408-993B-5441F7FD6E19",
          "AttachmentEntries": {
           "attachmentEntryID": "1FC045DC-525E-F4B6-3131-DD71C6068132"
          },
          "objectID": "99BCF440-FBE1-A1E7-1B2F-1E73F169FE87",
-         "name": "Prayer for Rain, &apos;Tikun Ha-Geshem&apos;, Italy, NLI by shayesh on SoundCloud",
+         "name": "Rezo para la lluvia, &apos;Tikun Ha-Geshem&apos;, Italia, BNI",
          "attachmentType": "3",
          "location": "https://soundcloud.com/shayesh/prayer-for-rain-tikun-ha",
          "dataLength": "0",
@@ -8829,6 +8658,42 @@
          "location": "http://web.nli.org.il/sites/NLI/English/digitallibrary/gallery/jewish/Pages/default.aspx",
          "dataLength": "0",
          "format": ".aspx"
+        },
+        {
+         "guid": "C295AB87-C607-FD8A-EDBA-BDA4F8ACB5B8",
+         "AttachmentEntries": {
+          "attachmentEntryID": "1FC045DC-525E-F4B6-3131-DD71C6068132"
+         },
+         "objectID": "99BCF440-FBE1-A1E7-1B2F-1E73F169FE87",
+         "name": "Un contrato de casamiento Jud&#237;o (Ketub&#225;) de Trieste, Italia (1699EC), BNI.jpg",
+         "attachmentType": "1",
+         "location": "99BCF440-FBE1-A1E7-1B2F-1E73F169FE87/UncontratodecasamientoJudo(Ketub)deTriesteItalia(1699EC)BNI.jpg",
+         "dataLength": "214077",
+         "format": ".jpg"
+        },
+        {
+         "guid": "0C1DFBAE-1EF7-7E45-A99B-13C04596B24C",
+         "AttachmentEntries": {
+          "attachmentEntryID": "1FC045DC-525E-F4B6-3131-DD71C6068132"
+         },
+         "objectID": "99BCF440-FBE1-A1E7-1B2F-1E73F169FE87",
+         "name": "Un contrato de casamiento Jud&#237;o (Ketub&#225;) de Segura, cerca de Zaragoza (1480EC), BNI.jpg",
+         "attachmentType": "1",
+         "location": "99BCF440-FBE1-A1E7-1B2F-1E73F169FE87/UncontratodecasamientoJudo(Ketub)deSeguracercadeZaragoza(1480EC)BNI.jpg",
+         "dataLength": "128176",
+         "format": ".jpg"
+        },
+        {
+         "guid": "463892FA-BADA-23F8-F65D-BE5C5DD327EA",
+         "AttachmentEntries": {
+          "attachmentEntryID": "1FC045DC-525E-F4B6-3131-DD71C6068132"
+         },
+         "objectID": "99BCF440-FBE1-A1E7-1B2F-1E73F169FE87",
+         "name": "Un libro de rezos para los festivales, de la comunidad de Worms en Alemania (siglo XIII), fue utilizado hasta 1938, BNI.jpg",
+         "attachmentType": "1",
+         "location": "99BCF440-FBE1-A1E7-1B2F-1E73F169FE87/UnlibroderezosparalosfestivalesdelacomunidaddeWormsenAlemania(sigloXIII)fueutilizadohasta1938BNI.jpg",
+         "dataLength": "155614",
+         "format": ".jpg"
         }
        ],
        "type": "chronological",
@@ -8845,30 +8710,6 @@
          "name": ":2: Israel",
          "data": "<p><span>La colección de Israel sirve como repositorio de la \"memoria nacional\" del Estado de Israel y de la Tierra de Israel. Contiene todo el material privado y gubernamental publicado en Israel, además de efémera, material de Internet, fotografías y los archivos personales de artistas y figuras importantes en la cultura israelí.</span></p>\n",
          "attachments": [
-          {
-           "guid": "0828FD66-34E8-FDA5-7854-D4447356945A",
-           "AttachmentEntries": {
-            "attachmentEntryID": "5752447D-F92D-EE15-1685-FF49DF02037D"
-           },
-           "objectID": "F371557E-6759-37C4-D798-E6BDDA6B2AF5",
-           "name": "Schottlaender, &apos;Panorama des heiligen Landes&apos;, Breslau, circa 1900,  BNI.jpg",
-           "attachmentType": "1",
-           "location": "F371557E-6759-37C4-D798-E6BDDA6B2AF5/SchottlaenderPanoramadesheiligenLandesBreslaucirca1900BNI.jpg",
-           "dataLength": "256200",
-           "format": ".jpg"
-          },
-          {
-           "guid": "E092F4EA-2CFF-18B0-6F44-1E9DA5F3E799",
-           "AttachmentEntries": {
-            "attachmentEntryID": "5752447D-F92D-EE15-1685-FF49DF02037D"
-           },
-           "objectID": "F371557E-6759-37C4-D798-E6BDDA6B2AF5",
-           "name": "Adrichem, mapa de Jerusal&#233;n, Colonia, 1584,  BNI.jpg",
-           "attachmentType": "1",
-           "location": "F371557E-6759-37C4-D798-E6BDDA6B2AF5/AdrichemmapadeJerusalnColonia1584BNI.jpg",
-           "dataLength": "303458",
-           "format": ".jpg"
-          },
           {
            "guid": "881B8DAE-36CA-14F1-CAF0-06C9E89800B5",
            "AttachmentEntries": {
@@ -8892,6 +8733,30 @@
            "location": "http://web.nli.org.il/sites/NLI/English/digitallibrary/gallery/of-israel/Pages/default.aspx",
            "dataLength": "0",
            "format": ".aspx"
+          },
+          {
+           "guid": "906D603E-92DA-B832-1921-793BEB361D71",
+           "AttachmentEntries": {
+            "attachmentEntryID": "5752447D-F92D-EE15-1685-FF49DF02037D"
+           },
+           "objectID": "F371557E-6759-37C4-D798-E6BDDA6B2AF5",
+           "name": "Un afiche del Fondo Nacional Jud&#237;o fomentando la educaci&#243;n agr&#237;cola, BNI.jpg",
+           "attachmentType": "1",
+           "location": "F371557E-6759-37C4-D798-E6BDDA6B2AF5/UnafichedelFondoNacionalJudofomentandolaeducacinagrcolaBNI.jpg",
+           "dataLength": "227491",
+           "format": ".jpg"
+          },
+          {
+           "guid": "B063A62F-B64C-7564-82FE-93C654577840",
+           "AttachmentEntries": {
+            "attachmentEntryID": "5752447D-F92D-EE15-1685-FF49DF02037D"
+           },
+           "objectID": "F371557E-6759-37C4-D798-E6BDDA6B2AF5",
+           "name": "Un afiche anunciando un evento deportivo - la tercera Macabi&#225; en 1950, BNI.jpeg",
+           "attachmentType": "1",
+           "location": "F371557E-6759-37C4-D798-E6BDDA6B2AF5/Unaficheanunciandouneventodeportivo-laterceraMacabien1950BNI.jpeg",
+           "dataLength": "429858",
+           "format": ".jpeg"
           }
          ],
          "type": "chronological",
@@ -8909,42 +8774,6 @@
            "data": "<p><span>La colección de Islam y Medio Oriente trata extensamente los temas del Medio Oriente – en el pasado y en el presente – así como la cultura y la historia del Islam. La colección contiene materiales que tienen que ver con las lenguas clásicas del mundo islámico: Árabe, Pera y Turco, además de la literatura escrita en estas lenguas durante los siglos. La colección incluye libros, periódicos, material de archivo y una gran colección de 2,500 manuscritos árabes, persas y turcos.</span></p>\n",
            "attachments": [
             {
-             "guid": "48D0DC9F-0823-023C-CAE9-F3A185654562",
-             "AttachmentEntries": {
-              "attachmentEntryID": "ACC25518-D68F-D8F0-9669-9ECC0D3A1428"
-             },
-             "objectID": "DCC59C4C-8581-A2D2-7E52-A08855BCDEAC",
-             "name": "Jami, Regalo al Noble, escena en un jard&#237;n persa, BNI.jpg",
-             "attachmentType": "1",
-             "location": "DCC59C4C-8581-A2D2-7E52-A08855BCDEAC/JamiRegaloalNobleescenaenunjardnpersaBNI.jpg",
-             "dataLength": "256144",
-             "format": ".jpg"
-            },
-            {
-             "guid": "81A418D7-E745-ADE2-82A6-97B443F77E5F",
-             "AttachmentEntries": {
-              "attachmentEntryID": "ACC25518-D68F-D8F0-9669-9ECC0D3A1428"
-             },
-             "objectID": "DCC59C4C-8581-A2D2-7E52-A08855BCDEAC",
-             "name": "Shukri Bey Biltisi, Selim Nameh (El Libro de Selim), manuscrito-1524, BNI.jpg",
-             "attachmentType": "1",
-             "location": "DCC59C4C-8581-A2D2-7E52-A08855BCDEAC/ShukriBeyBiltisiSelimNameh(ElLibrodeSelim)manuscrito-1524BNI.jpg",
-             "dataLength": "179982",
-             "format": ".jpg"
-            },
-            {
-             "guid": "F968D182-FDA4-7FF8-11CF-56041DFA9AFB",
-             "AttachmentEntries": {
-              "attachmentEntryID": "ACC25518-D68F-D8F0-9669-9ECC0D3A1428"
-             },
-             "objectID": "DCC59C4C-8581-A2D2-7E52-A08855BCDEAC",
-             "name": "Un Cor&#225;n Andal&#250;si, siglo XII, BNI.jpg",
-             "attachmentType": "1",
-             "location": "DCC59C4C-8581-A2D2-7E52-A08855BCDEAC/UnCornAndalsisigloXIIBNI.jpg",
-             "dataLength": "133625",
-             "format": ".jpg"
-            },
-            {
              "guid": "F594C36E-66B1-9B9C-2871-A89B2DFB57AF",
              "AttachmentEntries": {
               "attachmentEntryID": "ACC25518-D68F-D8F0-9669-9ECC0D3A1428"
@@ -8955,6 +8784,30 @@
              "location": "http://web.nli.org.il/sites/NLI/English/digitallibrary/gallery/Islam-Collection/Pages/Id-Al-Adha--2012.aspx",
              "dataLength": "0",
              "format": ".aspx"
+            },
+            {
+             "guid": "93BB6BE7-D6F2-7562-C494-C1ED1ADDEEB7",
+             "AttachmentEntries": {
+              "attachmentEntryID": "ACC25518-D68F-D8F0-9669-9ECC0D3A1428"
+             },
+             "objectID": "DCC59C4C-8581-A2D2-7E52-A08855BCDEAC",
+             "name": "Manasik al-Khajj, rituales del Hajj (siglo XVIII), BNI.jpg",
+             "attachmentType": "1",
+             "location": "DCC59C4C-8581-A2D2-7E52-A08855BCDEAC/Manasikal-KhajjritualesdelHajj(sigloXVIII)BNI.jpg",
+             "dataLength": "116237",
+             "format": ".jpg"
+            },
+            {
+             "guid": "492689F2-3D4D-0C58-1988-9683810A0CCF",
+             "AttachmentEntries": {
+              "attachmentEntryID": "ACC25518-D68F-D8F0-9669-9ECC0D3A1428"
+             },
+             "objectID": "DCC59C4C-8581-A2D2-7E52-A08855BCDEAC",
+             "name": "Dala&apos;il al-Khayrat, un libro de rezos Isl&#225;mico, ilustrado, la colecci&#243;n Yahuda (siglo XVIII), BNI.jpg",
+             "attachmentType": "1",
+             "location": "DCC59C4C-8581-A2D2-7E52-A08855BCDEAC/Dalailal-KhayratunlibroderezosIslmicoilustradolacoleccinYahuda(sigloXVIII)BNI.jpg",
+             "dataLength": "185881",
+             "format": ".jpg"
             }
            ],
            "type": "chronological",
@@ -9180,9 +9033,9 @@
             "attachmentEntryID": "E5779799-A4D9-1AF5-7FFC-463D086A3164"
            },
            "objectID": "693D46A8-1A91-41DF-5FF3-A20010E8D386",
-           "name": "The library staff with Bergmann as director in the middle, around 1935, NLI.jpg",
+           "name": "El equipo de la biblioteca con Bergmann como director en el centro, c. 1935, BNI.jpg",
            "attachmentType": "1",
-           "location": "693D46A8-1A91-41DF-5FF3-A20010E8D386/ThelibrarystaffwithBergmannasdirectorinthemiddlearound1935NLI.jpg",
+           "location": "693D46A8-1A91-41DF-5FF3-A20010E8D386/ElequipodelabibliotecaconBergmanncomodirectorenelcentroc.1935BNI.jpg",
            "dataLength": "102100",
            "format": ".jpg"
           }
@@ -9199,7 +9052,7 @@
           {
            "guid": "56BF9C7F-8E83-080D-9541-6DD1DE77EB36",
            "name": ":4: 1930 – 1960: Transiciones",
-           "data": "<p><span>En 1930, la joven biblioteca fue trasladada a un nuevo y vistoso hogar en el campus recientemente inaugurado de la Universidad Hebrea en el Monte Scopus. No obstante, este bello edificio fue abandonado de prisa en 1947, cuando la zona quedó en manos de los Jordanos durante la Guerra de Independencia. En los años que siguieron, muchos libros fueron sacados secretamente y colocados en varios sitios temporarios en la ciudad.</span></p>\n<p><span>En 1960, la Biblioteca recibió un nuevo hogar en el nuevo campus de la Universidad Hebrea en Givát Ram en Jerusalén. El edificio ha sido la sede permanente de la Biblioteca desde entonces.</span></p>\n",
+           "data": "<p><span>En 1930, la joven biblioteca fue trasladada a un nuevo y vistoso hogar en el campus recientemente inaugurado de la Universidad Hebrea en el Monte Scopus. No obstante, este bello edificio fue abandonado de prisa en 1947, cuando la zona quedó en manos de los Jordanos durante la Guerra de Independencia. En los años que siguieron, muchos libros fueron sacados secretamente y colocados en varios sitios temporarios en la ciudad.</span></p>\n<p><span>En 1960, la Biblioteca recibió un nuevo hogar en el nuevo campus de la Universidad Hebrea en Givát Ram en Jerusalén. El edificio ha sido la sede permanente de la Biblioteca desde entonces.</span></p>\n<p>&#160;</p>\n<p><span>video de YouTube: La Universidad Hebrea de Jerusalén, El Archivo Spielberg de Cine Judío (en Inglés).</span></p>\n",
            "attachments": [
             {
              "guid": "F25BABFB-DB6E-0A90-F912-07DF342B29D5",
@@ -9219,9 +9072,9 @@
               "attachmentEntryID": "34D71717-373E-94B1-A80A-8AD8B9284C2F"
              },
              "objectID": "56BF9C7F-8E83-080D-9541-6DD1DE77EB36",
-             "name": "The Reading Room at Wolfson House, Mt. Scopus, 1930&apos;s-40&apos;s.jpg",
+             "name": "La Sala de Lectura en la Casa Wolfson, Monte Scopus, 1930s-1940s.jpg",
              "attachmentType": "1",
-             "location": "56BF9C7F-8E83-080D-9541-6DD1DE77EB36/TheReadingRoomatWolfsonHouseMt.Scopus1930s-40s.jpg",
+             "location": "56BF9C7F-8E83-080D-9541-6DD1DE77EB36/LaSaladeLecturaenlaCasaWolfsonMonteScopus1930s-1940s.jpg",
              "dataLength": "65226",
              "format": ".jpg"
             },
@@ -9243,9 +9096,9 @@
               "attachmentEntryID": "34D71717-373E-94B1-A80A-8AD8B9284C2F"
              },
              "objectID": "56BF9C7F-8E83-080D-9541-6DD1DE77EB36",
-             "name": "The Reading Room at Wolfson House, redeemed after 20 years of isolation, July, 1967.jpg",
+             "name": "La Sala de Lectura en la Casa Wolfson, Monte Scopus, rescatada despu&#233;s de 20 a&#241;os de aislamiento, Julio 1967.jpg",
              "attachmentType": "1",
-             "location": "56BF9C7F-8E83-080D-9541-6DD1DE77EB36/TheReadingRoomatWolfsonHouseredeemedafter20yearsofisolationJuly1967.jpg",
+             "location": "56BF9C7F-8E83-080D-9541-6DD1DE77EB36/LaSaladeLecturaenlaCasaWolfsonMonteScopusrescatadadespusde20aosdeaislamientoJulio1967.jpg",
              "dataLength": "101989",
              "format": ".jpg"
             },
@@ -9279,9 +9132,9 @@
               "attachmentEntryID": "34D71717-373E-94B1-A80A-8AD8B9284C2F"
              },
              "objectID": "56BF9C7F-8E83-080D-9541-6DD1DE77EB36",
-             "name": "Transferring books inside the temporary reading rooms at Terra Santa building, 1960 (Photo, David Charis).jpg",
+             "name": "Trasladando libros dentro de las salas de lectura temporarias en el edificio Terra Santa, 1960 (Foto de David Charis).jpg",
              "attachmentType": "1",
-             "location": "56BF9C7F-8E83-080D-9541-6DD1DE77EB36/TransferringbooksinsidethetemporaryreadingroomsatTerraSantabuilding1960(PhotoDavidCharis).jpg",
+             "location": "56BF9C7F-8E83-080D-9541-6DD1DE77EB36/TrasladandolibrosdentrodelassalasdelecturatemporariaseneledificioTerraSanta1960(FotodeDavidCharis).jpg",
              "dataLength": "113933",
              "format": ".jpg"
             }
@@ -9298,7 +9151,7 @@
             {
              "guid": "8A76544D-B6F1-6F0D-9B37-00DE1FD41AA6",
              "name": ":5: La Inicistiva Insólita de Ben Gurión",
-             "data": "<p>In 1950, Israel's first prime-minister, David Ben Gurion, allocated an immense sum from the then empty coffers of the young state, in order to obtain microfilms of all Hebrew manuscripts . These were posited at the National Library in the newly established Institute of Microfilmed Hebrew Manuscripts.</p>\n",
+             "data": "<p><span>En 1950, David Ben Gurión, el primer ministro del Estado de Israel y el primero en ejercer dicha función, asignó una suma inmensa de los cofres del joven estado, que en aquel momento estaban prácticamente vacíos, para obtener microfilms de todos los manuscritos hebreos. Estos fueron depositados en la Biblioteca Nacional, en el Instituto de Manuscritos Hebreos en Microfilm.</span></p>\n",
              "attachments": [
               {
                "guid": "A92E0822-7DF0-56E3-8B18-B937BFBDFAF6",
@@ -9388,7 +9241,7 @@
                 {
                  "guid": "FFAE2D71-526E-95F7-91CF-0F9BE7892C77",
                  "name": ":7: Se establece la Biblioteca Nacional",
-                 "data": "<p><span>En 2007, se aprobó la Ley de la Biblioteca Nacional. La Knesset (el parlamento israelí) impuso a la Biblioteca Nacional el deber de coleccionar, preservar, cultivar y dotar tesoros del saber, del legado espiritual y de la cultura, con un enfoque especial en la Tierra de Israel, el Estado de Israel y el Pueblo Judío en todo el mundo. A partir de 2011, la Biblioteca goza de un estado legal independiente.</span></p>\n<p><span>La misión de la Biblioteca Nacional es de servir como el repositorio del país, diseminar el saber y ofrecer acceso democrático al gran mundo de recursos físicos y digitales, además de establecer la Biblioteca Nacional como centro de actividades culturales y educativas.</span></p>\n<p><span>Para cumplir su nueva función, el gobierno ha alocado un sitio prominente, entre la Knesset y el Museo de Israel, donde se construirá un edificio nuevo que gozará de las últimos avances tecnológicos y que será completado en 2017.</span></p>\n",
+                 "data": "<p><span>En 2007, se aprobó la Ley de la Biblioteca Nacional. La Knesset (el parlamento israelí) impuso a la Biblioteca Nacional el deber de coleccionar, preservar, cultivar y dotar tesoros del saber, del legado espiritual y de la cultura, con un enfoque especial en la Tierra de Israel, el Estado de Israel y el Pueblo Judío en todo el mundo. A partir de 2011, la Biblioteca goza de un estado legal independiente.</span></p>\n<p><span>La misión de la Biblioteca Nacional es de servir como el repositorio del país, diseminar el saber y ofrecer acceso democrático al gran mundo de recursos físicos y digitales, además de establecer la Biblioteca Nacional como centro de actividades culturales y educativas.</span></p>\n<p><span>Para cumplir su nueva función, el gobierno ha alocado un sitio prominente, entre la Knesset y el Museo de Israel, donde se construirá un edificio nuevo que gozará de las últimos avances tecnológicos y que será completado en 2017.</span></p>\n<p><span>&#160;</span></p>\n<p><span>video de YouTube: La Renovación de la Biblioteca Nacional de Israel (en Inglés).</span></p>\n",
                  "attachments": [
                   {
                    "guid": "DAB14011-92A3-6ECC-47E3-F55C344D332A",
@@ -9420,9 +9273,9 @@
                     "attachmentEntryID": "882643EA-65B6-8B19-6621-65CE5E14BEC3"
                    },
                    "objectID": "FFAE2D71-526E-95F7-91CF-0F9BE7892C77",
-                   "name": "El Primer Ministro Netanyahu y el Presidente del Estado de Israel Shimon Peres con el acta constitutiva de la Biblioteca Nacional, 2007.jpg",
+                   "name": "El Primer Ministro Netanyahu y el Presidente del Estado de Israel Shimon Peres con el acta constitutiva de la Biblioteca Nacional, 2011.jpg",
                    "attachmentType": "1",
-                   "location": "FFAE2D71-526E-95F7-91CF-0F9BE7892C77/ElPrimerMinistroNetanyahuyelPresidentedelEstadodeIsraelShimonPeresconelactaconstitutivadelaBibliotecaNacional2007.jpg",
+                   "location": "FFAE2D71-526E-95F7-91CF-0F9BE7892C77/ElPrimerMinistroNetanyahuyelPresidentedelEstadodeIsraelShimonPeresconelactaconstitutivadelaBibliotecaNacional2011.jpg",
                    "dataLength": "141925",
                    "format": ".jpg"
                   },
