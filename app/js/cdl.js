@@ -25,8 +25,8 @@
   // Detect device and set configuration respectively.
   if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(agent) ) {
     if (agent.match(/iPad/)) {
-      config.chart.initial.minZoom = 0.43;
-      config.chart.zoom.hideGrandChildren = 0.44;
+      config.chart.initial.minZoom = 0.40;
+      config.chart.zoom.hideGrandChildren = 0.41;
       config.chart.initial.y = function(height) { return height * 0.30;};
       config.nodes.root.r = config.nodes.root.rFocus = config.nodes.root.target = config.nodes.translation.r = config.nodes.translation.rFocus = config.nodes.translation.target = 35;
     }
@@ -38,8 +38,8 @@
         config.nodes.root.r = config.nodes.root.rFocus = config.nodes.root.target = config.nodes.translation.r = config.nodes.translation.rFocus = config.nodes.translation.target = 60 ;
       }
       else {
-        config.chart.initial.minZoom = 0.33;
-        config.chart.zoom.hideGrandChildren = 0.34
+        config.chart.initial.minZoom = 0.31;
+        config.chart.zoom.hideGrandChildren = 0.32;
         config.chart.initial.y = function(height) { return height * 0.25;};
         config.nodes.root.r = config.nodes.root.rFocus = config.nodes.root.target = config.nodes.translation.r = config.nodes.translation.rFocus = config.nodes.translation.target = 30 ;
       }
