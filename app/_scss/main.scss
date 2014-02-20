@@ -122,7 +122,7 @@ div.cdl {
       }
     }
 
-    div#menu-nodes {
+    div#menu-nodes, div#menu {
       text-transform: uppercase;
     }
   }
@@ -144,6 +144,7 @@ div.cdl {
         font-size: 35px;
 
         margin-top: 1.2em;
+        text-transform: uppercase;
       }
 
       div.chronological-content {
