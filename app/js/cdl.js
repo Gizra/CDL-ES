@@ -94,26 +94,19 @@
       .on('zoom', zoom)
       .on('zoomend', zoomend);
 
-    function onlyZoomSvg() {
-      return function() {
-        d3.event.preventDefault();
-        return zoomSvg;
-      };
-    }
-
     // Canvas.
     svgContainer = d3.select('body').append('svg')
       .attr('id', 'chart')
       .attr('width', '100%')
       .attr('height', '100%')
       .style('fill', 'transparent')
-      .on('dblclick.zoom', null)
-      .on('touchstart', zoomSvg)
+      .on('dblclick.zoom', function(){d3.event.stopPropagation();})
+      .on('touchstart', function(){d3.event.preventDefault();})
       .on('touchmove', zoomSvg)
-      .on('touchend', zoomSvg)
-      .on('gesturestart', zoomSvg)
+      .on('touchend', function(){d3.event.preventDefault();})
+      .on('gesturestart', function(){d3.event.stopPropagation();})
       .on('gesturechange', zoomSvg)
-      .on('gestureend', zoomSvg)
+      .on('gestureend', function(){d3.event.stopPropagation();})
       .call(zoomSvg);
 
     // Background.
