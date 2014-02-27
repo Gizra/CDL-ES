@@ -471,7 +471,7 @@
            "objectID": "5F686845-0FE0-05B2-DA4E-F175EF995458",
            "name": "Gemelas sobrevivientes describen su llegada a Auschwitz (en Hebreo con subt&#237;tulos en Ingl&#233;s)",
            "attachmentType": "3",
-           "location": "http://www.youtube.com/watch?v=FDl8YkSJ_xU&feature=youtu.be",
+           "location": "http://www.youtube.com/watch?v=FDl8YkSJ_xU",
            "dataLength": "0",
            "format": ".be"
           }
@@ -525,7 +525,7 @@
              "objectID": "93AE1102-D348-2B9E-B61C-C98672633826",
              "name": "EL &#193;lbum de Auschwitz, prueba visual del exterminio de los Jud&#237;os en Auschwitz-Birkenau (en Ingl&#233;s)",
              "attachmentType": "3",
-             "location": "http://www.youtube.com/watch?v=DkqggLWn8t4&feature=youtu.be",
+             "location": "http://www.youtube.com/watch?v=DkqggLWn8t4",
              "dataLength": "0",
              "format": ".be"
             }
@@ -848,7 +848,7 @@
              "objectID": "EB4FD149-5DEF-8C54-818E-9F93C286A13E",
              "name": "Richler cuenta la historia del descubrimiento en Ingl&#233;s",
              "attachmentType": "3",
-             "location": "http://www.youtube.com/watch?v=sSD8lHMSCZ4&feature=youtu.be",
+             "location": "http://www.youtube.com/watch?v=sSD8lHMSCZ4",
              "dataLength": "0",
              "format": ".be"
             }
@@ -1051,7 +1051,7 @@
           {
            "guid": "3F91F2E9-A5A6-89D6-9D7E-0C433E7DB3F6",
            "name": "música en Ladino",
-           "data": "<p>Dr. Shoshana Weich ha documentado música en Ladino durante muchos años. En el video Dr. Weich presenta una introducción (min. 00:00-07:21) seguida por varias grabaciones que hizo de canciones en Ladino (min. 7:21-21:00). Dr. Weich depositó su colección en la Bibloteca Nacional de Israel. La última parte incluye una grabación de música en Ladino hecha en el concierto \"El Cancionero y el Romansero Español según la tradición de los Judíos de Salónica\", que tuvo lugar en la BNI el 20 de Noviembre de 2013 (min.21:00-49:02).</p>\n",
+           "data": "<p>Dr. Shoshana Weich ha documentado música en Ladino durante muchos años. En el video Dr. Weich presenta una introducción (min. 00:00-07:21) seguida por varias grabaciones que hizo de canciones en Ladino (min. 7:21-21:00). Dr. Weich depositó su colección en la Bibloteca Nacional de Israel. La última parte incluye una grabación de música en Ladino hecha en el concierto \"El <i>Cancionero</i> y el <i>Romancero</i> Español según la tradición de los Judíos de Salónica\", que tuvo lugar en la BNI el 20 de Noviembre de 2013 (min.21:00-49:02).</p>\n",
            "attachments": [
             {
              "guid": "66131F4B-CB05-43D7-95DC-2CF8C4F8ED0D",
@@ -1061,7 +1061,7 @@
              "objectID": "3F91F2E9-A5A6-89D6-9D7E-0C433E7DB3F6",
              "name": "La colecci&#243;n de Dr. Shoshana Weich-Shahak",
              "attachmentType": "3",
-             "location": "http://www.youtube.com/watch?v=890qst6GSaY&feature=youtu.be",
+             "location": "http://www.youtube.com/watch?v=890qst6GSaY",
              "dataLength": "0",
              "format": ".be"
             }
@@ -4079,18 +4079,6 @@
            "format": ".jpg"
           },
           {
-           "guid": "114E5E48-ADA3-E914-3877-B5DE4CB41C69",
-           "AttachmentEntries": {
-            "attachmentEntryID": "DA8D957A-99E0-E1A4-AD2D-C1C3AD27BB64"
-           },
-           "objectID": "DF6089D1-D5E1-82D5-A31D-1B98BE878817",
-           "name": "Hanhagat ha-Beri&apos;ut (tratado de medicina) de Maim&#243;nides, Florencia 1481, BNI.jpg",
-           "attachmentType": "1",
-           "location": "DF6089D1-D5E1-82D5-A31D-1B98BE878817/Hanhagatha-Beriut(tratadodemedicina)deMaimnidesFlorencia1481BNI.jpg",
-           "dataLength": "130728",
-           "format": ".jpg"
-          },
-          {
            "guid": "3DCF0B52-8192-BE64-7283-0F6FD2A0D838",
            "AttachmentEntries": {
             "attachmentEntryID": "DA8D957A-99E0-E1A4-AD2D-C1C3AD27BB64"
@@ -4216,9 +4204,9 @@
                     "attachmentEntryID": "C3567442-50E1-02C1-B45A-6F6D06BE08C1"
                    },
                    "objectID": "A35916B5-7608-6F21-7BC9-A0335815B679",
-                   "name": "Mapa de Acre, Petrus Vesconte, siglo XVII, Civitas Acon Sive Ptolomayda.jpg",
+                   "name": "Mapa de Acre, Petrus Vesconte, copia del siglo XVII, Civitas Acon Sive Ptolomayda, BNI.jpg",
                    "attachmentType": "1",
-                   "location": "A35916B5-7608-6F21-7BC9-A0335815B679/MapadeAcrePetrusVescontesigloXVIICivitasAconSivePtolomayda.jpg",
+                   "location": "A35916B5-7608-6F21-7BC9-A0335815B679/MapadeAcrePetrusVescontecopiadelsigloXVIICivitasAconSivePtolomaydaBNI.jpg",
                    "dataLength": "271738",
                    "format": ".jpg"
                   }
@@ -4717,9 +4705,9 @@
           "attachmentEntryID": "63E01F29-31FC-524F-0EF8-5EBEFC49E13F"
          },
          "objectID": "0B2BD36E-A6E5-0282-CF07-4E244E18CB6F",
-         "name": "Gershom Scholem, 1925, BNI.jpg",
+         "name": "Gershom Scholem, 1925.jpg",
          "attachmentType": "1",
-         "location": "0B2BD36E-A6E5-0282-CF07-4E244E18CB6F/GershomScholem1925BNI.jpg",
+         "location": "0B2BD36E-A6E5-0282-CF07-4E244E18CB6F/GershomScholem1925.jpg",
          "dataLength": "51145",
          "format": ".jpg"
         }
@@ -4756,9 +4744,9 @@
             "attachmentEntryID": "78D74965-AC20-D57D-405C-5EA466BCD0DD"
            },
            "objectID": "B1672742-A3B6-91B3-4F54-B51E19F39D89",
-           "name": "Kerekh Qatan, Haim Vital, una copia de 1714, la Colecci&#243;n Scholem, BNI.jpg",
+           "name": "Sefer Kerekh Qatan, Haim Vital, un manuscrito del a&#241;o 1714, la Colecci&#243;n Scholem, BNI.jpg",
            "attachmentType": "1",
-           "location": "B1672742-A3B6-91B3-4F54-B51E19F39D89/KerekhQatanHaimVitalunacopiade1714laColeccinScholemBNI.jpg",
+           "location": "B1672742-A3B6-91B3-4F54-B51E19F39D89/SeferKerekhQatanHaimVitalunmanuscritodelao1714laColeccinScholemBNI.jpg",
            "dataLength": "109810",
            "format": ".jpg"
           },
@@ -4984,9 +4972,9 @@
         "attachmentEntryID": "BDB12AA9-7746-EA8A-00E0-59A26A3385FF"
        },
        "objectID": "7660CE39-5432-7D03-DF5C-1645E15FBAF7",
-       "name": "Portae Lucis, traducci&#243;n al Lat&#237;n de la obra cabal&#237;stica de Gikatilla Shaarei Or&#225; &#8211; Las Puertas de la Luz.jpg",
+       "name": "Portae Lucis, traducci&#243;n de Riccio al Lat&#237;n de la obra cabal&#237;stica de Gikatilla Shaarei Or&#225; &#8211; Las Puertas de la Luz, Augsburgo 1516.jpg",
        "attachmentType": "1",
-       "location": "7660CE39-5432-7D03-DF5C-1645E15FBAF7/PortaeLucistraduccinalLatndelaobracabalsticadeGikatillaShaareiOr–LasPuertasdelaLuz.jpg",
+       "location": "7660CE39-5432-7D03-DF5C-1645E15FBAF7/PortaeLucistraduccindeRiccioalLatndelaobracabalsticadeGikatillaShaareiOr–LasPuertasdelaLuzAugsburgo1516.jpg",
        "dataLength": "430796",
        "format": ".jpg"
       }
@@ -5476,7 +5464,7 @@
      "objectID": "009AFF8A-7D15-F90B-EBDE-1B572F9D7ED5",
      "name": "Soldados Jud&#237;os en el ej&#233;rcito Austro-H&#250;ngaro (en Ingl&#233;s)",
      "attachmentType": "3",
-     "location": "http://www.youtube.com/watch?v=Kx5emPupZyo&feature=youtu.be",
+     "location": "http://www.youtube.com/watch?v=Kx5emPupZyo",
      "dataLength": "0",
      "format": ".be"
     }
@@ -5634,7 +5622,7 @@
              "objectID": "B9A5DA7A-D132-ACC5-C1EB-F21A3A65455A",
              "name": "La Praga de Kafka",
              "attachmentType": "3",
-             "location": "http://www.youtube.com/watch?v=dKIXCITRZmU&feature=youtu.be",
+             "location": "http://www.youtube.com/watch?v=dKIXCITRZmU",
              "dataLength": "0",
              "format": ".be"
             }
@@ -6748,7 +6736,7 @@
                  "objectID": "50F6B590-8A6C-A11A-E704-EB7A6C61EF9A",
                  "name": "La Primera Guerra Mundial",
                  "attachmentType": "3",
-                 "location": "http://www.youtube.com/watch?v=2QpmxhN16Lw&feature=youtu.be",
+                 "location": "http://www.youtube.com/watch?v=2QpmxhN16Lw",
                  "dataLength": "0",
                  "format": ".be"
                 }
@@ -6838,7 +6826,7 @@
                      "objectID": "70F1F07B-915B-F430-74FC-A0425393D6E4",
                      "name": "Los nazis llegan al poder (en Ingl&#233;s)",
                      "attachmentType": "3",
-                     "location": "http://www.youtube.com/watch?v=AF1E1WtcYXI&feature=youtu.be",
+                     "location": "http://www.youtube.com/watch?v=AF1E1WtcYXI",
                      "dataLength": "0",
                      "format": ".be"
                     }
@@ -6968,9 +6956,9 @@
                               "attachmentEntryID": "D18E09CC-A38F-8B33-2628-6ADE1F4BAB0B"
                              },
                              "objectID": "00CAB613-4C62-F66B-6D7C-36493C9FC1A7",
-                             "name": "La &#218;ltima Casa de Stefan Zweig (en Ingl&#233;s)",
+                             "name": "La &#218;ltima Casa de Stefan Zweig",
                              "attachmentType": "3",
-                             "location": "http://www.youtube.com/watch?v=1QSZElLKG0o&feature=youtu.be",
+                             "location": "http://www.youtube.com/watch?v=1QSZElLKG0o",
                              "dataLength": "0",
                              "format": ".be"
                             }
@@ -7228,9 +7216,9 @@
                 "attachmentEntryID": "A9643A8F-AD71-F3C9-9845-BE4EBACBDCEE"
                },
                "objectID": "448A68D1-326C-D903-A151-5FE65663F890",
-               "name": "Gershom Scholem.jpg",
+               "name": "Gershom Scholem, BNI.jpg",
                "attachmentType": "1",
-               "location": "448A68D1-326C-D903-A151-5FE65663F890/GershomScholem.jpg",
+               "location": "448A68D1-326C-D903-A151-5FE65663F890/GershomScholemBNI.jpg",
                "dataLength": "41806",
                "format": ".jpg"
               }
@@ -7448,7 +7436,7 @@
          "objectID": "95934A56-2137-1032-C7F4-2BD7F29A375E",
          "name": "La Obra de Arte en la Era de la Reproducci&#243;n Mec&#225;nica, Walter Benjamin, secci&#243;n XV, (en Ingl&#233;s)",
          "attachmentType": "3",
-         "location": "http://www.youtube.com/watch?v=t2gObGO7KYs&feature=youtu.be",
+         "location": "http://www.youtube.com/watch?v=t2gObGO7KYs",
          "dataLength": "0",
          "format": ".be"
         }
@@ -9233,9 +9221,9 @@
             "attachmentEntryID": "E5779799-A4D9-1AF5-7FFC-463D086A3164"
            },
            "objectID": "693D46A8-1A91-41DF-5FF3-A20010E8D386",
-           "name": "El equipo de la biblioteca con Bergmann como director en el centro, c. 1935, BNI.jpg",
+           "name": "El equipo de la biblioteca con Bergmann como director en el centro, c. 1935.jpg",
            "attachmentType": "1",
-           "location": "693D46A8-1A91-41DF-5FF3-A20010E8D386/ElequipodelabibliotecaconBergmanncomodirectorenelcentroc.1935BNI.jpg",
+           "location": "693D46A8-1A91-41DF-5FF3-A20010E8D386/ElequipodelabibliotecaconBergmanncomodirectorenelcentroc.1935.jpg",
            "dataLength": "102100",
            "format": ".jpg"
           }
@@ -9296,9 +9284,9 @@
               "attachmentEntryID": "34D71717-373E-94B1-A80A-8AD8B9284C2F"
              },
              "objectID": "56BF9C7F-8E83-080D-9541-6DD1DE77EB36",
-             "name": "La mesa de circulaci&#243;n en el d&#237;a de la apertura de la BNI, 1.11.1960 , D. Haris, BNI.jpg",
+             "name": "La mesa de circulaci&#243;n en el d&#237;a de la apertura de la BNI, 1.11.1960 , (Foto de David Charis).jpg",
              "attachmentType": "1",
-             "location": "56BF9C7F-8E83-080D-9541-6DD1DE77EB36/LamesadecirculacineneldadelaaperturadelaBNI1.11.1960D.HarisBNI.jpg",
+             "location": "56BF9C7F-8E83-080D-9541-6DD1DE77EB36/LamesadecirculacineneldadelaaperturadelaBNI1.11.1960(FotodeDavidCharis).jpg",
              "dataLength": "97543",
              "format": ".jpg"
             },
