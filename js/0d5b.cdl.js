@@ -59,7 +59,7 @@
    * @param height
    */
   function prepareScenario() {
-    var initialScaleOnZoom;
+    var initialScaleOnZoom
 
     function zoomstart() {
       initialScaleOnZoom = draw.getScale();
@@ -67,8 +67,7 @@
 
     // Zoom Behaviours.
     function zoom() {
-      system
-        .attr('transform', 'translate(' + d3.event.translate + ')scale(' + d3.event.scale + ')');
+      system.attr('transform', 'translate(' + d3.event.translate + ')scale(' + d3.event.scale + ')');
 
       // Store current position and zoom ratio.
       draw.setPositionByTransform(system.attr('transform'));
@@ -79,7 +78,7 @@
       if (typeof draw.getScale() === 'undefined' || initialScaleOnZoom === draw.getScale()) {
         return;
       }
-      // Redraw the chart.
+
       draw.all(draw.getScale());
     }
 
@@ -116,6 +115,8 @@
     // System.
     system = svgContainer.append('g')
       .attr('id', 'system');
+
+    
   }
 
   /**
