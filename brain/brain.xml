@@ -7,7 +7,7 @@
         <personalBrainVersion>7045</personalBrainVersion>
         <telepathyVersion>10</telepathyVersion>
         <fileRoot>\\nlinetapp1\homedir\shaye\Desktop\Esp NLI-CDL 3_brain\Files</fileRoot>
-        <generatedDateTime>2014-02-25 15:20:25.392 @+0200</generatedDateTime>
+        <generatedDateTime>2014-02-27 15:20:21.259 @+0200</generatedDateTime>
         <homeThoughtGuid>A4F16751-5EFB-1D6A-8BE1-619AB845FDBB</homeThoughtGuid>
         <modificationDateTime>2014-02-11 15:47:11.662 @+0200</modificationDateTime>
     </Source>
@@ -249,7 +249,7 @@
             <creationDateTime>2014-01-29 12:43:29.082 @+0200</creationDateTime>
             <realModificationDateTime>2014-02-17 13:23:31.982 @+0200</realModificationDateTime>
             <displayModificationDateTime>2014-02-17 13:23:31.983 @+0200</displayModificationDateTime>
-            <activationDateTime>2014-02-25 15:12:02.175 @+0200</activationDateTime>
+            <activationDateTime>2014-02-27 12:24:43.157 @+0200</activationDateTime>
             <linksModificationDateTime>2014-02-16 11:16:11.427 @+0200</linksModificationDateTime>
             <isType>0</isType>
             <color>0</color>
@@ -274,8 +274,8 @@
             <label></label>
             <creationDateTime>2014-01-29 12:43:29.588 @+0200</creationDateTime>
             <realModificationDateTime>2014-02-23 17:38:31.416 @+0200</realModificationDateTime>
-            <displayModificationDateTime>2014-02-24 16:34:11.430 @+0200</displayModificationDateTime>
-            <activationDateTime>2014-02-24 16:33:43.147 @+0200</activationDateTime>
+            <displayModificationDateTime>2014-02-27 12:23:09.515 @+0200</displayModificationDateTime>
+            <activationDateTime>2014-02-27 12:22:58.910 @+0200</activationDateTime>
             <linksModificationDateTime>2014-02-23 17:38:38.976 @+0200</linksModificationDateTime>
             <isType>0</isType>
             <color>0</color>
@@ -288,7 +288,7 @@
             <creationDateTime>2014-01-29 12:43:28.181 @+0200</creationDateTime>
             <realModificationDateTime>2014-02-09 16:02:31.660 @+0200</realModificationDateTime>
             <displayModificationDateTime>2014-02-09 16:02:31.660 @+0200</displayModificationDateTime>
-            <activationDateTime>2014-02-24 16:35:24.369 @+0200</activationDateTime>
+            <activationDateTime>2014-02-27 12:23:38.576 @+0200</activationDateTime>
             <linksModificationDateTime>2014-02-23 17:38:38.974 @+0200</linksModificationDateTime>
             <isType>0</isType>
             <color>0</color>
@@ -366,7 +366,7 @@
             <creationDateTime>2014-01-29 12:43:27.391 @+0200</creationDateTime>
             <realModificationDateTime>2014-02-16 11:16:01.175 @+0200</realModificationDateTime>
             <displayModificationDateTime>2014-02-16 11:16:01.175 @+0200</displayModificationDateTime>
-            <activationDateTime>2014-02-25 15:12:20.811 @+0200</activationDateTime>
+            <activationDateTime>2014-02-27 12:22:09.700 @+0200</activationDateTime>
             <linksModificationDateTime>2014-02-16 11:16:11.426 @+0200</linksModificationDateTime>
             <isType>0</isType>
             <color>0</color>
@@ -444,7 +444,7 @@
             <creationDateTime>2014-01-29 12:34:54.022 @+0200</creationDateTime>
             <realModificationDateTime>2014-02-13 14:48:57.277 @+0200</realModificationDateTime>
             <displayModificationDateTime>2014-02-13 14:48:57.277 @+0200</displayModificationDateTime>
-            <activationDateTime>2014-02-25 15:11:58.748 @+0200</activationDateTime>
+            <activationDateTime>2014-02-27 14:05:41.151 @+0200</activationDateTime>
             <linksModificationDateTime>2014-01-29 12:35:05.862 @+0200</linksModificationDateTime>
             <isType>0</isType>
             <color>ffffff</color>
@@ -457,7 +457,7 @@
             <creationDateTime>2014-01-29 12:34:53.674 @+0200</creationDateTime>
             <realModificationDateTime>2014-02-09 16:57:15.095 @+0200</realModificationDateTime>
             <displayModificationDateTime>2014-02-23 14:25:43.526 @+0200</displayModificationDateTime>
-            <activationDateTime>2014-02-23 14:10:26.925 @+0200</activationDateTime>
+            <activationDateTime>2014-02-27 12:24:57.095 @+0200</activationDateTime>
             <linksModificationDateTime>2014-01-09 15:09:47.609 @+0200</linksModificationDateTime>
             <isType>0</isType>
             <color>ffffff</color>
@@ -1042,7 +1042,7 @@
             <creationDateTime>2014-01-29 12:34:51.256 @+0200</creationDateTime>
             <realModificationDateTime>2014-02-03 13:48:17.560 @+0200</realModificationDateTime>
             <displayModificationDateTime>2014-02-12 11:09:52.630 @+0200</displayModificationDateTime>
-            <activationDateTime>2014-02-25 15:11:57.780 @+0200</activationDateTime>
+            <activationDateTime>2014-02-27 14:05:39.497 @+0200</activationDateTime>
             <linksModificationDateTime>2014-01-22 15:31:04.381 @+0200</linksModificationDateTime>
             <isType>0</isType>
             <color>ffffff</color>
@@ -1094,7 +1094,7 @@
             <creationDateTime>2014-01-29 12:34:49.806 @+0200</creationDateTime>
             <realModificationDateTime>2014-02-09 16:53:01.383 @+0200</realModificationDateTime>
             <displayModificationDateTime>2014-02-25 14:47:59.381 @+0200</displayModificationDateTime>
-            <activationDateTime>2014-02-25 15:11:56.717 @+0200</activationDateTime>
+            <activationDateTime>2014-02-27 14:05:37.688 @+0200</activationDateTime>
             <linksModificationDateTime>2014-02-25 15:08:42.307 @+0200</linksModificationDateTime>
             <isType>0</isType>
             <color>0</color>
@@ -1120,7 +1120,7 @@
             <creationDateTime>2014-01-29 12:34:50.508 @+0200</creationDateTime>
             <realModificationDateTime>2014-02-03 13:49:28.408 @+0200</realModificationDateTime>
             <displayModificationDateTime>2014-02-03 13:50:15.456 @+0200</displayModificationDateTime>
-            <activationDateTime>2014-02-23 14:30:19.437 @+0200</activationDateTime>
+            <activationDateTime>2014-02-27 13:15:27.024 @+0200</activationDateTime>
             <linksModificationDateTime>2013-12-26 13:36:12.000 @+0200</linksModificationDateTime>
             <isType>0</isType>
             <color>0</color>
@@ -1145,8 +1145,8 @@
             <label></label>
             <creationDateTime>2014-01-29 12:34:50.305 @+0200</creationDateTime>
             <realModificationDateTime>2014-02-09 16:42:31.860 @+0200</realModificationDateTime>
-            <displayModificationDateTime>2014-02-23 14:29:37.056 @+0200</displayModificationDateTime>
-            <activationDateTime>2014-02-23 14:26:15.472 @+0200</activationDateTime>
+            <displayModificationDateTime>2014-02-27 13:14:55.098 @+0200</displayModificationDateTime>
+            <activationDateTime>2014-02-27 13:14:46.013 @+0200</activationDateTime>
             <linksModificationDateTime>2013-11-03 17:07:08.000 @+0200</linksModificationDateTime>
             <isType>0</isType>
             <color>0</color>
@@ -1159,7 +1159,7 @@
             <creationDateTime>2014-01-29 12:23:35.973 @+0200</creationDateTime>
             <realModificationDateTime>2014-02-03 12:22:28.688 @+0200</realModificationDateTime>
             <displayModificationDateTime>2014-02-03 12:22:28.688 @+0200</displayModificationDateTime>
-            <activationDateTime>2014-02-25 14:47:41.676 @+0200</activationDateTime>
+            <activationDateTime>2014-02-27 14:05:43.223 @+0200</activationDateTime>
             <linksModificationDateTime>2014-02-10 15:44:36.735 @+0200</linksModificationDateTime>
             <isType>0</isType>
             <color>0</color>
@@ -1198,7 +1198,7 @@
             <creationDateTime>2014-02-10 15:44:31.721 @+0200</creationDateTime>
             <realModificationDateTime>2014-02-18 11:33:19.145 @+0200</realModificationDateTime>
             <displayModificationDateTime>2014-02-18 11:34:32.619 @+0200</displayModificationDateTime>
-            <activationDateTime>2014-02-18 11:33:04.937 @+0200</activationDateTime>
+            <activationDateTime>2014-02-27 14:56:26.548 @+0200</activationDateTime>
             <linksModificationDateTime>2014-02-06 16:37:46.893 @+0200</linksModificationDateTime>
             <isType>0</isType>
             <color>0</color>
@@ -1210,8 +1210,8 @@
             <label></label>
             <creationDateTime>2014-02-10 15:44:30.995 @+0200</creationDateTime>
             <realModificationDateTime>2014-02-18 11:30:54.414 @+0200</realModificationDateTime>
-            <displayModificationDateTime>2014-02-24 16:39:19.111 @+0200</displayModificationDateTime>
-            <activationDateTime>2014-02-24 16:39:10.864 @+0200</activationDateTime>
+            <displayModificationDateTime>2014-02-27 14:56:16.855 @+0200</displayModificationDateTime>
+            <activationDateTime>2014-02-27 14:55:40.802 @+0200</activationDateTime>
             <linksModificationDateTime>2014-02-06 16:36:41.690 @+0200</linksModificationDateTime>
             <isType>0</isType>
             <color>0</color>
@@ -1223,8 +1223,8 @@
             <label></label>
             <creationDateTime>2014-02-10 15:44:30.565 @+0200</creationDateTime>
             <realModificationDateTime>2014-02-18 11:30:02.289 @+0200</realModificationDateTime>
-            <displayModificationDateTime>2014-02-18 11:30:37.511 @+0200</displayModificationDateTime>
-            <activationDateTime>2014-02-18 12:44:49.612 @+0200</activationDateTime>
+            <displayModificationDateTime>2014-02-27 14:55:32.971 @+0200</displayModificationDateTime>
+            <activationDateTime>2014-02-27 14:57:30.119 @+0200</activationDateTime>
             <linksModificationDateTime>2014-02-06 16:35:44.767 @+0200</linksModificationDateTime>
             <isType>0</isType>
             <color>0</color>
@@ -1237,7 +1237,7 @@
             <creationDateTime>2014-02-10 15:44:30.435 @+0200</creationDateTime>
             <realModificationDateTime>2014-02-18 11:37:21.669 @+0200</realModificationDateTime>
             <displayModificationDateTime>2014-02-18 11:37:47.592 @+0200</displayModificationDateTime>
-            <activationDateTime>2014-02-20 15:45:41.700 @+0200</activationDateTime>
+            <activationDateTime>2014-02-27 13:49:00.746 @+0200</activationDateTime>
             <linksModificationDateTime>2014-02-06 16:43:22.575 @+0200</linksModificationDateTime>
             <isType>0</isType>
             <color>0</color>
@@ -1249,8 +1249,8 @@
             <label></label>
             <creationDateTime>2014-02-10 15:44:32.064 @+0200</creationDateTime>
             <realModificationDateTime>2014-02-18 11:34:51.651 @+0200</realModificationDateTime>
-            <displayModificationDateTime>2014-02-18 11:35:26.578 @+0200</displayModificationDateTime>
-            <activationDateTime>2014-02-18 11:34:35.974 @+0200</activationDateTime>
+            <displayModificationDateTime>2014-02-27 14:56:39.810 @+0200</displayModificationDateTime>
+            <activationDateTime>2014-02-27 14:56:31.282 @+0200</activationDateTime>
             <linksModificationDateTime>2014-02-06 16:38:43.522 @+0200</linksModificationDateTime>
             <isType>0</isType>
             <color>0</color>
@@ -1263,7 +1263,7 @@
             <creationDateTime>2014-02-10 15:44:27.855 @+0200</creationDateTime>
             <realModificationDateTime>2014-02-11 11:21:31.582 @+0200</realModificationDateTime>
             <displayModificationDateTime>2014-02-18 11:00:21.732 @+0200</displayModificationDateTime>
-            <activationDateTime>2014-02-25 14:21:38.090 @+0200</activationDateTime>
+            <activationDateTime>2014-02-27 14:58:45.678 @+0200</activationDateTime>
             <linksModificationDateTime>2014-02-17 14:16:09.723 @+0200</linksModificationDateTime>
             <isType>0</isType>
             <color>0</color>
@@ -1275,8 +1275,8 @@
             <label></label>
             <creationDateTime>2014-02-10 15:44:29.938 @+0200</creationDateTime>
             <realModificationDateTime>2014-02-18 11:01:35.841 @+0200</realModificationDateTime>
-            <displayModificationDateTime>2014-02-24 16:37:32.772 @+0200</displayModificationDateTime>
-            <activationDateTime>2014-02-24 16:36:55.805 @+0200</activationDateTime>
+            <displayModificationDateTime>2014-02-27 14:55:06.554 @+0200</displayModificationDateTime>
+            <activationDateTime>2014-02-27 14:54:58.406 @+0200</activationDateTime>
             <linksModificationDateTime>2014-02-06 16:33:23.011 @+0200</linksModificationDateTime>
             <isType>0</isType>
             <color>0</color>
@@ -1367,7 +1367,7 @@
             <creationDateTime>2014-01-29 13:07:25.602 @+0200</creationDateTime>
             <realModificationDateTime>2014-02-02 11:09:36.357 @+0200</realModificationDateTime>
             <displayModificationDateTime>2014-02-10 16:39:08.707 @+0200</displayModificationDateTime>
-            <activationDateTime>2014-02-23 15:44:24.408 @+0200</activationDateTime>
+            <activationDateTime>2014-02-27 13:43:01.175 @+0200</activationDateTime>
             <linksModificationDateTime>2014-01-07 18:02:55.848 @+0200</linksModificationDateTime>
             <isType>0</isType>
             <color>0</color>
@@ -1380,7 +1380,7 @@
             <creationDateTime>2014-01-29 13:07:25.753 @+0200</creationDateTime>
             <realModificationDateTime>2014-02-02 12:58:44.585 @+0200</realModificationDateTime>
             <displayModificationDateTime>2014-02-11 14:21:59.358 @+0200</displayModificationDateTime>
-            <activationDateTime>2014-02-11 14:21:26.072 @+0200</activationDateTime>
+            <activationDateTime>2014-02-27 13:41:50.092 @+0200</activationDateTime>
             <linksModificationDateTime>2013-11-26 15:09:59.000 @+0200</linksModificationDateTime>
             <isType>0</isType>
             <color>0</color>
@@ -1406,7 +1406,7 @@
             <creationDateTime>2014-01-29 13:07:25.462 @+0200</creationDateTime>
             <realModificationDateTime>2014-02-02 11:16:05.958 @+0200</realModificationDateTime>
             <displayModificationDateTime>2014-02-23 15:39:58.199 @+0200</displayModificationDateTime>
-            <activationDateTime>2014-02-23 15:34:43.192 @+0200</activationDateTime>
+            <activationDateTime>2014-02-27 13:42:45.292 @+0200</activationDateTime>
             <linksModificationDateTime>2013-12-26 12:55:46.000 @+0200</linksModificationDateTime>
             <isType>0</isType>
             <color>0</color>
@@ -1418,8 +1418,8 @@
             <label></label>
             <creationDateTime>2014-01-29 13:07:26.308 @+0200</creationDateTime>
             <realModificationDateTime>2014-02-02 11:17:33.324 @+0200</realModificationDateTime>
-            <displayModificationDateTime>2014-02-23 14:57:23.395 @+0200</displayModificationDateTime>
-            <activationDateTime>2014-02-23 14:52:47.913 @+0200</activationDateTime>
+            <displayModificationDateTime>2014-02-27 13:01:19.849 @+0200</displayModificationDateTime>
+            <activationDateTime>2014-02-27 13:01:09.379 @+0200</activationDateTime>
             <linksModificationDateTime>2013-12-03 13:36:13.159 @+0200</linksModificationDateTime>
             <isType>0</isType>
             <color>0</color>
@@ -1431,8 +1431,8 @@
             <label></label>
             <creationDateTime>2014-01-29 13:07:25.872 @+0200</creationDateTime>
             <realModificationDateTime>2014-02-02 13:00:46.330 @+0200</realModificationDateTime>
-            <displayModificationDateTime>2014-02-23 15:49:01.342 @+0200</displayModificationDateTime>
-            <activationDateTime>2014-02-23 15:44:43.337 @+0200</activationDateTime>
+            <displayModificationDateTime>2014-02-27 13:08:31.311 @+0200</displayModificationDateTime>
+            <activationDateTime>2014-02-27 13:08:08.482 @+0200</activationDateTime>
             <linksModificationDateTime>2013-11-26 15:10:40.000 @+0200</linksModificationDateTime>
             <isType>0</isType>
             <color>0</color>
@@ -1470,8 +1470,8 @@
             <label></label>
             <creationDateTime>2014-02-10 15:44:32.346 @+0200</creationDateTime>
             <realModificationDateTime>2014-02-24 16:37:58.762 @+0200</realModificationDateTime>
-            <displayModificationDateTime>2014-02-24 16:37:58.762 @+0200</displayModificationDateTime>
-            <activationDateTime>2014-02-24 16:37:49.322 @+0200</activationDateTime>
+            <displayModificationDateTime>2014-02-27 14:57:00.424 @+0200</displayModificationDateTime>
+            <activationDateTime>2014-02-27 14:56:45.122 @+0200</activationDateTime>
             <linksModificationDateTime>2014-02-06 16:39:41.266 @+0200</linksModificationDateTime>
             <isType>0</isType>
             <color>0</color>
@@ -1509,8 +1509,8 @@
             <label></label>
             <creationDateTime>2014-02-25 15:08:42.208 @+0200</creationDateTime>
             <realModificationDateTime>2014-02-25 15:08:42.208 @+0200</realModificationDateTime>
-            <displayModificationDateTime>2014-02-25 15:09:48.959 @+0200</displayModificationDateTime>
-            <activationDateTime>2014-02-25 15:08:43.823 @+0200</activationDateTime>
+            <displayModificationDateTime>2014-02-27 14:02:37.255 @+0200</displayModificationDateTime>
+            <activationDateTime>2014-02-27 14:01:11.042 @+0200</activationDateTime>
             <linksModificationDateTime>2014-02-25 15:08:42.309 @+0200</linksModificationDateTime>
             <isType>0</isType>
             <color>0</color>
@@ -1548,8 +1548,8 @@
             <label></label>
             <creationDateTime>2014-01-29 12:59:00.498 @+0200</creationDateTime>
             <realModificationDateTime>2014-01-30 15:48:01.637 @+0200</realModificationDateTime>
-            <displayModificationDateTime>2014-02-10 16:52:06.479 @+0200</displayModificationDateTime>
-            <activationDateTime>2014-02-10 16:51:28.885 @+0200</activationDateTime>
+            <displayModificationDateTime>2014-02-27 14:06:14.537 @+0200</displayModificationDateTime>
+            <activationDateTime>2014-02-27 14:05:55.717 @+0200</activationDateTime>
             <linksModificationDateTime>2013-12-23 17:36:12.000 @+0200</linksModificationDateTime>
             <isType>0</isType>
             <color>0</color>
@@ -1587,8 +1587,8 @@
             <label></label>
             <creationDateTime>2014-01-29 12:59:00.172 @+0200</creationDateTime>
             <realModificationDateTime>2014-02-03 13:08:43.847 @+0200</realModificationDateTime>
-            <displayModificationDateTime>2014-02-10 16:52:42.948 @+0200</displayModificationDateTime>
-            <activationDateTime>2014-02-10 16:52:10.339 @+0200</activationDateTime>
+            <displayModificationDateTime>2014-02-27 13:25:18.713 @+0200</displayModificationDateTime>
+            <activationDateTime>2014-02-27 13:38:25.721 @+0200</activationDateTime>
             <linksModificationDateTime>2013-12-23 17:36:35.000 @+0200</linksModificationDateTime>
             <isType>0</isType>
             <color>0</color>
@@ -1601,7 +1601,7 @@
             <creationDateTime>2014-01-29 12:59:00.160 @+0200</creationDateTime>
             <realModificationDateTime>2014-01-30 15:47:15.568 @+0200</realModificationDateTime>
             <displayModificationDateTime>2014-01-30 15:47:15.568 @+0200</displayModificationDateTime>
-            <activationDateTime>2014-02-13 11:31:52.294 @+0200</activationDateTime>
+            <activationDateTime>2014-02-27 14:07:43.628 @+0200</activationDateTime>
             <linksModificationDateTime>2013-12-23 17:36:35.000 @+0200</linksModificationDateTime>
             <isType>0</isType>
             <color>0</color>
@@ -1613,8 +1613,8 @@
             <label></label>
             <creationDateTime>2014-01-29 13:07:22.220 @+0200</creationDateTime>
             <realModificationDateTime>2014-02-11 14:18:18.255 @+0200</realModificationDateTime>
-            <displayModificationDateTime>2014-02-23 15:23:06.559 @+0200</displayModificationDateTime>
-            <activationDateTime>2014-02-23 15:17:45.706 @+0200</activationDateTime>
+            <displayModificationDateTime>2014-02-27 13:09:57.555 @+0200</displayModificationDateTime>
+            <activationDateTime>2014-02-27 13:41:46.747 @+0200</activationDateTime>
             <linksModificationDateTime>2013-11-26 15:05:48.000 @+0200</linksModificationDateTime>
             <isType>0</isType>
             <color>0</color>
@@ -1822,7 +1822,7 @@
             <creationDateTime>2014-01-29 13:07:27.343 @+0200</creationDateTime>
             <realModificationDateTime>2014-02-02 13:01:44.657 @+0200</realModificationDateTime>
             <displayModificationDateTime>2014-02-11 14:23:52.201 @+0200</displayModificationDateTime>
-            <activationDateTime>2014-02-25 14:47:38.243 @+0200</activationDateTime>
+            <activationDateTime>2014-02-27 13:41:43.038 @+0200</activationDateTime>
             <linksModificationDateTime>2014-02-13 10:17:34.024 @+0200</linksModificationDateTime>
             <isType>0</isType>
             <color>0</color>
@@ -1848,7 +1848,7 @@
             <creationDateTime>2014-01-29 13:07:27.467 @+0200</creationDateTime>
             <realModificationDateTime>2014-02-06 11:08:10.341 @+0200</realModificationDateTime>
             <displayModificationDateTime>2014-02-10 16:45:06.438 @+0200</displayModificationDateTime>
-            <activationDateTime>2014-02-16 16:39:46.729 @+0200</activationDateTime>
+            <activationDateTime>2014-02-27 13:42:52.814 @+0200</activationDateTime>
             <linksModificationDateTime>2014-02-16 16:38:58.617 @+0200</linksModificationDateTime>
             <isType>0</isType>
             <color>0</color>
@@ -1887,7 +1887,7 @@
             <creationDateTime>2014-01-29 13:07:23.290 @+0200</creationDateTime>
             <realModificationDateTime>2014-02-02 11:33:55.346 @+0200</realModificationDateTime>
             <displayModificationDateTime>2014-02-10 16:47:18.479 @+0200</displayModificationDateTime>
-            <activationDateTime>2014-02-10 16:46:49.072 @+0200</activationDateTime>
+            <activationDateTime>2014-02-27 13:42:37.111 @+0200</activationDateTime>
             <linksModificationDateTime>2013-12-26 12:55:46.802 @+0200</linksModificationDateTime>
             <isType>0</isType>
             <color>0</color>
@@ -1900,7 +1900,7 @@
             <creationDateTime>2014-01-29 13:07:28.177 @+0200</creationDateTime>
             <realModificationDateTime>2014-02-10 16:44:15.619 @+0200</realModificationDateTime>
             <displayModificationDateTime>2014-02-10 16:44:15.619 @+0200</displayModificationDateTime>
-            <activationDateTime>2014-02-16 16:43:35.594 @+0200</activationDateTime>
+            <activationDateTime>2014-02-27 13:43:00.068 @+0200</activationDateTime>
             <linksModificationDateTime>2014-02-16 16:39:44.770 @+0200</linksModificationDateTime>
             <isType>0</isType>
             <color>0</color>
@@ -1938,8 +1938,8 @@
             <label></label>
             <creationDateTime>2014-01-29 13:07:22.385 @+0200</creationDateTime>
             <realModificationDateTime>2014-02-10 12:30:19.556 @+0200</realModificationDateTime>
-            <displayModificationDateTime>2014-02-10 12:31:31.901 @+0200</displayModificationDateTime>
-            <activationDateTime>2014-02-10 12:29:59.921 @+0200</activationDateTime>
+            <displayModificationDateTime>2014-02-27 14:08:21.636 @+0200</displayModificationDateTime>
+            <activationDateTime>2014-02-27 14:08:12.236 @+0200</activationDateTime>
             <linksModificationDateTime>2013-12-03 14:06:16.914 @+0200</linksModificationDateTime>
             <isType>0</isType>
             <color>0</color>
@@ -1952,7 +1952,7 @@
             <creationDateTime>2014-01-29 13:07:28.555 @+0200</creationDateTime>
             <realModificationDateTime>2014-02-02 12:29:58.682 @+0200</realModificationDateTime>
             <displayModificationDateTime>2014-02-10 17:08:44.620 @+0200</displayModificationDateTime>
-            <activationDateTime>2014-02-23 15:54:33.902 @+0200</activationDateTime>
+            <activationDateTime>2014-02-27 13:41:56.828 @+0200</activationDateTime>
             <linksModificationDateTime>2013-11-28 16:19:33.197 @+0200</linksModificationDateTime>
             <isType>0</isType>
             <color>0</color>
@@ -2004,7 +2004,7 @@
             <creationDateTime>2014-01-29 13:07:26.534 @+0200</creationDateTime>
             <realModificationDateTime>2014-02-24 12:32:25.004 @+0200</realModificationDateTime>
             <displayModificationDateTime>2014-02-24 12:32:25.005 @+0200</displayModificationDateTime>
-            <activationDateTime>2014-02-24 12:30:06.658 @+0200</activationDateTime>
+            <activationDateTime>2014-02-27 13:12:25.756 @+0200</activationDateTime>
             <linksModificationDateTime>2013-12-03 17:13:21.000 @+0200</linksModificationDateTime>
             <isType>0</isType>
             <color>0</color>
@@ -2043,7 +2043,7 @@
             <creationDateTime>2014-01-29 13:07:28.563 @+0200</creationDateTime>
             <realModificationDateTime>2014-02-02 12:04:12.349 @+0200</realModificationDateTime>
             <displayModificationDateTime>2014-02-11 14:12:22.202 @+0200</displayModificationDateTime>
-            <activationDateTime>2014-02-25 14:47:39.348 @+0200</activationDateTime>
+            <activationDateTime>2014-02-27 13:41:57.804 @+0200</activationDateTime>
             <linksModificationDateTime>2014-01-07 18:03:17.000 @+0200</linksModificationDateTime>
             <isType>0</isType>
             <color>0</color>
@@ -2082,7 +2082,7 @@
             <creationDateTime>2014-01-29 13:07:28.717 @+0200</creationDateTime>
             <realModificationDateTime>2014-02-02 14:06:20.795 @+0200</realModificationDateTime>
             <displayModificationDateTime>2014-02-10 12:26:59.166 @+0200</displayModificationDateTime>
-            <activationDateTime>2014-02-24 16:29:41.540 @+0200</activationDateTime>
+            <activationDateTime>2014-02-27 14:54:41.480 @+0200</activationDateTime>
             <linksModificationDateTime>2014-01-07 18:03:23.000 @+0200</linksModificationDateTime>
             <isType>0</isType>
             <color>0</color>
@@ -2186,7 +2186,7 @@
             <creationDateTime>2014-01-29 12:58:56.113 @+0200</creationDateTime>
             <realModificationDateTime>2014-01-30 15:24:32.116 @+0200</realModificationDateTime>
             <displayModificationDateTime>2014-01-30 15:24:32.116 @+0200</displayModificationDateTime>
-            <activationDateTime>2014-02-24 16:36:45.220 @+0200</activationDateTime>
+            <activationDateTime>2014-02-27 13:22:26.433 @+0200</activationDateTime>
             <linksModificationDateTime>2013-12-23 17:42:08.310 @+0200</linksModificationDateTime>
             <isType>0</isType>
             <color>0</color>
@@ -2212,7 +2212,7 @@
             <creationDateTime>2014-01-29 13:07:30.961 @+0200</creationDateTime>
             <realModificationDateTime>2014-02-02 14:19:22.617 @+0200</realModificationDateTime>
             <displayModificationDateTime>2014-02-10 12:38:32.179 @+0200</displayModificationDateTime>
-            <activationDateTime>2014-02-24 16:29:40.508 @+0200</activationDateTime>
+            <activationDateTime>2014-02-27 14:08:05.051 @+0200</activationDateTime>
             <linksModificationDateTime>2014-01-07 18:46:52.000 @+0200</linksModificationDateTime>
             <isType>0</isType>
             <color>0</color>
@@ -2302,8 +2302,8 @@
             <label></label>
             <creationDateTime>2014-01-29 13:07:30.032 @+0200</creationDateTime>
             <realModificationDateTime>2014-02-23 14:51:34.310 @+0200</realModificationDateTime>
-            <displayModificationDateTime>2014-02-23 14:51:34.311 @+0200</displayModificationDateTime>
-            <activationDateTime>2014-02-25 14:47:40.395 @+0200</activationDateTime>
+            <displayModificationDateTime>2014-02-27 13:17:06.272 @+0200</displayModificationDateTime>
+            <activationDateTime>2014-02-27 14:54:42.523 @+0200</activationDateTime>
             <linksModificationDateTime>2014-01-29 13:08:14.946 @+0200</linksModificationDateTime>
             <isType>0</isType>
             <color>0</color>
@@ -2329,7 +2329,7 @@
             <creationDateTime>2014-01-29 13:07:30.023 @+0200</creationDateTime>
             <realModificationDateTime>2014-02-10 12:27:53.274 @+0200</realModificationDateTime>
             <displayModificationDateTime>2014-02-10 12:27:53.274 @+0200</displayModificationDateTime>
-            <activationDateTime>2014-02-24 16:26:34.645 @+0200</activationDateTime>
+            <activationDateTime>2014-02-27 14:53:25.525 @+0200</activationDateTime>
             <linksModificationDateTime>2013-12-03 14:13:40.000 @+0200</linksModificationDateTime>
             <isType>0</isType>
             <color>0</color>
@@ -2433,7 +2433,7 @@
             <creationDateTime>2014-01-29 12:58:59.428 @+0200</creationDateTime>
             <realModificationDateTime>2014-02-13 14:49:41.610 @+0200</realModificationDateTime>
             <displayModificationDateTime>2014-02-23 17:31:23.942 @+0200</displayModificationDateTime>
-            <activationDateTime>2014-02-24 16:36:46.795 @+0200</activationDateTime>
+            <activationDateTime>2014-02-27 14:07:55.308 @+0200</activationDateTime>
             <linksModificationDateTime>2014-01-29 12:59:13.692 @+0200</linksModificationDateTime>
             <isType>0</isType>
             <color>0</color>
@@ -2471,8 +2471,8 @@
             <label></label>
             <creationDateTime>2014-01-29 13:07:33.848 @+0200</creationDateTime>
             <realModificationDateTime>2014-02-02 12:34:50.560 @+0200</realModificationDateTime>
-            <displayModificationDateTime>2014-02-23 15:14:27.887 @+0200</displayModificationDateTime>
-            <activationDateTime>2014-02-23 15:03:36.662 @+0200</activationDateTime>
+            <displayModificationDateTime>2014-02-27 13:03:19.716 @+0200</displayModificationDateTime>
+            <activationDateTime>2014-02-27 13:03:09.146 @+0200</activationDateTime>
             <linksModificationDateTime>2013-11-26 15:04:23.000 @+0200</linksModificationDateTime>
             <isType>0</isType>
             <color>0</color>
@@ -2536,8 +2536,8 @@
             <label></label>
             <creationDateTime>2014-01-29 12:58:56.694 @+0200</creationDateTime>
             <realModificationDateTime>2014-02-03 12:52:31.271 @+0200</realModificationDateTime>
-            <displayModificationDateTime>2014-02-20 11:14:20.512 @+0200</displayModificationDateTime>
-            <activationDateTime>2014-02-20 11:13:31.209 @+0200</activationDateTime>
+            <displayModificationDateTime>2014-02-27 13:56:21.466 @+0200</displayModificationDateTime>
+            <activationDateTime>2014-02-27 13:52:00.277 @+0200</activationDateTime>
             <linksModificationDateTime>2013-12-23 17:40:25.000 @+0200</linksModificationDateTime>
             <isType>0</isType>
             <color>0</color>
@@ -2550,7 +2550,7 @@
             <creationDateTime>2014-01-29 13:07:33.553 @+0200</creationDateTime>
             <realModificationDateTime>2014-02-02 13:05:24.536 @+0200</realModificationDateTime>
             <displayModificationDateTime>2014-02-11 14:24:42.219 @+0200</displayModificationDateTime>
-            <activationDateTime>2014-02-11 14:26:17.436 @+0200</activationDateTime>
+            <activationDateTime>2014-02-27 13:41:37.521 @+0200</activationDateTime>
             <linksModificationDateTime>2013-11-26 14:47:23.000 @+0200</linksModificationDateTime>
             <isType>0</isType>
             <color>0</color>
@@ -2614,8 +2614,8 @@
             <label></label>
             <creationDateTime>2014-01-29 12:43:31.032 @+0200</creationDateTime>
             <realModificationDateTime>2014-01-30 12:01:15.573 @+0200</realModificationDateTime>
-            <displayModificationDateTime>2014-02-23 14:38:05.186 @+0200</displayModificationDateTime>
-            <activationDateTime>2014-02-23 14:30:41.572 @+0200</activationDateTime>
+            <displayModificationDateTime>2014-02-27 12:23:54.297 @+0200</displayModificationDateTime>
+            <activationDateTime>2014-02-27 12:23:40.832 @+0200</activationDateTime>
             <linksModificationDateTime>2013-11-03 17:01:43.000 @+0200</linksModificationDateTime>
             <isType>0</isType>
             <color>0</color>
@@ -2731,8 +2731,8 @@
             <label></label>
             <creationDateTime>2014-01-29 13:07:34.927 @+0200</creationDateTime>
             <realModificationDateTime>2014-02-23 16:14:38.636 @+0200</realModificationDateTime>
-            <displayModificationDateTime>2014-02-23 16:14:38.637 @+0200</displayModificationDateTime>
-            <activationDateTime>2014-02-23 16:09:11.135 @+0200</activationDateTime>
+            <displayModificationDateTime>2014-02-27 12:59:01.739 @+0200</displayModificationDateTime>
+            <activationDateTime>2014-02-27 12:58:50.260 @+0200</activationDateTime>
             <linksModificationDateTime>2013-12-03 15:11:46.000 @+0200</linksModificationDateTime>
             <isType>0</isType>
             <color>0</color>
@@ -2771,7 +2771,7 @@
             <creationDateTime>2014-01-29 12:49:37.747 @+0200</creationDateTime>
             <realModificationDateTime>2014-02-13 14:48:29.613 @+0200</realModificationDateTime>
             <displayModificationDateTime>2014-02-13 14:48:29.613 @+0200</displayModificationDateTime>
-            <activationDateTime>2014-02-20 15:48:47.431 @+0200</activationDateTime>
+            <activationDateTime>2014-02-27 14:58:58.641 @+0200</activationDateTime>
             <linksModificationDateTime>2014-01-29 12:49:59.146 @+0200</linksModificationDateTime>
             <isType>0</isType>
             <color>0</color>
@@ -2862,7 +2862,7 @@
             <creationDateTime>2014-01-29 13:22:52.610 @+0200</creationDateTime>
             <realModificationDateTime>2014-02-11 15:03:24.103 @+0200</realModificationDateTime>
             <displayModificationDateTime>2014-02-16 17:12:04.567 @+0200</displayModificationDateTime>
-            <activationDateTime>2014-02-16 17:11:55.850 @+0200</activationDateTime>
+            <activationDateTime>2014-02-27 13:19:10.853 @+0200</activationDateTime>
             <linksModificationDateTime>2013-11-06 16:07:07.000 @+0200</linksModificationDateTime>
             <isType>0</isType>
             <color>0</color>
@@ -2991,8 +2991,8 @@
             <label></label>
             <creationDateTime>2014-01-29 12:49:41.172 @+0200</creationDateTime>
             <realModificationDateTime>2014-02-09 17:05:35.880 @+0200</realModificationDateTime>
-            <displayModificationDateTime>2014-02-09 17:06:45.549 @+0200</displayModificationDateTime>
-            <activationDateTime>2014-02-11 12:36:57.443 @+0200</activationDateTime>
+            <displayModificationDateTime>2014-02-27 14:59:42.043 @+0200</displayModificationDateTime>
+            <activationDateTime>2014-02-27 14:59:27.641 @+0200</activationDateTime>
             <linksModificationDateTime>2013-11-06 13:06:34.000 @+0200</linksModificationDateTime>
             <isType>0</isType>
             <color>0</color>
@@ -3043,8 +3043,8 @@
             <label></label>
             <creationDateTime>2014-01-29 12:49:41.571 @+0200</creationDateTime>
             <realModificationDateTime>2014-02-09 17:10:29.153 @+0200</realModificationDateTime>
-            <displayModificationDateTime>2014-02-09 17:10:53.201 @+0200</displayModificationDateTime>
-            <activationDateTime>2014-02-09 17:10:10.040 @+0200</activationDateTime>
+            <displayModificationDateTime>2014-02-27 15:13:53.078 @+0200</displayModificationDateTime>
+            <activationDateTime>2014-02-27 15:03:56.591 @+0200</activationDateTime>
             <linksModificationDateTime>2013-11-06 13:09:32.000 @+0200</linksModificationDateTime>
             <isType>0</isType>
             <color>0</color>
@@ -3057,7 +3057,7 @@
             <creationDateTime>2014-01-29 13:22:54.353 @+0200</creationDateTime>
             <realModificationDateTime>2014-02-13 14:49:20.138 @+0200</realModificationDateTime>
             <displayModificationDateTime>2014-02-13 14:49:20.138 @+0200</displayModificationDateTime>
-            <activationDateTime>2014-02-23 13:06:34.462 @+0200</activationDateTime>
+            <activationDateTime>2014-02-27 13:19:36.046 @+0200</activationDateTime>
             <linksModificationDateTime>2014-01-29 13:23:10.307 @+0200</linksModificationDateTime>
             <isType>0</isType>
             <color>0</color>
@@ -3070,7 +3070,7 @@
             <creationDateTime>2014-01-29 12:49:40.513 @+0200</creationDateTime>
             <realModificationDateTime>2014-02-16 11:24:52.554 @+0200</realModificationDateTime>
             <displayModificationDateTime>2014-02-16 11:24:52.554 @+0200</displayModificationDateTime>
-            <activationDateTime>2014-02-16 11:24:24.293 @+0200</activationDateTime>
+            <activationDateTime>2014-02-27 14:59:04.609 @+0200</activationDateTime>
             <linksModificationDateTime>2013-12-01 16:37:06.000 @+0200</linksModificationDateTime>
             <isType>0</isType>
             <color>ffffffff</color>
@@ -3239,7 +3239,7 @@
             <creationDateTime>2014-01-29 13:22:55.855 @+0200</creationDateTime>
             <realModificationDateTime>2014-02-11 15:01:59.907 @+0200</realModificationDateTime>
             <displayModificationDateTime>2014-02-11 15:01:59.907 @+0200</displayModificationDateTime>
-            <activationDateTime>2014-02-23 13:06:30.294 @+0200</activationDateTime>
+            <activationDateTime>2014-02-27 13:19:29.317 @+0200</activationDateTime>
             <linksModificationDateTime>2013-11-06 16:18:39.295 @+0200</linksModificationDateTime>
             <isType>0</isType>
             <color>0</color>
@@ -11041,7 +11041,8 @@ margin: 0cm;  margin-bottom: .0001pt;  line-height: 115%;  font-size: 11.0pt;  f
                     <objectID>3F91F2E9-A5A6-89D6-9D7E-0C433E7DB3F6</objectID>
                 </EntryObject>
             </EntryObjects>
-            <body>&amp;lt;!DOCTYPE html PUBLIC &amp;quot;-//W3C//DTD XHTML 1.0 Transitional//EN&amp;quot; &amp;quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&amp;quot;&amp;gt;&amp;lt;html xmlns=&amp;quot;http://www.w3.org/1999/xhtml&amp;quot;&amp;gt;
+            <body>&amp;lt;!DOCTYPE html PUBLIC &amp;quot;-//W3C//DTD XHTML 1.0 Transitional//EN&amp;quot; &amp;quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&amp;quot;&amp;gt; 
+&amp;lt;html xmlns=&amp;quot;http://www.w3.org/1999/xhtml&amp;quot;&amp;gt;
 &amp;lt;head&amp;gt;
 &amp;lt;meta name=&amp;quot;generator&amp;quot; content=&amp;quot;EditLive! 7.6.2.10&amp;quot; /&amp;gt;
 &amp;lt;meta name=&amp;quot;generator&amp;quot; content=&amp;quot;TheBrain 7.0.4.5&amp;quot; /&amp;gt;
@@ -11054,20 +11055,17 @@ font-family: Arial;  font-size: small;  background: #ffffff;  color: #000000;
 p {
 margin-top: 0pt;  margin-bottom: 0pt;
 }
-p.msonormal {
-margin: 0cm;  margin-bottom: .0001pt;  font-size: 12.0pt;  font-family: &amp;quot;Times New Roman&amp;quot;, serif;
-}
 --&amp;gt;
 &amp;lt;/style&amp;gt;
 &amp;lt;/head&amp;gt;
 &amp;lt;body&amp;gt;
-&amp;lt;p class=&amp;quot;MsoNormal&amp;quot;&amp;gt;Dr. Shoshana Weich ha documentado m&amp;#250;sica en Ladino durante muchos a&amp;#241;os. En el video Dr. Weich presenta una introducci&amp;#243;n (min. 00:00-07:21) seguida por varias grabaciones que hizo de canciones en Ladino (min. 7:21-21:00). Dr. Weich deposit&amp;#243; su colecci&amp;#243;n en la Bibloteca Nacional de Israel. La &amp;#250;ltima parte incluye una grabaci&amp;#243;n de m&amp;#250;sica en Ladino hecha en el concierto &amp;quot;El Cancionero y el Romansero Espa&amp;#241;ol seg&amp;#250;n la tradici&amp;#243;n de los Jud&amp;#237;os de Sal&amp;#243;nica&amp;quot;, que tuvo lugar en la BNI el 20 de Noviembre de 2013 (min.21:00-49:02).&amp;lt;/p&amp;gt;
+&amp;lt;p class=&amp;quot;MsoNormal&amp;quot;&amp;gt;Dr. Shoshana Weich ha documentado m&amp;#250;sica en Ladino durante muchos a&amp;#241;os. En el video Dr. Weich presenta una introducci&amp;#243;n (min. 00:00-07:21) seguida por varias grabaciones que hizo de canciones en Ladino (min. 7:21-21:00). Dr. Weich deposit&amp;#243; su colecci&amp;#243;n en la Bibloteca Nacional de Israel. La &amp;#250;ltima parte incluye una grabaci&amp;#243;n de m&amp;#250;sica en Ladino hecha en el concierto &amp;quot;El &amp;lt;i&amp;gt;Cancionero&amp;lt;/i&amp;gt; y el &amp;lt;i&amp;gt;Romancero&amp;lt;/i&amp;gt; Espa&amp;#241;ol seg&amp;#250;n la tradici&amp;#243;n de los Jud&amp;#237;os de Sal&amp;#243;nica&amp;quot;, que tuvo lugar en la BNI el 20 de Noviembre de 2013 (min.21:00-49:02).&amp;lt;/p&amp;gt;
 &amp;lt;/body&amp;gt;
 &amp;lt;/html&amp;gt;
 </body>
             <format>HTML</format>
             <creationDateTime>2014-02-25 15:08:59.846 @+0200</creationDateTime>
-            <modificationDateTime>2014-02-25 15:09:07.809 @+0200</modificationDateTime>
+            <modificationDateTime>2014-02-27 14:02:37.253 @+0200</modificationDateTime>
         </Entry>
         <Entry>
             <guid>B8D8E18B-700F-9DC4-4A91-0011858C127F</guid>
@@ -15825,11 +15823,11 @@ margin: 0cm;  margin-bottom: .0001pt;  line-height: 115%;  font-size: 11.0pt;  f
             <objectID>5F686845-0FE0-05B2-DA4E-F175EF995458</objectID>
             <name>Gemelas sobrevivientes describen su llegada a Auschwitz (en Hebreo con subt&amp;#237;tulos en Ingl&amp;#233;s)</name>
             <attachmentType>3</attachmentType>
-            <location>http://www.youtube.com/watch?v=FDl8YkSJ_xU&amp;amp;feature=youtu.be</location>
+            <location>http://www.youtube.com/watch?v=FDl8YkSJ_xU</location>
             <dataLength>0</dataLength>
             <format>.be</format>
             <creationDateTime>2014-02-23 14:41:35.350 @+0200</creationDateTime>
-            <modificationDateTime>2014-02-23 14:42:07.225 @+0200</modificationDateTime>
+            <modificationDateTime>2014-02-27 12:23:09.461 @+0200</modificationDateTime>
         </Attachment>
         <Attachment>
             <guid>6413AA78-9D6E-0868-49BA-F64F159C6FA6</guid>
@@ -17281,11 +17279,11 @@ margin: 0cm;  margin-bottom: .0001pt;  line-height: 115%;  font-size: 11.0pt;  f
             <objectID>EB4FD149-5DEF-8C54-818E-9F93C286A13E</objectID>
             <name>Richler cuenta la historia del descubrimiento en Ingl&amp;#233;s</name>
             <attachmentType>3</attachmentType>
-            <location>http://www.youtube.com/watch?v=sSD8lHMSCZ4&amp;amp;feature=youtu.be</location>
+            <location>http://www.youtube.com/watch?v=sSD8lHMSCZ4</location>
             <dataLength>0</dataLength>
             <format>.be</format>
             <creationDateTime>2014-02-23 14:29:29.233 @+0200</creationDateTime>
-            <modificationDateTime>2014-02-23 14:29:29.606 @+0200</modificationDateTime>
+            <modificationDateTime>2014-02-27 13:14:55.087 @+0200</modificationDateTime>
         </Attachment>
         <Attachment>
             <guid>D34A1BA7-AD69-ED44-4F89-CAF0C5C0133D</guid>
@@ -17355,7 +17353,7 @@ margin: 0cm;  margin-bottom: .0001pt;  line-height: 115%;  font-size: 11.0pt;  f
             <dataLength>65226</dataLength>
             <format>.jpg</format>
             <creationDateTime>2014-02-10 15:44:35.433 @+0200</creationDateTime>
-            <modificationDateTime>2014-02-13 14:36:32.368 @+0200</modificationDateTime>
+            <modificationDateTime>2014-02-27 14:56:03.023 @+0200</modificationDateTime>
         </Attachment>
         <Attachment>
             <guid>964AD5A0-382C-9D5D-386A-9E2201F4A19F</guid>
@@ -17369,7 +17367,7 @@ margin: 0cm;  margin-bottom: .0001pt;  line-height: 115%;  font-size: 11.0pt;  f
             <dataLength>101989</dataLength>
             <format>.jpg</format>
             <creationDateTime>2014-02-10 15:44:35.470 @+0200</creationDateTime>
-            <modificationDateTime>2014-02-13 14:37:03.642 @+0200</modificationDateTime>
+            <modificationDateTime>2014-02-27 14:56:09.957 @+0200</modificationDateTime>
         </Attachment>
         <Attachment>
             <guid>CB7651DA-DA9E-F1B5-38D7-8ACE56E72ABC</guid>
@@ -17383,7 +17381,7 @@ margin: 0cm;  margin-bottom: .0001pt;  line-height: 115%;  font-size: 11.0pt;  f
             <dataLength>103880</dataLength>
             <format>.jpg</format>
             <creationDateTime>2014-02-10 15:44:35.487 @+0200</creationDateTime>
-            <modificationDateTime>2014-02-11 11:37:31.095 @+0200</modificationDateTime>
+            <modificationDateTime>2014-02-27 14:55:48.214 @+0200</modificationDateTime>
         </Attachment>
         <Attachment>
             <guid>B9E270D8-D867-AE05-81A1-796BC22369DF</guid>
@@ -17391,13 +17389,13 @@ margin: 0cm;  margin-bottom: .0001pt;  line-height: 115%;  font-size: 11.0pt;  f
                 <attachmentEntryID>34D71717-373E-94B1-A80A-8AD8B9284C2F</attachmentEntryID>
             </AttachmentEntries>
             <objectID>56BF9C7F-8E83-080D-9541-6DD1DE77EB36</objectID>
-            <name>La mesa de circulaci&amp;#243;n en el d&amp;#237;a de la apertura de la BNI, 1.11.1960 , D. Haris, BNI.jpg</name>
+            <name>La mesa de circulaci&amp;#243;n en el d&amp;#237;a de la apertura de la BNI, 1.11.1960 , (Foto de David Charis).jpg</name>
             <attachmentType>1</attachmentType>
-            <location>56BF9C7F-8E83-080D-9541-6DD1DE77EB36\La mesa de circulaci&amp;#243;n en el d&amp;#237;a de la apertura de la BNI, 1.11.1960 , D. Haris, BNI.jpg</location>
+            <location>56BF9C7F-8E83-080D-9541-6DD1DE77EB36\La mesa de circulaci&amp;#243;n en el d&amp;#237;a de la apertura de la BNI, 1.11.1960 , (Foto de David Charis).jpg</location>
             <dataLength>97543</dataLength>
             <format>.jpg</format>
             <creationDateTime>2014-02-10 15:44:35.501 @+0200</creationDateTime>
-            <modificationDateTime>2014-02-11 11:36:57.299 @+0200</modificationDateTime>
+            <modificationDateTime>2014-02-27 14:55:55.898 @+0200</modificationDateTime>
         </Attachment>
         <Attachment>
             <guid>0B0AE572-B8B6-0B39-EC03-30D728AAF0C5</guid>
@@ -17411,7 +17409,7 @@ margin: 0cm;  margin-bottom: .0001pt;  line-height: 115%;  font-size: 11.0pt;  f
             <dataLength>113933</dataLength>
             <format>.jpg</format>
             <creationDateTime>2014-02-10 15:44:35.517 @+0200</creationDateTime>
-            <modificationDateTime>2014-02-12 13:03:16.761 @+0200</modificationDateTime>
+            <modificationDateTime>2014-02-27 14:56:16.854 @+0200</modificationDateTime>
         </Attachment>
         <Attachment>
             <guid>B0ADF10F-528E-5172-6ADE-43E0AAC92C97</guid>
@@ -17425,7 +17423,7 @@ margin: 0cm;  margin-bottom: .0001pt;  line-height: 115%;  font-size: 11.0pt;  f
             <dataLength>108590</dataLength>
             <format>.jpg</format>
             <creationDateTime>2014-02-10 15:44:35.244 @+0200</creationDateTime>
-            <modificationDateTime>2014-02-11 11:34:43.694 @+0200</modificationDateTime>
+            <modificationDateTime>2014-02-27 14:55:32.970 @+0200</modificationDateTime>
         </Attachment>
         <Attachment>
             <guid>0EDC9385-5324-974E-0CF6-1AC073DCF09C</guid>
@@ -17461,13 +17459,13 @@ margin: 0cm;  margin-bottom: .0001pt;  line-height: 115%;  font-size: 11.0pt;  f
                 <attachmentEntryID>E5779799-A4D9-1AF5-7FFC-463D086A3164</attachmentEntryID>
             </AttachmentEntries>
             <objectID>693D46A8-1A91-41DF-5FF3-A20010E8D386</objectID>
-            <name>El equipo de la biblioteca con Bergmann como director en el centro, c. 1935, BNI.jpg</name>
+            <name>El equipo de la biblioteca con Bergmann como director en el centro, c. 1935.jpg</name>
             <attachmentType>1</attachmentType>
-            <location>693D46A8-1A91-41DF-5FF3-A20010E8D386\El equipo de la biblioteca con Bergmann como director en el centro, c. 1935, BNI.jpg</location>
+            <location>693D46A8-1A91-41DF-5FF3-A20010E8D386\El equipo de la biblioteca con Bergmann como director en el centro, c. 1935.jpg</location>
             <dataLength>102100</dataLength>
             <format>.jpg</format>
             <creationDateTime>2014-02-10 15:44:35.307 @+0200</creationDateTime>
-            <modificationDateTime>2014-02-12 13:01:49.570 @+0200</modificationDateTime>
+            <modificationDateTime>2014-02-27 14:55:25.065 @+0200</modificationDateTime>
         </Attachment>
         <Attachment>
             <guid>A86D8EDB-1ADA-41C7-C24B-0AB5B8C5CBFB</guid>
@@ -17495,7 +17493,7 @@ margin: 0cm;  margin-bottom: .0001pt;  line-height: 115%;  font-size: 11.0pt;  f
             <dataLength>79413</dataLength>
             <format>.jpg</format>
             <creationDateTime>2014-02-10 15:44:35.621 @+0200</creationDateTime>
-            <modificationDateTime>2014-02-11 11:42:13.453 @+0200</modificationDateTime>
+            <modificationDateTime>2014-02-27 14:56:39.809 @+0200</modificationDateTime>
         </Attachment>
         <Attachment>
             <guid>6FA65F56-86DE-38F2-A5F1-860216C9AAEE</guid>
@@ -17551,7 +17549,7 @@ margin: 0cm;  margin-bottom: .0001pt;  line-height: 115%;  font-size: 11.0pt;  f
             <dataLength>605610</dataLength>
             <format>.jpg</format>
             <creationDateTime>2014-02-10 15:44:35.216 @+0200</creationDateTime>
-            <modificationDateTime>2014-02-24 16:37:32.771 @+0200</modificationDateTime>
+            <modificationDateTime>2014-02-27 14:55:06.553 @+0200</modificationDateTime>
         </Attachment>
         <Attachment>
             <guid>EB368575-0106-1DB9-D574-75E8BD89E3D3</guid>
@@ -17883,11 +17881,11 @@ margin: 0cm;  margin-bottom: .0001pt;  line-height: 115%;  font-size: 11.0pt;  f
             <objectID>B9A5DA7A-D132-ACC5-C1EB-F21A3A65455A</objectID>
             <name>La Praga de Kafka</name>
             <attachmentType>3</attachmentType>
-            <location>http://www.youtube.com/watch?v=dKIXCITRZmU&amp;amp;feature=youtu.be</location>
+            <location>http://www.youtube.com/watch?v=dKIXCITRZmU</location>
             <dataLength>0</dataLength>
             <format>.be</format>
             <creationDateTime>2014-02-23 14:56:24.811 @+0200</creationDateTime>
-            <modificationDateTime>2014-02-23 14:57:16.295 @+0200</modificationDateTime>
+            <modificationDateTime>2014-02-27 13:01:19.836 @+0200</modificationDateTime>
         </Attachment>
         <Attachment>
             <guid>283E6839-CA53-630B-7DA6-41FB3BEC3458</guid>
@@ -17895,13 +17893,13 @@ margin: 0cm;  margin-bottom: .0001pt;  line-height: 115%;  font-size: 11.0pt;  f
                 <attachmentEntryID>D18E09CC-A38F-8B33-2628-6ADE1F4BAB0B</attachmentEntryID>
             </AttachmentEntries>
             <objectID>00CAB613-4C62-F66B-6D7C-36493C9FC1A7</objectID>
-            <name>La &amp;#218;ltima Casa de Stefan Zweig (en Ingl&amp;#233;s)</name>
+            <name>La &amp;#218;ltima Casa de Stefan Zweig</name>
             <attachmentType>3</attachmentType>
-            <location>http://www.youtube.com/watch?v=1QSZElLKG0o&amp;amp;feature=youtu.be</location>
+            <location>http://www.youtube.com/watch?v=1QSZElLKG0o</location>
             <dataLength>0</dataLength>
             <format>.be</format>
             <creationDateTime>2014-02-23 15:44:59.550 @+0200</creationDateTime>
-            <modificationDateTime>2014-02-23 15:48:54.703 @+0200</modificationDateTime>
+            <modificationDateTime>2014-02-27 13:08:31.310 @+0200</modificationDateTime>
         </Attachment>
         <Attachment>
             <guid>BCFE441A-F5FB-92ED-DF39-EEA2204AD474</guid>
@@ -18013,7 +18011,7 @@ margin: 0cm;  margin-bottom: .0001pt;  line-height: 115%;  font-size: 11.0pt;  f
             <dataLength>205832</dataLength>
             <format>.jpg</format>
             <creationDateTime>2014-02-10 15:44:35.675 @+0200</creationDateTime>
-            <modificationDateTime>2014-02-11 11:43:16.638 @+0200</modificationDateTime>
+            <modificationDateTime>2014-02-27 14:56:52.529 @+0200</modificationDateTime>
         </Attachment>
         <Attachment>
             <guid>B766EC7D-1988-96E2-F6D7-0F3BE2767D01</guid>
@@ -18027,7 +18025,7 @@ margin: 0cm;  margin-bottom: .0001pt;  line-height: 115%;  font-size: 11.0pt;  f
             <dataLength>141925</dataLength>
             <format>.jpg</format>
             <creationDateTime>2014-02-10 15:44:35.690 @+0200</creationDateTime>
-            <modificationDateTime>2014-02-16 11:55:00.341 @+0200</modificationDateTime>
+            <modificationDateTime>2014-02-27 14:57:00.423 @+0200</modificationDateTime>
         </Attachment>
         <Attachment>
             <guid>0464C51C-4D4D-A534-2E04-9F692493D940</guid>
@@ -18051,11 +18049,11 @@ margin: 0cm;  margin-bottom: .0001pt;  line-height: 115%;  font-size: 11.0pt;  f
             <objectID>3F91F2E9-A5A6-89D6-9D7E-0C433E7DB3F6</objectID>
             <name>La colecci&amp;#243;n de Dr. Shoshana Weich-Shahak</name>
             <attachmentType>3</attachmentType>
-            <location>http://www.youtube.com/watch?v=890qst6GSaY&amp;amp;feature=youtu.be</location>
+            <location>http://www.youtube.com/watch?v=890qst6GSaY</location>
             <dataLength>0</dataLength>
             <format>.be</format>
             <creationDateTime>2014-02-25 15:09:29.805 @+0200</creationDateTime>
-            <modificationDateTime>2014-02-25 15:09:48.958 @+0200</modificationDateTime>
+            <modificationDateTime>2014-02-27 13:13:24.731 @+0200</modificationDateTime>
         </Attachment>
         <Attachment>
             <guid>F58503C6-85FE-368D-0C96-2AC3F8D4A1F4</guid>
@@ -18111,7 +18109,7 @@ margin: 0cm;  margin-bottom: .0001pt;  line-height: 115%;  font-size: 11.0pt;  f
             <dataLength>122236</dataLength>
             <format>.jpg</format>
             <creationDateTime>2014-01-29 12:59:10.377 @+0200</creationDateTime>
-            <modificationDateTime>2014-01-29 12:59:10.377 @+0200</modificationDateTime>
+            <modificationDateTime>2014-02-27 14:06:14.536 @+0200</modificationDateTime>
         </Attachment>
         <Attachment>
             <guid>C4F1C8E9-B470-E2CB-8E35-D068B5C0C776</guid>
@@ -18119,13 +18117,13 @@ margin: 0cm;  margin-bottom: .0001pt;  line-height: 115%;  font-size: 11.0pt;  f
                 <attachmentEntryID>63E01F29-31FC-524F-0EF8-5EBEFC49E13F</attachmentEntryID>
             </AttachmentEntries>
             <objectID>0B2BD36E-A6E5-0282-CF07-4E244E18CB6F</objectID>
-            <name>Gershom Scholem, 1925, BNI.jpg</name>
+            <name>Gershom Scholem, 1925.jpg</name>
             <attachmentType>1</attachmentType>
-            <location>0B2BD36E-A6E5-0282-CF07-4E244E18CB6F\Gershom Scholem, 1925, BNI.jpg</location>
+            <location>0B2BD36E-A6E5-0282-CF07-4E244E18CB6F\Gershom Scholem, 1925.jpg</location>
             <dataLength>51145</dataLength>
             <format>.jpg</format>
             <creationDateTime>2014-01-29 12:59:10.391 @+0200</creationDateTime>
-            <modificationDateTime>2014-02-03 13:10:29.732 @+0200</modificationDateTime>
+            <modificationDateTime>2014-02-27 14:06:07.127 @+0200</modificationDateTime>
         </Attachment>
         <Attachment>
             <guid>9644533B-1208-33C5-0872-36E2F4262744</guid>
@@ -18161,13 +18159,13 @@ margin: 0cm;  margin-bottom: .0001pt;  line-height: 115%;  font-size: 11.0pt;  f
                 <attachmentEntryID>78D74965-AC20-D57D-405C-5EA466BCD0DD</attachmentEntryID>
             </AttachmentEntries>
             <objectID>B1672742-A3B6-91B3-4F54-B51E19F39D89</objectID>
-            <name>Kerekh Qatan, Haim Vital, una copia de 1714, la Colecci&amp;#243;n Scholem, BNI.jpg</name>
+            <name>Sefer Kerekh Qatan, Haim Vital, un manuscrito del a&amp;#241;o 1714, la Colecci&amp;#243;n Scholem, BNI.jpg</name>
             <attachmentType>1</attachmentType>
-            <location>B1672742-A3B6-91B3-4F54-B51E19F39D89\Kerekh Qatan, Haim Vital, una copia de 1714, la Colecci&amp;#243;n Scholem, BNI.jpg</location>
+            <location>B1672742-A3B6-91B3-4F54-B51E19F39D89\Sefer Kerekh Qatan, Haim Vital, un manuscrito del a&amp;#241;o 1714, la Colecci&amp;#243;n Scholem, BNI.jpg</location>
             <dataLength>109810</dataLength>
             <format>.jpg</format>
             <creationDateTime>2014-01-29 12:59:10.337 @+0200</creationDateTime>
-            <modificationDateTime>2014-02-03 13:10:16.283 @+0200</modificationDateTime>
+            <modificationDateTime>2014-02-27 13:25:18.712 @+0200</modificationDateTime>
         </Attachment>
         <Attachment>
             <guid>2FAF37E3-6594-8F26-CE35-74CA5C5712EE</guid>
@@ -18205,11 +18203,11 @@ margin: 0cm;  margin-bottom: .0001pt;  line-height: 115%;  font-size: 11.0pt;  f
             <objectID>70F1F07B-915B-F430-74FC-A0425393D6E4</objectID>
             <name>Los nazis llegan al poder (en Ingl&amp;#233;s)</name>
             <attachmentType>3</attachmentType>
-            <location>http://www.youtube.com/watch?v=AF1E1WtcYXI&amp;amp;feature=youtu.be</location>
+            <location>http://www.youtube.com/watch?v=AF1E1WtcYXI</location>
             <dataLength>0</dataLength>
             <format>.be</format>
             <creationDateTime>2014-02-23 15:22:33.816 @+0200</creationDateTime>
-            <modificationDateTime>2014-02-23 15:22:59.468 @+0200</modificationDateTime>
+            <modificationDateTime>2014-02-27 13:09:57.554 @+0200</modificationDateTime>
         </Attachment>
         <Attachment>
             <guid>5F5B8ED5-E9DC-1EAC-25F5-2C3F8DBE15FC</guid>
@@ -18839,7 +18837,7 @@ margin: 0cm;  margin-bottom: .0001pt;  line-height: 115%;  font-size: 11.0pt;  f
             <dataLength>24344</dataLength>
             <format>.jpg</format>
             <creationDateTime>2014-01-29 13:08:01.048 @+0200</creationDateTime>
-            <modificationDateTime>2014-01-29 13:08:01.048 @+0200</modificationDateTime>
+            <modificationDateTime>2014-02-27 14:08:21.635 @+0200</modificationDateTime>
         </Attachment>
         <Attachment>
             <guid>7F3A02C7-04C2-E891-7E09-CC9255419CEE</guid>
@@ -18847,13 +18845,13 @@ margin: 0cm;  margin-bottom: .0001pt;  line-height: 115%;  font-size: 11.0pt;  f
                 <attachmentEntryID>A9643A8F-AD71-F3C9-9845-BE4EBACBDCEE</attachmentEntryID>
             </AttachmentEntries>
             <objectID>448A68D1-326C-D903-A151-5FE65663F890</objectID>
-            <name>Gershom Scholem.jpg</name>
+            <name>Gershom Scholem, BNI.jpg</name>
             <attachmentType>1</attachmentType>
-            <location>448A68D1-326C-D903-A151-5FE65663F890\Gershom Scholem.jpg</location>
+            <location>448A68D1-326C-D903-A151-5FE65663F890\Gershom Scholem, BNI.jpg</location>
             <dataLength>41806</dataLength>
             <format>.jpg</format>
             <creationDateTime>2014-01-29 13:08:01.074 @+0200</creationDateTime>
-            <modificationDateTime>2014-01-29 13:08:01.074 @+0200</modificationDateTime>
+            <modificationDateTime>2014-02-27 13:20:30.983 @+0200</modificationDateTime>
         </Attachment>
         <Attachment>
             <guid>A3DD0B9B-2063-33A8-B0F1-DEB7334DCFF1</guid>
@@ -19647,11 +19645,11 @@ margin: 0cm;  margin-bottom: .0001pt;  line-height: 115%;  font-size: 11.0pt;  f
             <objectID>009AFF8A-7D15-F90B-EBDE-1B572F9D7ED5</objectID>
             <name>Soldados Jud&amp;#237;os en el ej&amp;#233;rcito Austro-H&amp;#250;ngaro (en Ingl&amp;#233;s)</name>
             <attachmentType>3</attachmentType>
-            <location>http://www.youtube.com/watch?v=Kx5emPupZyo&amp;amp;feature=youtu.be</location>
+            <location>http://www.youtube.com/watch?v=Kx5emPupZyo</location>
             <dataLength>0</dataLength>
             <format>.be</format>
             <creationDateTime>2014-02-23 14:51:01.047 @+0200</creationDateTime>
-            <modificationDateTime>2014-02-23 14:51:25.184 @+0200</modificationDateTime>
+            <modificationDateTime>2014-02-27 13:17:06.271 @+0200</modificationDateTime>
         </Attachment>
         <Attachment>
             <guid>D309A65D-F918-5E9D-2847-007079B2D02D</guid>
@@ -19871,11 +19869,11 @@ margin: 0cm;  margin-bottom: .0001pt;  line-height: 115%;  font-size: 11.0pt;  f
             <objectID>50F6B590-8A6C-A11A-E704-EB7A6C61EF9A</objectID>
             <name>La Primera Guerra Mundial</name>
             <attachmentType>3</attachmentType>
-            <location>http://www.youtube.com/watch?v=2QpmxhN16Lw&amp;amp;feature=youtu.be</location>
+            <location>http://www.youtube.com/watch?v=2QpmxhN16Lw</location>
             <dataLength>0</dataLength>
             <format>.be</format>
             <creationDateTime>2014-02-23 15:13:59.878 @+0200</creationDateTime>
-            <modificationDateTime>2014-02-23 15:14:20.177 @+0200</modificationDateTime>
+            <modificationDateTime>2014-02-27 13:03:19.700 @+0200</modificationDateTime>
         </Attachment>
         <Attachment>
             <guid>2012A506-8F7A-7909-6234-99200A6BB82B</guid>
@@ -20009,13 +20007,13 @@ margin: 0cm;  margin-bottom: .0001pt;  line-height: 115%;  font-size: 11.0pt;  f
                 <attachmentEntryID>BDB12AA9-7746-EA8A-00E0-59A26A3385FF</attachmentEntryID>
             </AttachmentEntries>
             <objectID>7660CE39-5432-7D03-DF5C-1645E15FBAF7</objectID>
-            <name>Portae Lucis, traducci&amp;#243;n al Lat&amp;#237;n de la obra cabal&amp;#237;stica de Gikatilla Shaarei Or&amp;#225; &amp;#8211; Las Puertas de la Luz.jpg</name>
+            <name>Portae Lucis, traducci&amp;#243;n de Riccio al Lat&amp;#237;n de la obra cabal&amp;#237;stica de Gikatilla Shaarei Or&amp;#225; &amp;#8211; Las Puertas de la Luz, Augsburgo 1516.jpg</name>
             <attachmentType>1</attachmentType>
-            <location>7660CE39-5432-7D03-DF5C-1645E15FBAF7\Portae Lucis, traducci&amp;#243;n al Lat&amp;#237;n de la obra cabal&amp;#237;stica de Gikatilla Shaarei Or&amp;#225; &amp;#8211; Las Puertas de la Luz.jpg</location>
+            <location>7660CE39-5432-7D03-DF5C-1645E15FBAF7\Portae Lucis, traducci&amp;#243;n de Riccio al Lat&amp;#237;n de la obra cabal&amp;#237;stica de Gikatilla Shaarei Or&amp;#225; &amp;#8211; Las Puertas de la Luz, Augsburgo 1516.jpg</location>
             <dataLength>430796</dataLength>
             <format>.jpg</format>
             <creationDateTime>2014-02-03 12:52:03.129 @+0200</creationDateTime>
-            <modificationDateTime>2014-02-20 11:14:20.511 @+0200</modificationDateTime>
+            <modificationDateTime>2014-02-27 13:56:21.465 @+0200</modificationDateTime>
         </Attachment>
         <Attachment>
             <guid>8F7C1948-9298-61A5-346B-074B7C2BF2A0</guid>
@@ -20235,11 +20233,11 @@ margin: 0cm;  margin-bottom: .0001pt;  line-height: 115%;  font-size: 11.0pt;  f
             <objectID>93AE1102-D348-2B9E-B61C-C98672633826</objectID>
             <name>EL &amp;#193;lbum de Auschwitz, prueba visual del exterminio de los Jud&amp;#237;os en Auschwitz-Birkenau (en Ingl&amp;#233;s)</name>
             <attachmentType>3</attachmentType>
-            <location>http://www.youtube.com/watch?v=DkqggLWn8t4&amp;amp;feature=youtu.be</location>
+            <location>http://www.youtube.com/watch?v=DkqggLWn8t4</location>
             <dataLength>0</dataLength>
             <format>.be</format>
             <creationDateTime>2014-02-23 14:37:10.889 @+0200</creationDateTime>
-            <modificationDateTime>2014-02-23 14:37:54.079 @+0200</modificationDateTime>
+            <modificationDateTime>2014-02-27 12:23:54.296 @+0200</modificationDateTime>
         </Attachment>
         <Attachment>
             <guid>6CB2D53C-8DBF-9123-F01A-A2922B913FF3</guid>
@@ -20417,11 +20415,11 @@ margin: 0cm;  margin-bottom: .0001pt;  line-height: 115%;  font-size: 11.0pt;  f
             <objectID>95934A56-2137-1032-C7F4-2BD7F29A375E</objectID>
             <name>La Obra de Arte en la Era de la Reproducci&amp;#243;n Mec&amp;#225;nica, Walter Benjamin, secci&amp;#243;n XV, (en Ingl&amp;#233;s)</name>
             <attachmentType>3</attachmentType>
-            <location>http://www.youtube.com/watch?v=t2gObGO7KYs&amp;amp;feature=youtu.be</location>
+            <location>http://www.youtube.com/watch?v=t2gObGO7KYs</location>
             <dataLength>0</dataLength>
             <format>.be</format>
             <creationDateTime>2014-02-23 16:14:03.828 @+0200</creationDateTime>
-            <modificationDateTime>2014-02-23 16:14:28.955 @+0200</modificationDateTime>
+            <modificationDateTime>2014-02-27 12:59:01.722 @+0200</modificationDateTime>
         </Attachment>
         <Attachment>
             <guid>A6312A08-72A3-87C3-21E3-61C2C7CEB62E</guid>
@@ -20816,20 +20814,6 @@ margin: 0cm;  margin-bottom: .0001pt;  line-height: 115%;  font-size: 11.0pt;  f
             <modificationDateTime>2014-02-05 14:04:20.454 @+0200</modificationDateTime>
         </Attachment>
         <Attachment>
-            <guid>114E5E48-ADA3-E914-3877-B5DE4CB41C69</guid>
-            <AttachmentEntries>
-                <attachmentEntryID>DA8D957A-99E0-E1A4-AD2D-C1C3AD27BB64</attachmentEntryID>
-            </AttachmentEntries>
-            <objectID>DF6089D1-D5E1-82D5-A31D-1B98BE878817</objectID>
-            <name>Hanhagat ha-Beri&amp;apos;ut (tratado de medicina) de Maim&amp;#243;nides, Florencia 1481, BNI.jpg</name>
-            <attachmentType>1</attachmentType>
-            <location>DF6089D1-D5E1-82D5-A31D-1B98BE878817\Hanhagat ha-Beri&amp;apos;ut (tratado de medicina) de Maim&amp;#243;nides, Florencia 1481, BNI.jpg</location>
-            <dataLength>130728</dataLength>
-            <format>.jpg</format>
-            <creationDateTime>2014-01-29 12:49:54.788 @+0200</creationDateTime>
-            <modificationDateTime>2014-02-05 14:03:34.698 @+0200</modificationDateTime>
-        </Attachment>
-        <Attachment>
             <guid>3DCF0B52-8192-BE64-7283-0F6FD2A0D838</guid>
             <AttachmentEntries>
                 <attachmentEntryID>DA8D957A-99E0-E1A4-AD2D-C1C3AD27BB64</attachmentEntryID>
@@ -20933,13 +20917,13 @@ margin: 0cm;  margin-bottom: .0001pt;  line-height: 115%;  font-size: 11.0pt;  f
                 <attachmentEntryID>C3567442-50E1-02C1-B45A-6F6D06BE08C1</attachmentEntryID>
             </AttachmentEntries>
             <objectID>A35916B5-7608-6F21-7BC9-A0335815B679</objectID>
-            <name>Mapa de Acre, Petrus Vesconte, siglo XVII, Civitas Acon Sive Ptolomayda.jpg</name>
+            <name>Mapa de Acre, Petrus Vesconte, copia del siglo XVII, Civitas Acon Sive Ptolomayda, BNI.jpg</name>
             <attachmentType>1</attachmentType>
-            <location>A35916B5-7608-6F21-7BC9-A0335815B679\Mapa de Acre, Petrus Vesconte, siglo XVII, Civitas Acon Sive Ptolomayda.jpg</location>
+            <location>A35916B5-7608-6F21-7BC9-A0335815B679\Mapa de Acre, Petrus Vesconte, copia del siglo XVII, Civitas Acon Sive Ptolomayda, BNI.jpg</location>
             <dataLength>271738</dataLength>
             <format>.jpg</format>
             <creationDateTime>2014-01-29 12:49:54.834 @+0200</creationDateTime>
-            <modificationDateTime>2014-02-05 14:09:11.509 @+0200</modificationDateTime>
+            <modificationDateTime>2014-02-27 15:13:53.077 @+0200</modificationDateTime>
         </Attachment>
         <Attachment>
             <guid>E3414E9B-797C-1C7C-EF70-39E471FB1657</guid>
