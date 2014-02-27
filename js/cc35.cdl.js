@@ -96,11 +96,13 @@
       .attr('width', '100%')
       .attr('height', '100%')
       .style('fill', 'transparent')
-      .on('dblclick.zoom', null)
-      .on('touch', null)
-      .on('touchstart', null)
-      .on('touchmove', null)
-      .on('touchend', null)
+      .on('dblclick.zoom', function(){d3.event.stopPropagation();})
+      .on('touchstart', function(){d3.event.preventDefault();})
+      .on('touchmove', zoomSvg)
+      .on('touchend', function(){d3.event.preventDefault();})
+      .on('gesturestart', function(){d3.event.stopPropagation();})
+      .on('gesturechange', zoomSvg)
+      .on('gestureend', function(){d3.event.stopPropagation();})
       .call(zoomSvg);
 
     // Background.
