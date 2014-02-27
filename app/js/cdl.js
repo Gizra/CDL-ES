@@ -59,7 +59,8 @@
    * @param height
    */
   function prepareScenario() {
-    var initialScaleOnZoom;
+    var initialScaleOnZoom,
+        lastScaleZoomed;
 
     function zoomstart() {
       initialScaleOnZoom = draw.getScale();
@@ -67,19 +68,22 @@
 
     // Zoom Behaviours.
     function zoom() {
-      system
-        .attr('transform', 'translate(' + d3.event.translate + ')scale(' + d3.event.scale + ')');
+      console.log(d3.event);
+
+      system.attr('transform', 'translate(' + d3.event.translate + ')scale(' + d3.event.scale + ')');
+
 
       // Store current position and zoom ratio.
       draw.setPositionByTransform(system.attr('transform'));
       draw.setScale(d3.event.scale);
+      lastScaleZoomed = draw.getScale();
     }
 
     function zoomend() {
       if (typeof draw.getScale() === 'undefined' || initialScaleOnZoom === draw.getScale()) {
         return;
       }
-      // Redraw the chart.
+
       draw.all(draw.getScale());
     }
 
@@ -90,6 +94,13 @@
       .on('zoom', zoom)
       .on('zoomend', zoomend);
 
+    function onlyZoomSvg() {
+      return function() {
+        d3.event.preventDefault();
+        return zoomSvg;
+      };
+    }
+
     // Canvas.
     svgContainer = d3.select('body').append('svg')
       .attr('id', 'chart')
@@ -97,10 +108,12 @@
       .attr('height', '100%')
       .style('fill', 'transparent')
       .on('dblclick.zoom', null)
-      .on('touch', null)
-      .on('touchstart', null)
-      .on('touchmove', null)
-      .on('touchend', null)
+      .on('touchstart', zoomSvg)
+      .on('touchmove', zoomSvg)
+      .on('touchend', zoomSvg)
+      .on('gesturestart', zoomSvg)
+      .on('gesturechange', zoomSvg)
+      .on('gestureend', zoomSvg)
       .call(zoomSvg);
 
     // Background.
@@ -114,6 +127,8 @@
     // System.
     system = svgContainer.append('g')
       .attr('id', 'system');
+
+    
   }
 
   /**
