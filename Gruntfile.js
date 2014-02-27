@@ -444,23 +444,23 @@ module.exports = function (grunt) {
         overwrite: true,
         replacements: [{
           from: '<link rel="stylesheet" href="css/',
-          to: '<link rel="stylesheet" href="//gizra.github.io/CDL-ES/css/'
+          to: '<link rel="stylesheet" href="//bnideposito.fundaciongsr.com/css/'
         },
         {
           from: '<script src="js/',
-          to: '<script src="//gizra.github.io/CDL-ES/js/'
+          to: '<script src="//bnideposito.fundaciongsr.com/js/'
         },
         {
           from: '<script src="/js/',
-          to: '<script src="//gizra.github.io/CDL-ES/js/'
+          to: '<script src="//bnideposito.fundaciongsr.com/js/'
         },
         {
           from: 'url(/fonts/',
-          to: 'url(http://gizra.github.io/CDL-ES/fonts/'
+          to: 'url(http://bnideposito.fundaciongsr.com/fonts/'
         },
         {
           from: 'url(/images/',
-          to: 'url(http://gizra.github.io/CDL-ES/images/'
+          to: 'url(http://bnideposito.fundaciongsr.com/images/'
         }]
       }
     },
