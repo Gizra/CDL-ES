@@ -59,8 +59,7 @@
    * @param height
    */
   function prepareScenario() {
-    var initialScaleOnZoom,
-        lastScaleZoomed;
+    var initialScaleOnZoom
 
     function zoomstart() {
       initialScaleOnZoom = draw.getScale();
@@ -68,15 +67,11 @@
 
     // Zoom Behaviours.
     function zoom() {
-      console.log(d3.event);
-
       system.attr('transform', 'translate(' + d3.event.translate + ')scale(' + d3.event.scale + ')');
-
 
       // Store current position and zoom ratio.
       draw.setPositionByTransform(system.attr('transform'));
       draw.setScale(d3.event.scale);
-      lastScaleZoomed = draw.getScale();
     }
 
     function zoomend() {
