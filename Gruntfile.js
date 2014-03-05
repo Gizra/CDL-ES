@@ -323,7 +323,7 @@ module.exports = function (grunt) {
             var attachments = grunt.config.get('CDL.attachments'),
               newFilename;
 
-            src = he.encode(src).replace(/,| |\'|[a-z|A-Z]&#x301;|[a-z]&#x303;|&#x27;|[a-z|A-Z]&#x308;|&#xC1;/g, '');
+            src = he.encode(src).replace(/,| |\'|[a-z|A-Z]&#x301;|[a-z]&#x303;|&#x27;|[a-z|A-Z]&#x308;|&#xC1;|&#x201C;|&#x201D;/g, '');
 
             grunt.log.writeln(['filename: ', src ]);
 
@@ -677,7 +677,7 @@ module.exports = function (grunt) {
       nodesAttachmentsByFilename = nodesAttachments;
       _.each(nodesAttachmentsByFilename, function(node) {
         grunt.log.writeln(node.location);
-        node.location = he.decode(node.location).replace(/,| |\'|[\u00C0-\u00FC]/g, '').replace(/\\/g, '/');
+        node.location = he.decode(node.location).replace(/,| |\'|[\u00C0-\u00FC]|[\u2000-\u206F]/g, '').replace(/\\/g, '/');
       });
 
       // Index attachments.
